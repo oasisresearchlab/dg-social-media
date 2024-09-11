@@ -1,0 +1,199 @@
+---
+title: "@choInfluencingMyselfSelfReinforcement2018"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/qNvooE66m
+author: Michael Gartner
+date: Sat Mar 18 2023 22:32:40 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Influencing Myself: Self-Reinforcement Through Online Political Expression
+    - Year:: 2018
+    - Author(s):: Jaeho Cho, Saifuddin Ahmed, Heejo Keum, Yun Jung Choi, Jong Hyuk Lee
+    - Abstract:: Over the past decade, various online communication platforms have empowered citizens to express themselves politically. Although the political impact of online citizen expression has drawn considerable attention, research has largely focused on whether and how citizen-generated messages influence the public as an information alternative to traditional news outlets. The present study aims to provide a new perspective on understanding citizen expression by examining its political implications for the expressers themselves rather than those exposed to the expressed ideas. Data from a national survey and an online discussion forum study suggest that expressing oneself about politics provides self-reinforcing feedback. Political expressions on social media and the online forum were found to (a) reinforce the expressers’ partisan thought process and (b) harden their pre-existing political preferences. Implications for the role the Internet plays in democracy will be discussed.
+    - Type:: Article
+    - Publication:: Communication Research
+    - URL:: https://doi.org/10.1177/0093650216644020
+    - Date Added:: [[June 30th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/DLRUI8YM), [Web Library](https://www.zotero.org/groups/4985507/items/DLRUI8YM)
+    - Publication Tags::
+    - PDF links:: [choInfluencingMyselfSelfReinforcement2018.pdf](zotero://open-pdf/groups/4985507/items/MXZRUPPP)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Jay Patel]]
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+                - yes!
+                - although this one can file away as related (not core, not involving online/social media): [[[[CLM]] - Individuals’ candidate preferences grows more stable as Election Day approaches]]
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - Political expression strengthens the effects of party identity and political opinions.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - [[[[CLM]] - Individuals' candidate preferences grow stronger as people engage more in political expression on an online forum.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - Regression analyses of American adults showed that the relationship between political party and political opinions increased as people expressed themselves politically. - [[@choInfluencingMyselfSelfReinforcement2018]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): yes
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes
+                        - [x] add info + supporting snippets  on statistical modeling approach
+                - [[[[EVD]] - Estimating the conditional effects of the data for American adults showed that party identification predicted political opinions at any value of political expression, but the relationship was stronger when political expression was high. - [[@choInfluencingMyselfSelfReinforcement2018]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] add: American adults
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes
+                        - [x] as above, add info + supporting snippets on statistical modeling approach
+                - [[[[EVD]] - According to a conditional latent growth curve model (LGM), American adults' online political expression increased support for their candidate.  - [[@choInfluencingMyselfSelfReinforcement2018]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] add: American adults
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes
+                        - [x] add info + supporting snippets on statistical modeling approach
+            - **All relevant CLM and EVD mappings described:** yes!
+            - **General notes**
+        - [x] #revised by [[Jay Patel]]
+        - [ ] #approved by [[Joel Chan]]
+    - **Scratchpad**
+        - **[[Jay/Claude]] - accurate**
+            - Here is a nested outline for the Cho et al. research article:
+            - **Assumptions:**
+                - **Theoretical assumption**: Expressing political views reinforces individuals' prior partisan thought processes and political preferences (p. 84, para 2-3)
+                - **Theoretical assumption**: Political expression involves intrapersonal reasoning that aligns ideas with pre-existing orientations (p. 87, para 3)
+                - **Theoretical assumption**: After expressing views publicly, individuals feel committed to remain consistent due to self-perception and cognitive dissonance (p. 88-89)
+                - Page 84, paragraph 2-3: "Research suggests that engaging in political conversation reinforces individuals’ pre-existing partisan disposition. Psychological biases (e.g., homophily) in communication processes primarily account for the partisan reinforcement caused by political conversation."
+                - Page 87, paragraph 3: "We thus postulate that the intrapersonal cognitive elaboration before and during expression is an opportunity to organize and augment one’s prior attitudes, unless the domains of thought are highly sensitive politically or involve concerns of social desirability."
+                - Page 88-89: "Taken together, we posit that expressing oneself has self-constraining effects on the part of the expresser, committing them further to what they have said. This happens both through internal mechanisms (i.e., self-perception and dissonance avoidance) and perceived social pressure toward self-commitment."
+            - **Questions and hypotheses:**
+                - **Question**: Does expressing political views on social media reinforce partisan thought processes? (p. 90)
+                    - Hypothesis 1: As political expression on social media increases, the impact of party identification on political opinions will become stronger. (p. 90)
+                - **Question**: Does expressing political views online reinforce individuals' political preferences over time? (p. 96)
+                    - Hypothesis 2a: Individuals' candidate preferences will become more stable as Election Day approaches. (p. 96)
+                    - Hypothesis 2b: The pattern of growing preference for a candidate will become stronger with more online political expression. (p. 96)
+            - **Prior literature:**
+                - Political discussion with like-minded others reinforces partisan dispositions (p. 84-85)
+                - Online political discussion varies in selectivity - some studies show cross-cutting exposure while others show segregation (p. 85-87)
+                - Political expression involves clarifying thoughts which can have deliberative benefits (p. 87, para 2)
+                - Routinely, political expression reflects individuals' dispositions more than impartial reasoning (p. 87, para 3)
+            - **Knowledge gaps: **
+                - Unclear whether political expression uniquely affects expressers' opinions (p. 102, para 2)
+                - Unknown how tone and emotions resulting from expression may moderate its effects (p. 104-105)
+                - **Methods:**
+                    - **Study 1:**
+                        - Setting: United States (p. 90)
+                        - Participants: 1209 U.S. social media users from national survey (p. 90-91)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F9pMgSO6Owy.png?alt=media&token=831d35cb-c5df-4998-9fde-9b55a68f7c23)
+                        - Measures: Party identification, political opinions, political expression on social media (p. 90-91)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FjU-RlhJVdr.png?alt=media&token=ee62148d-e162-4a3e-ac7b-003a54bd3b2e)
+                        - Design: Regression models testing interaction between expression and party ID predicting political opinions (p. 92-93)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FrrfoR14hTi.png?alt=media&token=829f2d50-e183-42f6-b0a6-e19a705ac9ce)
+                        - Sample size: 1209 respondents who reported using social media (p. 90)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F9pMgSO6Owy.png?alt=media&token=831d35cb-c5df-4998-9fde-9b55a68f7c23)
+                    - **Study 2:**
+                        - Setting: Online forum during 2012 South Korean election (p. 96)
+                        - Participants: 334 South Koreans participating in online forum (p. 96-97)
+                        - Measures: Candidate preferences, posting/reading on forum (p. 97)
+                        - Design: Latent growth curve modeling testing effects of expression on preference changes over time (p. 98-100)
+                        - Sample size: 334 participants, 311 included in analysis after excluding undecided voters (p. 96-97)
+            - **Analytic techniques:**
+                - Study 1: Regression analysis using PROCESS macro (p. 92-93)
+                - Study 2: Latent growth curve modeling to assess preference changes over time and predict changes using online expression (p. 98-100)
+            - **Claims and Results/Evidence:** - had to redo this chunk
+                - Political expression strengthens alignment between partisan identities and political opinions.
+                    - Supported by
+                        - According to regression analysis, the relationship between party ID and political opinions grew stronger as social media political expression increased, after controlling for political engagement and discussion (Table 1; p. 92-93).
+                - Political expression reinforces individuals' political preferences over time.
+                    - Supported by
+                        - According to latent growth curve modeling, individuals' relative candidate preferences increased over time, and this pattern of preference stability was greater for those with more online political expression (Figure 3; p. 100-101).
+                - Online political expression increases political engagement.
+                    - Supported by
+                        - Political expression on social media was positively associated with political engagement, including behaviors like political discussion online, voting, and petition signing (p. 90-91).
+                    - Opposed by
+                        - According to latent growth curve modeling, reading others' posts on the online forum was not associated with changes in relative candidate preferences over time (p. 101).
+            - **Practical implications:  **
+                - Political expression online may increase confidence in views but also contribute to polarization (p. 103, para 2)
+                - Social media's participatory culture may entrench partisan divides rather than foster deliberation (p. 103, para 3)
+            - **Theoretical & ontological implications: **
+                - Political expression can affect opinion formation of expressers, not just message recipients (p. 102, para 1)
+                - Expression and exposure effects should be considered separately in political discussion (p. 102, para 2)
+                - Features of expression like tone may change its outcomes, complicating the observed effects (p. 104-105)
+            - **Limitations:**
+                - Data collected in different countries (South Korea and U.S.) may confound results (p. 104, para 1)
+                - Expression effects tested based only on frequency, not content features (p. 104, para 2)
+            - **Future research:**
+                - Test expression effects separating unique variance from reading others' posts (p. 101, para 5)
+                - Examine whether tone and emotions resulting from expression moderate its effects (p. 105)
+                - Replicate findings in a single cultural context (p. 104-105)
+        - **Jay - manual**
+            - **Study 1: (Secondary) Data**
+                - Year: 2012
+                - Dates: July 16, August 7
+                - Study: Pew Internet and American Life Study (Rainie, Smith, Schlozman, Brady, & Verba, 2012).
+                - Sample size: 2,253 adults
+                    - Subset used for this study: N = 1,209 because they reported using at least one social networking site
+                - Internet use: 83% of sample
+                - Cooperation rates: 8.2% for landline and 16.7% for cellular
+                - **Measures**
+                    - **Political expression (four questions)**
+                        - Sum scores, index from 0-4
+                        - reliability: alpha = 0.83, M = 1.28, SD = 1.51
+                            - post links to stories/articles
+                            - post their own thoughts or comments
+                            - repost content
+                            - like or promote content
+                    - **Party identification**
+                        - Sum scores 1 (Rep) to 5 (Democrat)
+                        - M = 3.16, SD = 1.58
+                            - Q1: In politics today, do you consider yourself a Republication, Democrat, or Independent?
+                            - Q2: If identified as Independent, as of today, do you lean more to the Republican Party or more to the Democratic Party?
+                    - **Political opinion**
+                        - Likert Scale
+                        - M = 3.79, SD = 2.14
+                            - opinions about
+                                - spending (7 pt)
+                                - abortion (4 pt.)
+                                - same-sex marriage (3 pt.)
+                            - lean towards Tea Party vs. Occupy Wall Street (3 pt)
+                            - vote for Obama vs. Romney (5 pt)
+                - **Controls**
+                    - political participation, online and off-line political discussion, mobilization contacts, internal political efficacy, political trust
+            - **Study 2: (Primary) Data**
+                - **Year**: 2012
+                - **Duration**: three weeks
+                - **Partner**: Embrain, research firm in Korea
+                - **Setting**: online discussion forum for Korean Presidential election
+                    - Website: An Online Forum about the 18th Korean Presidential Election
+                - **Sample**: N = 400 from million or so verified people
+                    - Attrition: 64 people
+                - **Reward**: $100 USD
+                - **Measures**: three surveys measuring candidate evals, political comm behaviors, dispositions, ideologies, interest, knowledge, efficacy, and participation
+                    - Wave 1: beginning
+                    - Wave 2: middle
+                    - Wave 3: end
+                - **Log Data:** retrieved from server of EMBRAIN and used to determine participants' reading and posting during the study period
+                - **Controls**
+                    - political engagement, political comm behaviors
+    - [[CLM]] and [[EVD]] summary tree
+        - [[[[CLM]] - Political expression strengthens the effects of party identity and political opinions.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - Regression analyses of American adults showed that the relationship between political party and political opinions increased as people expressed themselves politically. - [[@choInfluencingMyselfSelfReinforcement2018]]]]
+                - [[[[EVD]] - Estimating the conditional effects of the data for American adults showed that party identification predicted political opinions at any value of political expression, but the relationship was stronger when political expression was high. - [[@choInfluencingMyselfSelfReinforcement2018]]]]
+        - [[[[CLM]] - Individuals' candidate preferences grow stronger as people engage more in political expression on an online forum.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to a conditional latent growth curve model (LGM), American adults' online political expression increased support for their candidate.  - [[@choInfluencingMyselfSelfReinforcement2018]]]]
+        - [[[[CLM]] - Individuals’ candidate preferences grows more stable as Election Day approaches]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to a repeated-measures ANOVA, and latent growth curve modeling (LGM, unconditional model), individuals' candidate preferences grew more stable as Election Day approached. - [[@choInfluencingMyselfSelfReinforcement2018]]]]
+
+###### Discourse Context
+
+

@@ -1,0 +1,176 @@
+---
+title: "@arugueteNewsSharingGatekeeping2020"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/RltM7vbNI
+author: Joel Chan
+date: Thu Jun 22 2023 11:45:46 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: News Sharing, Gatekeeping, and Polarization: A Study of the #Bolsonaro Election
+    - Year:: 2020
+    - Author(s):: Natalia Aruguete, Ernesto Calvo, Tiago Ventura
+    - Abstract:: The increasing importance of news sharing, and its effect on the routines, practices, and values described by the hierarchy of influences model, raises new questions about content creation in polarized social media environments. How does news sharing change the gatekeeping preferences of news organizations? Will polarized users polarize news organizations further?
+In this article, we model news sharing behavior in social media and derive implications for the study of gatekeeping in political communication. We model users’ news sharing behavior using observational data from Twitter and then use the parameters from our model to explain its effect on editorial gatekeeping. The article provides a road map for researchers interested
+in the relationship between these major theories in political communication. We test our model using Twitter data collected during the election of populist leader Jair Bolsonaro in Brazil.
+    - Type:: Article
+    - Publication:: Digital Journalism
+    - URL:: https://doi/org/10.1080/21670811.2020.1852094
+    - Date Added:: [[June 22nd, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/XJEDVQHG), [Web Library](https://www.zotero.org/groups/4985507/items/XJEDVQHG)
+    - Publication Tags:: py-import
+    - PDF links:: http://gvptsites.umd.edu/calvo/static/media/news_sharing.2e202036.pdf
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Carolina Franca Tristao Batista]]
+        - [x] #checked by [[Flavia Batista]]
+            - CLM nodes conform to the style guide
+                - [[[[CLM]] - More reputable outlets rely less on users' ideological preferences, whether congruent or dissonant, to attract engagement.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [ ] reference the CLM screenshot in the body of the CLM page
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - [[[[CLM]] - Social media polarization affects media organizations, with higher reputation outlets converging towards the median voter and lower reputation outlets catering to local median voters in different communities.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+            - EVD nodes conform to the style guide
+                - [[[[EVD]] - Significant variation on activation. Larger news organizations are shared widely across users from different ideologies. Smaller outlets were narrowly linked to a specific group. [[@arugueteNewsSharingGatekeeping2020]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes!
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): sort of
+                    - [lower level of description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): rewrite from activation (construct level) to number of posts/retweets (operationalization)
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims):
+            - old
+                - CLM nodes conform to the [CLM style guide](Claim ([[CLM]]) nodes #.sticky): yes
+                - CLMs redundant/mergeable with existing CLMs in the Master Index: no
+                - EVD nodes conform to the [EVD style guide](Evidence ([[EVD]]) nodes #.sticky): yes
+                - All relevant CLM and EVD mappings described: yes
+                - Missing the bullet point "analysis".
+                    - Done
+                - I'd recommend including the evidence in the scratchpad under a bullet point named "key results" instead of including them as part of the EVD --> based on Joel's example
+                    - Following the @banksPolarizedFeedsThreeExperiments2021 example of figures and quotes in EVD nodes.
+        - [x] #checked by [[Joel Chan]]
+            - CLMs
+                - [[[[CLM]] - Less reputable news organization rely most heavily on users' ideological preferences to attract engagement.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): can possibly rephrase to "Less reputable news organization rely most heavily on users' ideological preferences to attract engagement
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [x] add context of claim from source to CLM page
+                        - context of clms in conclusion:
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FSeJAQOeozm.10.57.png?alt=media&token=f8b1d862-4ee8-41c3-aec8-64a63150e0e6) (p. 29)
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): yes :)
+                - [[[[CLM]] - Social media polarization affects media organizations, with higher reputation outlets converging towards the median voter and lower reputation outlets catering to local median voters in different communities.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes.
+                        - though perhaps could later rephrase to "media outlet reputation moderates relationship between social media polarization and media behavior"
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [x] add context of claim from source to CLM page
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): yes
+                - [[[[CLM]] - Cognitive dissonance is higher on the extremes of the groups formed by supporters of the opposition and the incumbent.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): somewhat
+                        - generalized ok, but i think i'm missing some context for the relationship between this clm as written, and the evidence that is purported to support this. what groups are being referred to here?
+                            - [x] clarify clm (what groups are being referred to here?)
+                                - It's the groups that are polarized between two candidates. I clarified, but now I think it's not as generalized.
+                                    - i agree but i think it's ok! bc the original was too generalized
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [x] add context of claim from source to CLM page
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): yes
+            - EVDs
+                - [[[[EVD]] - Activation largely varied depending on outlet reputation. Larger news organizations were shared widely across users from different ideologies. Smaller outlets were narrowly linked to a specific group.
+ - [[@arugueteNewsSharingGatekeeping2020]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): somewhat
+                        - [x] clarify: significant variation on activation as a function of...? outlet size?
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] make past tense
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): some fixes needed
+                        - [x] clarify: i don't see connection between the plot and the EVD statement about variation as a function of outlet size? or a function of news outlet reputation?
+                            - Carolina: Each dot represents each "share" of content. Blue dots are Bolsonaro supporters and Red dots are PT/Haddad supporters. Figure A consists of larger/more reputable outlets. Figure B consists of smaller/less reputable outlets. Both groups largely share content from large/more reputable outlets, while usually only one group is inclined to share content from smaller/less reputable outlets.
+                            - in screenshot of in-text statement, they reference Figure 1a, which doesn't make sense
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FVE3mByl9S9.28.10.png?alt=media&token=85d79d70-3441-4532-80c2-bb801d792267)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FxnmtqUP0mu.28.29.png?alt=media&token=81dee3e1-9a23-4100-a73a-ece2fcbc22ab) (pp. 21-22)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FMeXJlMGavG.27.31.png?alt=media&token=85661718-2f5d-4a9f-9dd4-a34a3d5e09a1) (p. 13)
+                            - i am thinking that maybe the mention of outlet size is a red herring, and Figure 1a should actually be Figure 6a in the in-text reference??
+                                - Yes, it should be Figure 6a.
+                        - [x] please include screenshot of the in-text statement also
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): i think most of what is needed is there, just need to note some missing context
+                        - [x] clarify how media outlet reputation is measured/operationalized, or note that it is not described
+                            - reputation is a key construct and measure, but it is not at all clear to me how it was measured?
+                        - [x] fix [analysis](**Analysis**: equilibrium models for parameter permutations and its comparison to users' content preference. Empirical parameter estimates were obtained using a generalized linear binomial count model.) to note that empirical parameter estimates were obtained using a generalized linear binomial count model
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FkrF05t7Qj6.09.36%402x.png?alt=media&token=6559158f-267c-492d-a9d1-b7b2dc93c28f) (p. 24)
+                - [[[[EVD]] - More reputable outlets had greater incentives to adjust editorial lines. Less reputable outlets were already sending messages congruent to their preferred user. - [[@arugueteNewsSharingGatekeeping2020]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                        - perhaps could rephrase more clearly as "greater media outlet reputation was associated with greater differences between observed and estimated optimal location"
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] rephrase as past tense
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): mostly, some todos
+                        - [x] please include screenshot of the in-text statement also
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): some info missing
+                        - [x] add info about optimal location as a measure
+                            - i think the "optimal location" estimate here is perhaps related to the [estimates from the equilibrium models](**Analysis**: equilibrium models for parameter permutations and its comparison to users' content preference. Empirical parameter estimates were obtained using a generalized linear binomial count model.), which are not actually the analysis, but from their theory/model. in other words, their theory gives them a way to create a predicted "optimal location" that they can then compare to the observed location of each outlet
+                - [[[[EVD]] - Extreme users strongly prioritized cognitive congruence in news sharing, in both pro- and anti-Bolsonaro communities. Ideological congruence become less important towards the network center. - [[@arugueteNewsSharingGatekeeping2020]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] make past tense
+                    - [lower level of description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): some fixes needed
+                        - [x] please include screenshots of the text also
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): yes
+            - All relevant CLM and EVD mappings described: Yes!
+                - Skipping: None
+            - General notes
+                - Whew! This was a tough one. It's a weird combo of part-theory and terribly documented empirical study, with v little signposting and lots of missing details.
+        - [x] #[[revised]] by [[Carolina Franca Tristao Batista]]
+        - [x] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+        - **Participants and setting**: 2,943,993 tweets from 162,107 high activity accounts during the election of Jair Bolsonaro in Brazil. The tweets contained the word "Bolsonaro" and users that retweeted less than three times were eliminated from the final sample.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F_saiN5OUGi.32.54%20PM.png?alt=media&token=067fde3e-74d6-486a-a4f3-9cd951a54ee0) (p.4)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FTEOVXzpuBP.51.17%20PM.png?alt=media&token=3e0daf98-d257-4cb8-a6ac-25f11faba96d) (p.18)
+        - **Design**: Network analysis based on user link embedding, considering the political alignment of the user and reputation of the media outlet.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FnoU41JyyNS.png?alt=media&token=0514efc7-229a-493f-9e1a-1e5f918e0e3f) (p.16-17)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fge1cvuPKaU.05.51%20PM.png?alt=media&token=50718ced-be8c-4b6c-a904-54e8148567d7) (p.20)
+        - **Materials**: tweets containing the keyword "Bolsonaro" during the period surrounding the Brazilian 2018 Presidential election.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FTEOVXzpuBP.51.17%20PM.png?alt=media&token=3e0daf98-d257-4cb8-a6ac-25f11faba96d) (p.18)
+        - **Measure: media outlet reputation**: used in several analyses, but no information on how it was measured
+            - Some references in introduction to a survey that may contain the actual measure/items
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F-_appNKwOA.42.31.png?alt=media&token=f620580a-79b7-41e0-8327-059d5d928523) (p. 25)
+            - And [this figure](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Frx4v8cA50t.09.07%20AM.png?alt=media&token=170d9887-98a6-4f78-acae-23fd6e387d30) (p. 27)) seems to estimate based on survey responses? but from whom? and they don't use this actually, instead discarding it for a binary more vs. less reputable outlets (e.g., [here](((CKEfRK0j0))))...
+            - But [[Carolina Franca Tristao Batista]] who has domain experience as a researcher and Brazilian, thinks the classification of more vs. less reputable mostly makes sense (most reputable ones are traditional media outlets, and less reputable are mostly blogs that got very popular)
+            - We can also ask Ernesto for more details if we need it (Carolina and Flavia's advisor!)
+        - **Outcome measure**: Content activation by number of times users posted or retweet from media source. Cognitive congruence/dissonance by distance between user and media locations across the network by deciles.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FY8oVZM0ql_.32.37%20AM.png?alt=media&token=9dbcf1d4-eb12-4a63-b242-8ea4fb73c131) (p.21)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fz6JTOLb5L0.30.09%20AM.png?alt=media&token=3b996a94-a197-4aa5-bb84-69e7e39f8a92) (p.24)
+        - **Analysis**: equilibrium models for parameter permutations and its comparison to users' content preference. Empirical parameter estimates were obtained using a generalized linear binomial count model.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FLOrDLo3UZi.35.31%20PM.png?alt=media&token=7b405424-874d-40ff-9464-2e174e8aa432) (p.11)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FM4u3VwKHew.36.22%20PM.png?alt=media&token=332bfaad-2b33-42d0-b95a-6ab7346a38ed) (p.10)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F-gyCYBwcAi.36.55%20PM.png?alt=media&token=27c35939-597b-43d4-92ec-44218fa7affb) (p.11)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FkrF05t7Qj6.09.36%402x.png?alt=media&token=6559158f-267c-492d-a9d1-b7b2dc93c28f) (p. 24)
+    - CLM and EVD summary tree
+        - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+        - [[[[CLM]] - Less reputable news organization rely most heavily on users' ideological preferences to attract engagement.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FjLp3JkRZxl.46.07%20PM.png?alt=media&token=eb311714-cb1e-430f-b430-f7f2c1b0b1c6) (p.29)
+            - [[SupportedBy]]
+                - [[[[EVD]] - Activation largely varied depending on outlet reputation. Larger news organizations were shared widely across users from different ideologies. Smaller outlets were narrowly linked to a specific group.
+ - [[@arugueteNewsSharingGatekeeping2020]]]]
+                    - The plots show the influence of ideology on user engagement, with larger negative values indicating greater importance. Each dot represents each "share" of content. Blue dots are Bolsonaro supporters and Red dots are opposition supporters. Figure A consists of larger/more reputable outlets. Figure B consists of smaller/less reputable outlets. Both groups largely share content from large/more reputable outlets, while usually only one group is inclined to share content from smaller/less reputable outlets.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FBJhThNDcJ3.png?alt=media&token=2f3266e7-d621-4a9b-b617-a541bf34e0f1) (p.20-22)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fo2RQYkXE2f.21.48%20PM.png?alt=media&token=361ccad8-f8bf-4196-80d5-c9065176d769) (p.23)![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fv0kfY0EdjH.22.13%20PM.png?alt=media&token=4ac7d2de-1131-4ab6-95a3-e323f4c169dc) (p.23)
+                        - The methodology for the final classification of outlet reputation is not clear. There is an estimate of reputation in Figure 8, but it is not clear how that was assessed. Besides, Figure 8 does not reflect the final classification pictured in Figures 6a and 6b. It seems that "More Reputable News Organizations" refers to traditional media outlets, and "Less Reputable News Organizations" to the remaining outlets.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FwddCMY293m.28.58%20PM.png?alt=media&token=fc978031-f39c-489e-a907-e37a0d6ae163) (p.25)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fyeol7f65oa.29.16%20PM.png?alt=media&token=90babc4a-5f71-4662-9ffa-0307cbfb6f80) (p.27)
+        - [[[[CLM]] - Social media polarization affects media organizations, with higher reputation outlets converging towards the median voter and lower reputation outlets catering to local median voters in different communities.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FtAgvJ5RIhH.51.39%20PM.png?alt=media&token=81562acc-4c27-490f-b999-fa37f43a2146) (p.13)
+            - [[SupportedBy]]
+                - [[[[EVD]] - More reputable outlets had greater incentives to adjust editorial lines. Less reputable outlets were already sending messages congruent to their preferred user. - [[@arugueteNewsSharingGatekeeping2020]]]]
+        - [[[[CLM]] - Cognitive dissonance is higher on the extremes of the groups formed by supporters of the opposition and the incumbent.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F4H2ml-rYmX.png?alt=media&token=ad793f3f-8069-4edf-82dd-ddb0612e77a5) (p. 30-31)
+            - [[SupportedBy]]
+                - [[[[EVD]] - Extreme users strongly prioritized cognitive congruence in news sharing, in both pro- and anti-Bolsonaro communities. Ideological congruence become less important towards the network center. - [[@arugueteNewsSharingGatekeeping2020]]]]
+
+###### Discourse Context
+
+

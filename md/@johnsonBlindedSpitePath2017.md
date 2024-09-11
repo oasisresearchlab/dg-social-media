@@ -1,0 +1,128 @@
+---
+title: "@johnsonBlindedSpitePath2017"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/7W_YfCg-1
+author: Joel Chan
+date: Mon Jun 26 2023 19:44:06 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Blinded by the Spite? Path Model of Political Attitudes, Selectivity, and Social Media
+    - Year:: 2017
+    - Author(s):: Thomas J. Johnson, Barbara K. Kaye, Angela M. Lee
+    - Abstract:: Despite fears that selective exposure and selective avoidance could deepen polarization and negatively affect the democratic process, few studies have directly studied this phenomenon. This study explores whether selective exposure and avoidance to blogs, social network sites, and Twitter directly influence confidence in Congress and the president or more indirectly through polarization. This study suggests that fears of selective exposure, selective avoidance, and polarization infecting the democratic process appear overstated. First, polarization was positively related to confidence in Congress and the president. Second, selective exposure to social media sites strengthens confidence in the president and in Congress. Twitter boosts confidence in Congress. Third, selective avoidance had a negative influence on other measures, which suggests people seek both information that challenges their views as well as ones that supports them. Finally, selective exposure and avoidance proved weak indicators of polarization. Instead, strength of partisanship is the stronger predictor of confidence in Congress and the president.
+    - Type:: Article
+    - Publication:: Atlantic Journal of Communication
+    - URL:: https://doi.org/10.1080/15456870.2017.1324454
+    - Date Added:: [[June 27th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/P3RUJ2RE), [Web Library](https://www.zotero.org/groups/4985507/items/P3RUJ2RE)
+    - Publication Tags:: Selective exposure Twitter blogs polarization selective avoidance social network sites
+    - PDF links:: [johnsonBlindedSpitePath2017.pdf](zotero://open-pdf/groups/4985507/items/49DZYDDM)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Carolina Franca Tristao Batista]]
+        - [x] #checked by [[Joel Chan]]
+            - CLM nodes conform to the [CLM style guide](Claim ([[CLM]]) nodes #.sticky): somewhat, see details
+                - [[[[CLM]] - Polarization is positively related to confidence in government.]]
+                    - **atomic and generalized:** yes!
+                    - **source referenced in body of CLM page:** no
+                        - [x] need to have reference to the source in the CLM page itself for both CLMs
+                    - **positive:** yes!
+                - [[[[CLM]] - Fears of selective exposure, selective avoidance, and polarization infecting the democratic process appear overblown.]]
+                    - **atomic and generalized:** yes!
+                    - **source referenced in body of CLM page:** no
+                        - [x] need to have reference to the source in the CLM page itself for both CLMs
+                    - **positive:** no
+                        - should be restated as CLM - Selective exposure, avoidance and polarization are infecting the democratic process. generalization might even be "polarization has negative effects on the democratic process"
+                            - CLM - Selective exposure, avoidance and polarization are infecting the democratic process
+                                - Opposed By
+                                    - CLM - Selective exposure and selective avoidance predict polarization, but they are weaker indicators than strength of party ties
+                                        - Supported By
+                                            - EVD - US respondents who self-reported selectively using social networking sites with political content that aligned with their own views were more likely to have a stronger difference in favorability ratings between Republican vs. Democratic parties
+                        - and then the specific EVDs oppose this positive claim.
+                        - [x] rewrite this CLM in a positive way
+                        - [x] change the EVD relationships to be "opposed by"
+            - CLMs redundant/mergeable with existing CLMs in the Master Index: n/a
+                - can't check yet because nothing in master index yet
+            - EVD nodes conform to the [EVD style guide](Evidence ([[EVD]]) nodes #.sticky): revisions needed, see below
+                - [[EVD]] - Selective exposure to social media strengthened confidence in the president and in Congress. Similarly, selective avoidance of social media was negatively related to confidence in the president and Congress - [[@johnsonBlindedSpitePath2017]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): no, this EVD describes two separate effects
+                        - [x] split into separate effects unless they really go together
+                            - They go together. It's the same effect. Rephrased.
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] rewrite in past tense
+                    - [lower level of description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**):
+                        - yes, president and congress ok, can sorta infer US context, but better to include note about US context, and i prefer to use terms from the scale itself, rather than the construct, unless it is a validated scale (e.g., in psych, the implicit association test)
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims):
+                        - [x] need the actual measures from the survey items
+                            - reliance on social media:
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FigE1u4ImGi.13.19.png?alt=media&token=d37a57e4-2884-4d0a-8366-e72020ab3f90) (p. 186)
+                            - selective exposure and selective avoidance
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F5j_JCEY8Xv.13.39.png?alt=media&token=c5f109a4-9fa2-41b8-b61b-c68bbb095238) (p. 186)
+                            - polarization
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FksrghZyUFc.14.00.png?alt=media&token=16786e3d-db1e-4c4b-8091-6db774717d7b) (p. 186)
+                            - looking at the actual scale makes clear that they're lumping in blogs and twitter, and not really clarifying/targeting any particular sites
+                            - and also makes clear that their polarization construct here is v different from [[[[EVD]] - US survey respondents self-reported greater ideological distance between Donald Trump and Hillary Clinton after seeing negative campaign tweets from either candidate, compared to seeing no tweets - [[@banksPolarizedFeedsThreeExperiments2021]]]], which was about ideological distance specifically, rather than general "favorability" (perhaps affective polarization?)
+                        - [x] note SEM (but ok since we have the screenshot)
+                - [[EVD]] - Respondents are not very polarized, with fewer than one in five scoring high on the polarization scale and this was what happened TEST - [[@johnsonBlindedSpitePath2017]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] rewrite to past tense
+                    - [lower level of description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**):
+                        - [x] as above, prefer to describe closer to actual scale (diff. in favorability ratings towards Republican vs. Democratic party), and also note US context
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims):
+                        - [x] as above, need the actual measures
+                - [[[[EVD]] - Selective exposure and selective avoidance predict polarization, but they are weaker indicators than strength of party ties. - [[@johnsonBlindedSpitePath2017]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] rewrite to past tense
+                    - [lower level of description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**):
+                        - [x] prefer closer to actual scale items vs. construct
+                            - e.g.,
+                                - "US respondents who self-reported selectively using social networking sites with political content that aligned with their own views were more likely to have a stronger difference in favorability ratings between Republican vs. Democratic parties"
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims):
+                        - [x] as above, need actual measures
+            - All relevant CLM and EVD mappings described:
+                - only CLMs and EVD directly relevant to focal question: missing a key CLM: something like "Selective exposure and selective avoidance predict polarization, but they are weaker indicators than strength of party ties" (it's more at the construct level)
+                - CLM and EVD support/oppose relationships are described: yes, although [see note above](should be restated as CLM - Selective exposure, avoidance and polarization are infecting the democratic process. generalization might even be "polarization has negative effects on the democratic process") about using opposed by instead of supported by
+        - [x] #revised by [[Carolina Franca Tristao Batista]]
+        - [x] #approved by [[Joel Chan]]
+    - Scratchpad
+        - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+        - **Participants and setting**: 3,464 survey respondents recruited through politically interested blog, SNS, and Twitter between April and May 2011.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FaSrnYutk00.png?alt=media&token=26aa3097-519d-4902-b01b-8928fed58c8d) (p.185-186)
+        - **Design**: Participants were recruited through politically interested blog, SNS, and Twitter. They answered questions on strength of confidence in government, party ties, reliance on social media, selective exposure and selective avoidance and polarization.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fymk7RgwZaL.04.21%20PM.png?alt=media&token=ead189e9-8f7c-4d4c-85d5-719c5140d25d) (p.187)
+        - **Materials**: dataset of responses to survey.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FaSrnYutk00.png?alt=media&token=26aa3097-519d-4902-b01b-8928fed58c8d) (p.185-186)
+        - **Outcome measure**: confidence in government, namely President and Congress.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FyK7fIVpnNq.08.20%20PM.png?alt=media&token=b6516e49-28fd-4c93-9ca2-08f9ad7bb2d2) (p. 186)
+        - **Analysis**: maximum likelihood regression analyses.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FQ8m1-lGy2V.18.29%20PM.png?alt=media&token=c521c2b7-5af6-4a17-992e-98e67fc57c91) (p.187)
+    - [[CLM]] and [[EVD]] summary tree
+        - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+        - [[[[CLM]] - Selective exposure and selective avoidance predict polarization, but they are weaker indicators than strength of party ties.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FtyPYO6ihtJ.19.16%20PM.png?alt=media&token=844f9930-7bca-482a-af79-15d714a2396e) (p.192)
+            - [[SupportedBy]]
+                - [[[[EVD]] - US respondents who self-reported selectively using social networking sites with political content that aligned with their own views were more likely to have a stronger difference in favorability ratings between Republican vs. Democratic parties. - [[@johnsonBlindedSpitePath2017]]]]
+        - [[[[CLM]] - Polarization is positively related to confidence in government.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FTLdn6j8iZs.50.51.png?alt=media&token=ceabb557-b84a-4617-a78c-011ecc1049c2) (p. 192)
+            - [[SupportedBy]]
+        - [[[[CLM]] - Selective exposure, avoidance and polarization are infecting the democratic process.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FxKk--Krxcw.12.14%20PM.png?alt=media&token=ded164e8-6893-4503-b89f-4759548740c3) (p.192)
+            - [[OpposedBy]]
+                - [[[[EVD]] - Respondents were not very polarized in function of their party alignment in the US, with fewer than one in five scoring high on the polarization scale. - [[@johnsonBlindedSpitePath2017]]]]
+                - [[[[EVD]] - US respondents who self-reported selectively using social networking sites with political content that aligned with their own views were more likely to have a stronger difference in favorability ratings between Republican vs. Democratic parties. - [[@johnsonBlindedSpitePath2017]]]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FpEsrP7-taP.png?alt=media&token=dec64ffa-6d9d-407b-a14b-9bb3a8259dff) (Figure 2)
+                        - strength of party ties
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F7BrDa0WGT1.16.05%20PM.png?alt=media&token=c92b991c-91b4-4caa-a234-9740c7bb5ecd) (p.186)
+                        - selective exposure and selective avoidance
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F5j_JCEY8Xv.13.39.png?alt=media&token=c5f109a4-9fa2-41b8-b61b-c68bbb095238) (p. 186)
+                        - polarization
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FksrghZyUFc.14.00.png?alt=media&token=16786e3d-db1e-4c4b-8091-6db774717d7b) (p. 186)
+
+###### Discourse Context
+
+

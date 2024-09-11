@@ -1,0 +1,108 @@
+---
+title: "@feldEgonetsSystematicallyBiased2020"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/mtEvw0oQ9
+author: Joel Chan
+date: Mon Jul 24 2023 16:16:15 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Egonets as systematically biased windows on society
+    - Year:: 2020
+    - Author(s):: Scott L. Feld, Alec McGail
+    - Abstract:: A person’s **egonet, the set of others with whom that person is connected,** is a personal **sample of society which especially influences that person’s experience and perceptions of society**. We show that egonets systematically **misrepresent the general population** because each person is included in as many egonets as that person has “friends.” Previous research has recognized that this unequal weighting in egonets leads many people to find that their friends have more friends than they themselves have. This paper builds upon that research to show that people’s egonets provide them with systematically biased samples of the population more generally. We discuss how this ubiquitous egonet bias may have far reaching implications for people’s experiences and perceptions of frequencies of other people’s ties and traits in ways that may influence their own feelings and behaviors. In particular, these egonet biases may help explain people’s tendencies to disproportionately experience and overestimate the prevalence of certain types of deviance and other social behaviors and consequently be influenced toward them. We **illustrate egonet bias with analyses of all friends among 63,731 Facebook users**. We call for further empirical investigation of egonet biases and their consequences for individuals and society.
+    - Type:: Article
+    - Publication:: Network Science
+    - URL:: https://www.cambridge.org/core/journals/network-science/article/egonets-as-systematically-biased-windows-on-society/91558F85EC22ABE1A092AC8CD3A959FE
+    - Date Added:: [[July 24th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/FAR67PNP), [Web Library](https://www.zotero.org/groups/4985507/items/FAR67PNP)
+    - Publication Tags:: biased samples egonets false impressions friendship paradox homophily interpersonal comparisons risky behaviors social network theory social psychology weighted samples
+    - PDF links:: [Feld_McGail_2020_Egonets as systematically biased windows on society.pdf](zotero://open-pdf/groups/4985507/items/KBYPGRE2)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political echo chambers?]]
+    - Status::
+        - [x] #firstPass by [[Jay Patel]]
+        - [ ] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+            - **All relevant CLM and EVD mappings described:**
+            - **General notes**
+        - [ ] #revised by [[Jay Patel]]
+        - [ ] #[[approved]] by [[Joel Chan]]
+    - **Scratchpad**
+        - **JP Notes**
+            - "**egonet** is an ego-centric network consisting of **all of one person’s (an ego’s) ties with others**."
+            - "likely to **misrepresent many other characteristics of people in society** (e.g., moral and political views, normative and deviant behaviors) with the potential for further consequences on the people who experience these systematically distorted views from their own windows on the world."
+            - "“**homophily bias**,” that people’s friends are more like themselves in many ways than people in general (Mcpherson et al., 2001). Thus, if people use their egonets as windows on the world, they are likely to get the impression that people in general are much more like themselves than they really are."
+            - **1. A Simple example illustrating the overall bias**
+                - pg. 401
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FTJrzCAcXo-.53.11.png?alt=media&token=5d0a2af8-ccf9-4cb1-a4ef-ea1a0a80aac8)
+                    - "No single egonet represents the whole population very well...in this example, **egonets have an average number of friends that is 12% more than the average for people (2.89 compared to 2.57**)."
+            - **2. The logic of bias for friends**
+                - pg. 401
+                    - "...people's **egonets are always upwardly biased samples of people's numbers of friends**."
+                - pg. 402
+                    - mean distribution of the number of friends for friends
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FrnONFM64wu.01.00.png?alt=media&token=29d9c507-778d-4336-8bf6-8ea1ae15400d)
+            - **3. The logic of bias for egonets**
+                - pg. 403
+                    - Biases in egonets -> biases in people's perceptions and cognitive processes
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fcna1AkHxvI.05.51.png?alt=media&token=70188bc8-4f72-4e13-b517-e5d536b825fa)
+            - **4. Biased egonets in one large Facebook network**
+                - pg. 403
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FjzsXV6CGaE.21.36.png?alt=media&token=8775ad58-3dea-46fb-bd7d-88cd17b459fa)
+                - pg. 405
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F7sQGr6yZ_b.png?alt=media&token=b588a5f1-dfe0-4752-a760-720e5dab76fc)
+            - **5. Implications and evidence for specific types of people and ties**
+                - 5.1 Applications to particular types of ties
+                    - ...
+                - 5.2 Applications to particular types of people
+                    - pg. 407
+                        - "African Americans find that their African American friends have many more African American friends than they do; opera buffs find that their opera buff friends know many more other opera buffs than they do, etc. The general point is that **biased egonets can lead people to have experience with people who are generally better embedded in each one of their communities than people generally are**."
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fdb0PMHgzqm.32.13.png?alt=media&token=a500e98c-2b95-4b4d-95ef-dd26089cc46b)
+                    - pg. 407
+                        - "...we suggest that **systematic egonet bias may be important for deviant behaviors that are shared and where the participants may be especially responsive to their perceptions of the numbers of others involved**. For example, people may be less afraid of getting into trouble for drug use if they think larger numbers of other people are using drugs."
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F-zk4YN3WoC.33.33.png?alt=media&token=2f547e7b-eb29-4881-9c9e-6a115ff5c353)
+                        - ...
+            - **6. The logic of egonet bias on traits**
+                - ...
+            - **7. Applications to other types of ties, people, and traits**
+                - 7.1 Egonet biases regarding other types of ties
+                    - ...
+                - 7.2 Egonet biases regarding other types of people
+                    - ...
+                - 7.3 Egonet biases regarding other traits
+                    - pg. 410
+                        - "...'**generalized friendship paradox,' referring to the tendency for people to find that their friends have more of those traits than they do**. Similarly, Lerman et al. (2016) described the '**majority illusion**' as a phenomenon where people misperceive the distribution of traits in a population as the result of bias in people's egonets. These are recognitions that at least under some conditions, **egonets will provide biased samples that give people the impression that there are greater or lesser amounts of certain traits in the general population than there actually are**."
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FWjUG5rwXBu.06.52.png?alt=media&token=9f898c7d-9956-413a-9263-6db023b72927)
+                - 7.4 Some reasons one might expect correlations between numbers of friends and other traits
+                    - "In **real-world friendship networks**, many personality traits have been linked to having a large number of friends. Staiano et al. (2012) give an extensive meta-analysis, showing that people with more friends consistently score higher on psychological measures of extraversion and agreeableness. Feiler & Kleinbaum (2015) show that among an incoming MBA cohort, people’s friends are more extraverted than they are. Grund (2014) shows that among students in 14 U.S. schools, friends were better intermediaries and more powerful in terms of network position than individuals in general. Tong et al. (2008) show through experiment that Facebook users are perceived as more attractive and extraverted if they have a higher friend count."
+                - pg. 411
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fm7uTVGZzuS.29.08.png?alt=media&token=fd388108-417b-4b38-bdf0-6e1d338bf1b5)
+            - **8. Caveats about variations among egonets**
+                - pg. 411
+                    - "The central logic of this paper concerns the comparison between the distribution of characteristics of friends in egonets and of people in general. The argument is that people with lots of ties are overrepresentated and those with few or no ties are underrepresented in egonets. We believe that these biases have pervasive influences on the biases people generally experience in their egonets."
+                    - "...there are many reasons why each person's egonet does not include a representative sample of the distribution of all friends in the network. People's egonets are selected from particiular contexts that organize people's activities, meeting, and mating (Feld, 1984). Each context tends to be disproportionately homogenous in particular respects, and people select and are selected by others on various criteria that reflect the particular context and characteristics of the individual him/herself."
+                    - "...the particular carpenters that academics know are likely to be unrepresentative of carpenters more generally because the carpenters who know a lot of academics may be very unusual carpenters..."
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fav8gquFVnt.40.30.png?alt=media&token=43c0ab09-ce75-4cf6-818c-506662331ea7)
+            - **9. Systematic egonet bias for shared "social" behaviors**
+                - pgs. 411-412
+                    - "The most straightforward implication of this overrepresentation in these social behavior networks is a tendency for people to be influenced to act more like their own egonets, which would tend to increase these behaviors"
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F8USYrDCN7I.34.54.png?alt=media&token=4c5ffe55-35c8-4b56-a75c-034c796759f8)
+            - **10. Discussion**
+                - pg. 413
+                    - "...**people are affected by their experiences with their own egonets as well as by the impressions that they get from their own egonets** and likely to be **affected by biases in those egonets** even with taking account of supplementary information."
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fmbg1M9ddQ_.37.06.png?alt=media&token=5caa29f2-79f4-4b70-be96-7c1605b46032)
+    - **CLM and EVD summary tree**
+        - [[[[CLM]] - People with many ties in their egonets are overrepresented and those with few or no ties are underrepresented in egonets.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to analyses of Facebook data, people's egonets misrepresented how many friends other people have. - [[@feldEgonetsSystematicallyBiased2020]]]]
+        - [[[[CLM]] - Biases of overrepresentation in peoples' egonets influence their perceptions and cognition of the broader population.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to mathematical modeling, the mean for egonets increasesed over the mean number of friends of people with the variance for people and decreasesed with assortativity. - [[@feldEgonetsSystematicallyBiased2020]]]]
+
+###### Discourse Context
+
+

@@ -1,0 +1,161 @@
+---
+title: "@suhayForgingBondsBurning2015"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/-FB_2bGrV
+author: Joel Chan
+date: Mon Jul 17 2023 10:56:10 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Forging Bonds and Burning Bridges: Polarization and Incivility in Blog Discussions About Occupy Wall Street
+    - Year:: 2015
+    - Author(s):: Elizabeth Suhay, Allyson Blackwell, Cameron Roche, Lucien Bruggeman
+    - Abstract:: Putnam warned over a decade ago that the urge to associate with similar others online may lead to “cyberbalkanization,” fostering bonding capital at the expense of bridging capital. This study examines balkanization with respect to political blogs, investigating to what extent opinions in posts and comment sections on blogs associated with the left and right are ideologically polarized. We also investigate whether extreme opinions tend to co-occur with uncivil discourse aimed at political opponents. Finally, this study compares political blogs with a newer information source that bridges the gap between old and new media—newspaper blogs—asking whether polarization and incivility are reduced on that platform. A content analysis was conducted of blog discussions about a salient political event—Occupy Wall Street. In both posts and comments, political blogs were highly polarized and opinion extremity and incivility were correlated. However, content on newspaper blogs was largely unpolarized and civil.
+    - Type:: Article
+    - Publication:: American Politics Research
+    - URL:: https://doi.org/10.1177/1532673X14553834
+    - Date Added:: [[July 17th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/U7R7JQV3), [Web Library](https://www.zotero.org/groups/4985507/items/U7R7JQV3)
+    - Publication Tags::
+    - PDF links::
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Flavia Batista]]
+        - [ ] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+            - **All relevant CLM and EVD mappings described:**
+            - **General notes**
+        - [ ] #revised by [[Flavia Batista]]
+        - [ ] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - **Context**:  investigating to what extent opinions in posts and comment sections on blogs associated with the left and right are ideologically polarized.
+            - Research question: Has the internet balkanized (polarized) users?
+        - **Key Claims**:
+            - We argue here that, though anonymous and virtual communication may play a role in encouraging incivility, incivility online likely also stems from partisan extremity.
+            - political polarization among blogs not only prevents bridging capital from being formed but also likely erodes it via frequent incivility toward political opponents, a trend he did not foresee.
+        - **Participants and setting**:  case study around the Occupy Wall Street (OWS) movement
+            - p. 651
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FEb8TgEVHvn.52.03%20PM.png?alt=media&token=08fb2222-015b-4251-9587-84d0ad7ae61c)
+        - **Materials**: Popular political blogs across the political spectrum that were addressing OWS. 5 blogs, 2 from the right, 2 from the left, and one considered moderate. The conversations from the blogs were chosen if they were within the timeframe which represents the height of OWS in the U.S.
+            - p. 652
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fam3zis_wfp.56.33%20PM.png?alt=media&token=78c3195d-ecfa-4683-b94e-477d62330157)
+            - p. 653
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F7JEZU_qUUO.57.01%20PM.png?alt=media&token=97b68c57-d433-4244-ab1e-b8617292a3db)
+            - p. 653 - conversations
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F4jvXkoaFXU.59.08%20PM.png?alt=media&token=cc4a0e60-32b6-4868-96f3-ab24284e6722)
+        - **Outcome Measure**:
+            - Stance Towards OWS: contains five levels, with 0 representing solid support for the movement and 1 representing solid opposition to the movement; .5 represents either neutrality or ambivalence.
+            - Ideological Social Judgment: This variable contains 11 levels: 0 represents extreme liberal bias, .5 represents no bias (no judgment of left or right or balanced judgment of left and right), and 1 represents extreme conservative bias.
+            - Incivility: The Incivility variable has four levels, ranging from 0 to 1.
+            - p. 654-655
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FW20Fu3qGko.02.38%20PM.png?alt=media&token=dbbad3c9-ee63-4985-b428-d0380cc2b385)
+        - **Analysis**: multi-level models
+            - p. 655
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FkKqbvwTNi4.04.53%20PM.png?alt=media&token=143a38c9-2d5e-450a-a7a1-cbd36b3477cb)
+        - **Misc**
+            - notes by Jay (read accidentally)
+                - **Introduction**
+                    - pg. 648
+                        - Political opinions by authors of blogs and commenters of blogs may reflect their ideologies and polarize opinions online.
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fb664vDQEfX.36.21.png?alt=media&token=a64e71d6-609f-47fc-be51-76b8e34f83b9)
+                        - pg. 649
+                            - As the bias of a post (author) or commenter becomes more extreme, uncivil language becomes more likely.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FTh497n1imW.38.04.png?alt=media&token=b3ce9c52-37d2-453e-8b47-bb69abc02df7)
+                        - pg. 649
+                            - Incivility is aimed at off-site political opponents.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fw3aqzWekP3.38.39.png?alt=media&token=a48ebd36-70fd-40e3-ad62-14ed69dfab92)
+                        - pg. 650
+                            - Newspaper blogs authors and commenters are less biased than their non-newspaper counterparts.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fhvz8Ju19b1.40.49.png?alt=media&token=ecf96ce0-d9ed-4a38-b931-82ec9e19ac69)
+                            - Newspaper blogs are less uncivil than their non-newspaper counterparts.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FJuyF2q1pWB.41.27.png?alt=media&token=5f66b0eb-50c5-43ad-abf9-009e1a49b0ca)
+                - **Method**
+                    - Case Study: OWS (Occupy Wall Street)
+                        - [[multiverse methods and measures]]
+                            - pg. 651
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FCqhP5oBU66.png?alt=media&token=76c8c893-e61f-4530-8375-de1e8036feab)
+                                - "...choose a new, salient political issue or event with clear partisan or ideological implications and then investigate whether blogs on the "left" and "right" take up the viewpoint of "their" side of the aisle. This is the strategy followed below."
+                            - **Choice of Blogs**
+                                - pg. 652
+                                - "...we focus on blogs with the largest audiences (referred to as "A-list" blogs) and, thus, the largest impact."
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F-d0il3hiYL.56.34.png?alt=media&token=1d59715d-08cb-4769-9a1a-117a19e5bf30)
+                                - pg. 653
+                                    - 10 week period
+                                        - Saturday, Sept 17, 2011 - Friday Nov 25, 2023
+                                    - two dates from each week chosen randomly
+                                    - blog post on OWS randomly selected from each site for each of the dates
+                                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FhDaGl79-KP.17.00.png?alt=media&token=95f749a2-68d2-48b5-bbed-30602e342945)
+                                - **Content Coding**
+                                    - pg. 654
+                                        - "The original post and the first 30 comments were coded, for a total of 2,392 blog posts and commends coded across the seven sources."
+                                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FjqgLwIIuHP.26.14.png?alt=media&token=793449da-0134-41e3-a6e9-4cb167dcfc94)
+                                        - "...coding scheme was piloted several times and revised during the spring of 2012... two naive coders applied the final coding scheme to the entire sample during the summer of 2012."
+                                        - "...only text was analyzed, that is, images and external links were ignored."
+                                        - **Coded vars**
+                                            - **Stance:** authors or commentor's stance toward the OWS protests
+                                            - **Groups targeted:** specific groups or individuals commended or criticized
+                                            - **Incivility:** whether any criticism was uncivil
+                                - **Statistical Analyses**
+                                    - t-tests
+                                    - chi-square tests
+                                    - multi-level modeling
+                                        - Hypotheses 4-5
+                - **Data Analysis**
+                    - Opinion Bias and Polarization
+                        - pg. 656
+                        - **Table 1: Means for Opinion Variables by Blog Site and Type of Content Producer**
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FSOUHqzRXsi.40.47.png?alt=media&token=a498db00-0e4c-49a4-b3f6-554014fcee43)
+                                - **H1a**
+                                    - "With respect to Stance Toward Occupy Wall Street, authors on the two conservative sites opposed OWS (MichelleMalkin, M = .983); Townhall, M = .933); authors on the two liberal sites supported OWS (Daily Kos, M = .025; firedoglake, M = .016).... The polarization is so great that even differences between the four ideologically extreme blogs and TheModerateVoice are significant at the same leve (p < .0001, one-tailed)... These findings lend strong support to H1a.
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FY9gijR8xKO.57.50.png?alt=media&token=372e7427-2bad-4c92-b156-9cd908846046)
+                                - **H1b**
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FSGcnSLfl19.58.59.png?alt=media&token=53cec589-0bf8-4b87-84ab-bc23a4f113ce)
+                        - pg. 657
+                            - Figure 1. Author and commenter polarization on political blogs.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Ff_xc4Sd3og.44.12.png?alt=media&token=fe3030c2-5220-404b-8ea3-779a07cd4034)
+                            - ...
+                        - pg. 658-659
+                            - Table 2. Incivility is Associated With extremity and conservatism in Blog Posts and Comments.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FPskFAPbEZF.45.59.png?alt=media&token=0d111b84-5b82-476c-8ab8-ee9eb2d7be9d)
+                            - **H2a and H2b**
+                                - According to multi-level regression analyses, uncivil language by commenters, but not authors of political blogs was associated with extreme political views."
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FE-nQmFnt2x.00.25.png?alt=media&token=4acaa316-9c7c-42b9-8a97-9d84da1f16e4)
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FSTLXSB2VSn.24.05.png?alt=media&token=a46a5fae-7864-4b6d-a6dd-1f7cc266c298)
+                    - pg. 660, Figure 2. Relative lack of polarization on newspaper blogs.
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F8LZms7qHSm.59.16.png?alt=media&token=9bd4e27b-d646-4993-b5d2-db1f73618986)
+                    - ...
+                - **Discussion and Conclusion**
+                    - pgs. 661-662
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FmpJ1zxB8r7.15.13.png?alt=media&token=28adf24a-27d2-421d-a634-e92045411c92)
+                        - "To begin, we find tremendous political opinion polarization among authors and commenters on liberal and conservative political blogs in their discussion of a politicized event, the OWS movement."
+                        - "..."opinion bias on political blogs—again, among both authors and commenters—was positively associated with uncivil speech that insults ideological enemies."
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F1VNevniqI2.15.33.png?alt=media&token=c23d9d42-cd15-4121-927b-b0e6014bacbf)
+                        - "...we found that authors and commenters on newspaper blogs with left-leaning and right-leaning editorial pages were not polarized over OWS and engaged in little incivility."
+                    - **Normative Implications**
+                        - pg. 665
+                        - old media forms > new media forms for objectivity and civility
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F6I6u5pH2ip.53.32.png?alt=media&token=c97ef8a3-3c57-403f-a551-1b6ed5a5ff8d)
+    - CLM and EVD summary tree
+        - There are other claims but not related to polarization.
+        - [[[[CLM]] - Opinions expressed by authors of political blog posts will tend to reflect the preexisting ideological slant of the blog site on which they appear, leading to polarized opinions between left- and right-leaning blogs.]]
+            - p. 648
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FBI0qQbQSli.47.43%20PM.png?alt=media&token=b657dbeb-bf0a-4e28-b078-ead12bb991e3)
+            - [[SupportedBy]]
+                - [[[[EVD]] - Authors on the liberal sites were much more favorable toward left-leaning people and groups than authors on the conservative sites. In addition, those on the left- and right-leaning sites were more extreme than those at the moderate blog on this variable - [[@suhayForgingBondsBurning2015]]]]
+        - [[[[CLM]] - Political opinions expressed by commenters on political blogs will also reflect the preexisting ideological slant of the blog site, resulting in a political blog “commentsphere” that is polarized between left and right]]
+            - p. 648
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FYHcxmt8aPT.48.13%20PM.png?alt=media&token=6020cdd2-eff3-4e17-9f00-3dfd9365eacb)
+            - [[SupportedBy]]
+                - [[[[EVD]] - Comments followed a similar pattern as blogs' posts, yet they were somewhat less polarized  - [[@suhayForgingBondsBurning2015]]]]
+                    - p. 657
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fg4IpdNYPuI.20.03%20PM.png?alt=media&token=b90c5586-55d5-4954-96b4-ae8187d3d917)
+                    - p. 656
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F0rDFk5_QO7.21.55%20PM.png?alt=media&token=58f4e486-dbee-4d57-98d7-3c0952009198)
+
+###### Discourse Context
+
+

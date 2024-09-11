@@ -1,0 +1,318 @@
+---
+title: "@levySocialMediaNews2021"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/o9rSfcDiP
+author: Joel Chan
+date: Mon Jul 03 2023 11:24:25 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Social Media, News Consumption, and Polarization: Evidence from a Field Experiment
+    - Year:: 2021
+    - Author(s):: Ro’ee Levy
+    - Abstract:: <jats:p> Does the consumption of ideologically congruent news on social media exacerbate polarization? I estimate the effects of social media news exposure by conducting a large field experiment randomly offering participants subscriptions to conservative or liberal news outlets on Facebook. I collect data on the causal chain of media effects: subscriptions to outlets, exposure to news on Facebook, visits to online news sites, and sharing of posts, as well as changes in political opinions and attitudes. Four main findings emerge. First, random variation in exposure to news on social media substantially affects the slant of news sites that individuals visit. Second, exposure to counter-attitudinal news decreases negative attitudes toward the opposing political party. Third, in contrast to the effect on attitudes, I find no evidence that the political leanings of news outlets affect political opinions. Fourth, Facebook’s algorithm is less likely to supply individuals with posts from counter-attitudinal outlets, conditional on individuals subscribing to them. Together, the results suggest that social media algorithms may limit exposure to counter-attitudinal news and thus increase polarization. (JEL C93, D72, L82) </jats:p>
+    - Type:: Article
+    - Publication:: American Economic Review
+    - URL:: https://doi/org/10.1257/aer.20191777
+    - Date Added:: [[July 3rd, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/V2U2FSKF), [Web Library](https://www.zotero.org/groups/4985507/items/V2U2FSKF)
+    - Publication Tags:: py-import
+    - PDF links::
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Flavia Batista]]
+        - [x] #checked by [[Jay Patel]]
+            - **Any relevant CLMs/EVDs to check?**
+                - I checked and they match my identification from the Conclusions section.
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): ??? unsure ??? currently worded as null effect
+                - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): ???
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**):  yes
+                - [past tense]([[EVD]] descriptions are written in the **past tense**):  yes
+                - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): yes
+                - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): yes
+            - **All relevant CLM and EVD mappings described:**
+                - Yes, they match my reading and Claude AI picked up the same CLMs and EVD.
+            - **General notes**
+                - ???
+        - [ ] #revised by [[Flavia Batista]]
+        - [ ] #[[approved]] by [[Joel Chan]]
+    - **Scratchpad**
+        - **[[Jay/Claude]].ai - Use Me!**
+            - **Assumptions**
+                - People tend to seek out news media that matches their existing views and avoid media with opposing views.
+                    - (p. 831, lines 49-52)
+                - Social media companies and other entities try to alter users' news feeds to increase engagement or influence opinions.
+                    - (p. 867, lines 12-17)
+            - **Questions and Hypotheses**
+                - Does exposure to ideologically aligned news on social media increase political polarization?
+                    - (p. 831, lines 61-63)
+                - Can subtle nudges diversifying social media news exposure decrease polarization?
+                    - (p. 831, lines 63-64)
+            - **Prior Literature**
+                - Prior work has focused on the extent of polarization occurring on social media but lacks clear causal evidence.
+            - **Knowledge Gaps**
+                - Lack of experimental evidence on the causal effect of pro-or counter-attitudinal news exposure on political polarization.
+                    - (p. 831, lines 64-69)
+            - **Methods**
+                - **Settings**
+                    - Online experiment with participants in the United States.
+                        - (p. 836, line 79)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fz3y-xXQP-Q.png?alt=media&token=684d964b-db4f-4b96-9db2-f1622bfe2832)
+                - **Participants and Data Collectors
+**
+                    - 37,494 American adults recruited via Facebook ads.
+                        - (p. 836, lines 79-80, pg. 840 for Table 1)
+                - **Materials**
+                    - Survey questions, Facebook data on subscriptions and posts shared, browser extension data on news exposure and browsing.
+                        - (p. 838, lines 94-96)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FwKb3NeuLpO.png?alt=media&token=82d9c526-832b-41ab-af3d-b9d7b52e5b0f)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FvHy6HGWk4K.png?alt=media&token=e01ed3ac-6654-4f2d-93c3-60218cd3655a)
+                - **Designs**
+                    - **Independent variables**: Assignment to subscribe to liberal outlets, conservative outlets, or control group.
+                        - (p. 836, lines 83-84)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FE3H-c2iOOo.png?alt=media&token=fc97fb89-559e-4eac-ab6f-3ebeadab0224)
+                    - **Dependent variables**: Engagement with outlets, news slant, opinions, and affective polarization.
+                        - (p. 837, lines 87-88, p. 840)
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F99MnN2MLFB.png?alt=media&token=1d5ac17d-e8a5-4459-b2e6-c16a40a4ce70)
+                    - **Sample Sizes**
+                        - 37,494 completed baseline survey, 34,592 provided Facebook data, 1,835 installed browser extension, 17,635 completed endline survey (53% attrition).
+                            - (Table 1, p. 838 and p. 840)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FrXH4_jFFnj.png?alt=media&token=11ec50b6-06ea-41de-84b9-8f6c07d686e1)
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F99MnN2MLFB.png?alt=media&token=1d5ac17d-e8a5-4459-b2e6-c16a40a4ce70)
+            - **Analytic Techniques
+**
+                - Regression analysis estimates the relationship between variables.
+                    - (p. 843-844, lines 118-122)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FFdRddc7VOl.png?alt=media&token=aa86d983-b81c-44d9-9637-37d8c664d5c3)
+                - Instrumental variables regression isolates causal relationships when variables are correlated with unobserved factors.
+                    - (p. 843-844, lines 118-122)
+            - **Claims**
+                - Exposure to ideologically aligned news on social media does not strongly affect political opinions. (p. 859, lines 167-169)
+                    - Supported by: The effect of the treatments on a political opinions index was small and not statistically significant. (p. 859, lines 167-169)
+                - Exposure to counter-attitudinal news decreases affective polarization. (p. 860, lines 173-175)
+                    - Supported by: The counter-attitudinal treatment decreased the affective polarization index compared to the pro-attitudinal treatment. (p. 860, lines 173-175)
+                - Facebook's algorithm limits exposure to counter-attitudinal news. (p. 864, lines 198-201)
+                    - Supported by: Participants assigned to counter-attitudinal subscriptions had lower exposure to those outlets despite subscribing.
+            - **Results/Evidence
+**
+                - Table 1 shows the sample sizes for the different datasets collected. (p. 838)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fd244wBkNi8.png?alt=media&token=760253fa-ab33-497f-b996-506fcbe809bb)
+                - Table 2 shows balance between groups at baseline. (p. 845)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F0byUACUTm3.png?alt=media&token=a308702c-6cf0-4219-9621-9ec8c4422391)
+                - Table 3 shows higher pro-attitudinal treatment compliance. (p. 846)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FMEBHRVu3Fk.png?alt=media&token=44f58d39-46bd-489b-b203-8c381c47632f)
+                - Figure 1 illustrates the experimental design. (p. 837)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fk8bMg4dDHO.png?alt=media&token=4d7eb77f-ba17-410a-a822-7f17910e3d9b)
+                - Figure 2 shows political figures mentioned in outlet posts. (p. 839)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FNd41ma3D4P.png?alt=media&token=70b6cf4c-d09d-416a-b8e3-73cf7f7cfb60)
+                - Figure 3 shows social media news is more segregated. (p. 849)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F_3349ZiEFi.png?alt=media&token=9837fc50-d1c0-495e-a15b-529479f967b5)
+                - Figure 4 shows news isolation by medium. (p. 850)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F5U9W7egSUH.png?alt=media&token=68c7d34f-06cc-487b-bb2c-5250241ef310)
+                - Figure 5 shows Facebook news is more partisan. (p. 851)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FV_Z8SxVY5V.png?alt=media&token=4be633c6-8a64-4806-9677-9db1d811724e)
+                - Figure 6 shows treatments increased engagement. (p. 852)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fs52G1ws1Ma.png?alt=media&token=2389d133-9316-4b3d-b14f-c14dfa0f0044)
+                - Figure 7 shows treatments altered news slant. (p. 856)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FBYfIO41D0e.png?alt=media&token=2b73fa2c-52d4-4d26-93ba-701da9f00ba3)
+                - Figure 8 shows slant effect declined but persisted. (p. 858)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FfP_zmvIuz6.png?alt=media&token=d85fef58-e9ef-4052-acd5-d2372ee4e480)
+                - Figure 9 shows counter-attitudinal news decreased polarization. (p. 860)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F6zGEgbfdn8.png?alt=media&token=3eca3d2a-c143-4f38-9519-4867519af1cd)
+                - Figure 10 shows algorithm limits counter-attitudinal exposure. (p. 865)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FZVrIbvidMA.png?alt=media&token=2e03efd1-2aed-40c6-93a9-076af5fab434)
+            - **Practical Implications
+**
+                - Nudges diversifying news exposure on social media can mitigate polarization.
+                    - (p. 863, lines 192-193)
+                - Improving algorithms, nudging diverse subscriptions, and modifying algorithms to encourage serendipity could increase news diversity
+                    - (p. 867-868, lines 237-247)
+            - **Theoretical & Ontological Implications
+**
+                - Not explicitly discussed.
+            - **Limitations**
+                - Did not observe full news consumption across mediums.
+                    - (p. 868, lines 249-251)
+                - Collected Facebook and browsing data primarily on computers.
+                    - (p. 868, lines 251-253)
+                - High endline survey attrition.
+                    - (p. 868, lines 254-256)
+                - Did not randomize exposure to moderate outlets.
+                    - (p. 868, lines 259-260)
+                - Intervention done during specific time period.
+                    - (p. 868, lines 263-266)
+                - Estimated effects over weeks/months; unclear long-term effects.
+                    - (p. 868, lines 269-270)
+            - **Future Research
+**
+                - Analyze long-term effects of diversified news exposure
+                    - (p. 868, line 273)
+                - Study other recommendation algorithms.
+                    - (p. 868, line 275)
+                - Explore interface designs to correct algorithmic bias.
+                    - (p. 868, line 277)
+        - **[[Jay/Claude]]: Placeholder**
+            - **Assumptions**
+                - "This argument is based on the premise that widely available media sources exacerbate selective exposure in which people choose to consume messages that they already agree with and avoid messages with which they disagree."
+                    - (p. 831, lines 49-52)
+                - "Attempts to change the feed by suggesting new content happen all the time. They can stem from companies attempting to maximize profits by increasing user engagement or originate from entities attempting to maximize political goals, such as political candidates purchasing ads or even foreign agents promoting Facebook pages to influence the American electorate."
+                    - (p. 867, lines 12-17)
+            - **Questions & Hypotheses**
+                - Does exposure to ideologically aligned news on social media increase political polarization?
+                    - (p. 831, lines 61-63)
+                - Can subtle nudges diversifying social media news exposure decrease polarization?
+                    - (p. 831, lines 63-64)
+            - **Methods**
+                - **Settings**
+                    - Online experiment with participants in the United States
+                        - (p. 836, line 79)
+                - **Participants**
+                    - 37,494 American adults recruited via Facebook ads
+                        - (p. 836, lines 79-80)
+                - **Materials**
+                    - Survey questions, Facebook data on subscriptions and posts shared, browser extension data on news exposure and browsing
+                        - (p. 838, lines 94-96)
+                - **Designs**
+                    - Participants randomly assigned to subscribe to liberal outlets, conservative outlets, or control group
+                        - (p. 836, lines 83-84)
+                    - Measured engagement with outlets, news slant, opinions, and affective polarization
+                        - (p. 837, lines 87-88)
+                - **Sample Sizes**
+                    - 37,494 completed baseline survey
+                    - 34,592 provided Facebook data
+                    - 1,835 installed browser extension
+                    - 17,635 completed endline survey (attrition 53%)
+                        - (Table 1, p. 838)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FdLjTmatqNY.png?alt=media&token=00fdf4c9-bb82-48dc-977c-8f2473a6b6ff)
+                - **Analytic Techniques**
+                    - Regression analysis and instrumental variables regression
+                        - (p. 843-844, lines 118-122)
+            - **Results/Evidence**
+                - According to regression analysis, "The combined intention-to-treat (ITT) effects of the liberal and conservative treatments on the slant of news sites visited in the two weeks following the intervention is 14 percent of the difference in the slant of sites visited by liberals and conservatives in the control group."
+                    - (p. 855, lines 146-149)
+                - According to regression analysis, "The ITT and treatment-on-treated (TOT) effects of the counter-attitudinal treatment on the affective polarization index, compared to the pro-attitudinal treatment, are −0.03 and −0.06 standard deviations, respectively."
+                    - (p. 860, lines 173-175)
+                - According to regression analysis, "The effect of the liberal and conservative treatments on a political opinions index focusing on issues and political figures covered during the study period is small in magnitude, precisely estimated, and not statistically significant."
+                    - (p. 859, lines 167-169)
+                - **Tables**
+                    - Table 1 shows the sample sizes for the different datasets collected
+                        - (p. 838)
+                    - Table 2 shows balance between groups at baseline on key characteristics
+                        - (p. 845)
+                    - Table 3 shows higher compliance with pro-attitudinal treatment versus counter-attitudinal treatment
+                        - (p. 846)
+                - **Figures**
+                    - Figure 1 illustrates the experimental design and randomization (p. 837)
+                    - Figure 2 shows political figures mentioned frequently in outlet posts during study period (p. 839)
+                    - Figure 3 shows news from social media is more segregated than other online news (p. 849)
+                    - Figure 4 shows news isolation by medium using extension data (p. 850)
+                    - Figure 5 shows news from Facebook is more partisan and segregated (p. 851)
+                    - Figure 6 shows treatments increased engagement with offered outlets (p. 852)
+                    - Figure 7 shows treatments altered slant of news engaged with (p. 856)
+                    - Figure 8 shows treatment effect on slant declined but persisted over time (p. 858)
+                    - Figure 9 shows counter-attitudinal news decreased affective polarization (p. 860)
+                    - Figure 10 shows algorithm limits counter-attitudinal exposure (p. 865)
+            - **Claims**
+                - Social media news exposure does not strongly affect political opinions (p. 859, lines 167-169)
+                    - [[SupportedBy]]
+                        - Null results on political opinions index (Figure 9, p. 860)
+                - Exposure to counter-attitudinal news decreases affective polarization (p. 860, lines 173-175)
+                    - [[SupportedBy]]
+                        - According to regression analysis, "The ITT and treatment-on-treated (TOT) effects of the counter-attitudinal treatment on the affective polarization index, compared to the pro-attitudinal treatment, are −0.03 and −0.06 standard deviations, respectively."
+                - Facebook's algorithm limits exposure to counter-attitudinal news (p. 864, lines 198-201)
+                    - [[SupportedBy]]
+                        - According to regression analysis, "The effect of the liberal and conservative treatments on a political opinions index focusing on issues and political figures covered during the study period is small in magnitude, precisely estimated, and not statistically significant."
+            - **Practical Implications**
+                - Nudges diversifying news exposure on social media can mitigate polarization
+                    - (p. 863, lines 192-193)
+                - Improving algorithms, nudging diverse subscriptions, and modifying algorithms to encourage serendipity could increase news diversity
+                    - (p. 867-868, lines 237-247)
+            - **Theoretical Implications**
+                - Not explicitly discussed
+            - **Limitations**
+                - Did not observe full news consumption across mediums like TV
+                    - (p. 868, lines 249-251)
+                - Collected Facebook and browsing data primarily on computers
+                    - (p. 868, lines 251-253)
+                - High endline survey attrition could affect results
+                    - (p. 868, lines 254-256)
+                - Did not randomize exposure to moderate outlets
+                    - (p. 868, lines 259-260)
+                - Intervention done during specific time period (Trump presidency)
+                    - (p. 868, lines 263-266)
+                - Estimated effects over weeks/months; long-term effects unclear
+                    - (p. 868, lines 269-270)
+            - **Future Research**
+                - Analyze long-term effects of diversified news exposure
+                    - (p. 868, line 273)
+                - Study other collaborative and content-based recommendation algorithms
+                    - (p. 868, line 275)
+                - Explore user interface designs to correct algorithmic bias
+                    - (p. 868, line 277)
+        - **Flavia**
+            - **Key Claims**:
+                - First, random variation in exposure to news on social media substantially affects the slant of news sites that individuals visit.
+                - Second, exposure to counter-attitudinal news decreases negative attitudes toward the opposing political party (polarization claim).
+                - Third, in contrast to the effect on attitudes, I find no evidence that the political leanings of news outlets affect political opinions.
+                - Fourth, Facebook’s algorithm is less likely to supply individuals with posts from counter-attitudinal outlets, conditional on individuals subscribing to them (polarization claim).
+                - Together, the results suggest that social media algorithms may limit exposure to counter-attitudinal news and thus increase polarization.
+            - **Participants and setting**: Large online field experiment in which American Facebook users were recruited using Facebook ads.
+                - p. 831
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F9Sjj76Hfre.42.54%20PM.png?alt=media&token=08a16a45-db6d-4c03-a3de-4ef15e96bfad)
+                    - p. 836
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F3tqO-4dBjr.47.21%20PM.png?alt=media&token=929ba29c-b5a0-4034-bdcb-835b604b6df9)
+                    - p. 837
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FJvu0a0k2Fy.49.07%20PM.png?alt=media&token=b190f7e3-5c0d-4137-a526-e605f3c6e54b)
+            - **Materials**: Randomizing exposure to news on Facebook, and by collecting survey, browsing, and social media data.
+                - p. 832-833
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FwuCM2T7GkE.44.26%20PM.png?alt=media&token=bca1d137-c6b3-4520-99ec-c051bdc25204)
+                    - p. 838
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F3--ibKiGvP.50.19%20PM.png?alt=media&token=ee179618-b9c7-4849-8f22-fdfd293d9a99)
+            - **Outcome measures:** Affective polarization is measured by five measures
+                - feeling thermometer
+                - difficult perspective question
+                - consider perspective question,
+                - party ideas question
+                - marry opposing party question
+                    - p. 832
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FjRkRs0yHjW.45.53%20PM.png?alt=media&token=f1a3d260-13f3-4058-840d-ebdcdec2e969)
+                        - p. 842-843
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FmUP0EQO8K6.07.55%20PM.png?alt=media&token=7ef99179-5791-4e17-a80f-31f410a630f9)
+            - **Analysis**: ITT regression
+                - According to regression analysis, "The combined intention-to-treat (ITT) effects of the liberal and conservative treatments on the slant of news sites visited in the two weeks following the intervention is 14 percent of the difference in the slant of sites visited by liberals and conservatives in the control group." (p. 855, lines 146-149)
+                - According to regression analysis, "The ITT and treatment-on-treated (TOT) effects of the counter-attitudinal treatment on the affective polarization index, compared to the pro-attitudinal treatment, are −0.03 and −0.06 standard deviations, respectively." (p. 860, lines 173-175)
+                - According to regression analysis, "The effect of the liberal and conservative treatments on a political opinions index focusing on issues and political figures covered during the study period is small in magnitude, precisely estimated, and not statistically significant." (p. 859, lines 167-169)
+                - p. 843
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F9Un39CX8lG.09.27%20PM.png?alt=media&token=782e2cef-c64d-433e-92dc-845bd1d5554d)
+    - CLM and EVD summary tree
+        - [[[[CLM]] - Exposure to ideologically aligned news on social media does not strongly affect political opinions.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - The effect of being offered subscriptions to news outlets from the opposite ideological position on a political opinions index was small and not statistically significant. - [[@levySocialMediaNews2021]]]]
+        - [[[[CLM]] - Exposure to counter-attitudinal news decreases affective polarization]]
+            - [[SupportedBy]]
+                - p. 855
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FCmEKtAx-ZB.18.05%20PM.png?alt=media&token=bde02012-7920-42c4-990b-109b56152532)
+                    - p. 856
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FNm2aWTrrEM.57.57%20PM.png?alt=media&token=f72d5ff1-54c9-4c3f-8487-78ef6037ee47)
+                - [[[[EVD]] - Exposure to counter-attitudinal content on Facebook modestly decreased the affective polarization index compared to the pro-attitudinal treatment  - [[@levySocialMediaNews2021]]]]
+                    - p. 860, Fig. 9
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F4pBMpKjXY1.24.27%20PM.png?alt=media&token=cec08c26-ca18-4e2a-a8a5-dd176c82f061)
+                        - 
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FVXz0Vd4EQ7.58.36%20PM.png?alt=media&token=c4979ec1-4305-4a14-a219-752fea15851b)
+        - [[[[CLM]] - Social media algorithms limit exposure to counter-attitudinal news and thus increase polarization.]]
+            - p. 833
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FMSthGRExg3.00.32%20PM.png?alt=media&token=b9e228c3-41ce-4ddb-a989-a32630964d5a)
+            - [[SupportedBy]]
+                - [[[[EVD]] - Facebook users' feeds became more conservative and liberal after being exposed to the conservative and liberal treatments, respectively - [[@levySocialMediaNews2021]]]]
+                    - p. 834
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FNI3KPDC9BP.01.08%20PM.png?alt=media&token=b30812ce-e45a-44e5-bc59-c0d730833d93)
+
+###### Discourse Context
+
+

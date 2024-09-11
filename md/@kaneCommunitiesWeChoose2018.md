@@ -1,0 +1,166 @@
+---
+title: "@kaneCommunitiesWeChoose2018"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/XMdG33-Rn
+author: Joel Chan
+date: Fri Jun 30 2023 08:44:22 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Do the Communities We Choose Shape our Political Beliefs? A Study of the Politicization of Topics in Online Social Groups
+    - Year:: 2018
+    - Author(s):: Benjamin Kane, Jiebo Luo
+    - Abstract:: Social media has become a ubiquitous part of the lives of many people, and provides a channel for ordinary people to voice and to hear political opinions. However, many believe that the rise of social media has lead to an increasing polarization of political views, with political bias becoming intertwined with seemingly non-political interests and behavior. In this paper, we aim to use natural language processing techniques to analyze the political bias of online social groups and the degree to which this bias correlates with non-political topics. Whereas this phenomenon has been studied extensively on networks such as Twitter, the popular social media domain Reddit has been relatively unexplored despite the structure of the platform allowing users to easily create their own interest-based subcommunities, thus providing an important and unique data source relevant to the topic at hand. This paper analyzes comment data from approximately 3,300 message boards on Reddit, with the goal of providing novel empirical knowledge about how group topic informs political bias in Reddit sub-communities. Topics of Reddit subcommunities are determined using a Latent Dirichlet Allocation model, and political bias of subcommunities is measured through direct comparison with external corpora of politically biased vocabulary; results are discussed within. Furthermore, to test the politicization of topics, we train a classifier on topic features to obtain a high accuracy of 85.2% (compared to a random-guessing baseline of 64.8%), suggesting fairly strong correlations between group topic and politically biased language in communities.
+    - Type:: Conference paper
+    - Publication::
+    - URL:: [https://doi/org/10.1109/bigdata.2018.8622535](https://doi/org/10.1109/bigdata.2018.8622535)
+    - Date Added:: [[June 30th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/2BBNQ4SK), [Web Library](https://www.zotero.org/groups/4985507/items/2BBNQ4SK)
+    - Publication Tags:: Big Data Coherence Resource management Social groups Twitter Vocabulary
+    - PDF links::
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Jay Patel]]
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+                - the title is highly misleading (nothing in the paper can actually speak to the question of whether the communities we choose shape our political beliefs!!!)
+                - main contribution is methods i think
+                - but at a high level, i think the main substantive relevant CLM is something like: "Topics in online communities are systematically politicized in their language", which is a bit of a rephrasing of [[[[CLM]] - Topics in online communities are systematically politicized in their language.]]
+                    - and then the EVDs is [[[[EVD]] - An SVM classifier trained on vocabulary from 40 model-estimated topics over subreddits was able to predict subreddits' political bias with 85% accuracy. - [[@kaneCommunitiesWeChoose2018]]]]
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - Topics in online communities are systematically politicized in their language.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): see [above](((hSOs6V604))) for possible rephrasing
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - An SVM classifier trained on vocabulary from 40 model-estimated topics over subreddits was able to predict subreddits' political bias with 85% accuracy. - [[@kaneCommunitiesWeChoose2018]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] though i would modify this to emphasize the level/range of accuracy (~85%) and be more specific about the fact that the 40 topics are model-estimated (from LDA). so something like "SVM classifier trained on vocabulary from 40 model-estimated topics over subreddits was able to predict political bias of subreddits with high accuracy (85%)"
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes
+                        - [x] need details on how political bias was estimated
+                            - (section B: roughly, Jaccard correlation between vocab of subreddit and "known" conservative or liberal). i would note that these datasets of known leaning are not described!
+                        - and it's kinda lame that we don't really know what the weights are, and what the topics are, so we just know that we can use
+            - **All relevant CLM and EVD mappings described:** yes
+            - **General notes**
+                - phew, agree this is a really tough paper to read.
+        - [x] #revised by [[Jay Patel]]
+        - [ ] #approved by [[Joel Chan]]
+    - **Scratchpad**
+        - **[[Jay/Claude]] - good**
+            - Here is a nested outline for the Kane & Luo (2018) research article:
+            - **Assumptions:**
+                - **Theoretical assumptions:**
+                    - Non-political interests are related to political homophily in online groups (p. 1, para 2)
+                    - Group topics become associated with political biases through specific language use (p. 1, para 3-4)
+                - **Empirical assumption:**
+                    - Frequent bigrams and trigrams capture politically-biased vocabulary (p. 4, para 5)
+                    - Reddit comments with score > 5 represent group values (p. 3, para 2)
+            - **Questions and hypotheses:**
+                - Question: What is the relationship between non-political group topics and political biases in Reddit communities? (p. 1, para 2)
+                - Question: To what extent do non-political topics become associated with political biases? (p. 1, para 2)
+            - **Prior literature:**
+                - Twitter networks show political homophily and separation into echo chambers (p. 1, para 1)
+                    - Gap: Network structure of Reddit unexplored despite diversity of interest-based communities (p. 2, para 1)
+                - Online groups develop shared language representing common values and interests (p. 1-2, para 3-1)
+                    - Gap: Unknown if this occurs with political language in Reddit groups (p. 2, para 1)
+                - Previous political language studied in congressional speeches and Twitter (p. 2, Table 1)
+                    - Gap: Political vocabulary specific to Reddit unknown (p. 4, para 3)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FWUsdIegVML.png?alt=media&token=ec25374b-4df3-4509-8fa0-dcace4fa9b73)
+            - **Methods: **
+                - **Settings**: Reddit virtual community (p. 3, para 1)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FXzeC6mm3XY.png?alt=media&token=49d2a9f4-66ba-402f-b530-6029603cc5b9)
+                - **Participants**: 3,385 active subreddit forums (p. 3, para 1)
+                - **Measures**:
+                    - Subreddit texts, political corpora with Democrat and Republican phrases (p. 3-4, Section III)
+                    - Bias calculated using bigrams/trigrams correlations (p. 4, para 5)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FP_w0pNTeav.png?alt=media&token=25beb4b9-87de-455b-b1c8-80689210e5e3)
+                - **Design**:
+                    - IV: Subreddit topic
+                    - DV: Subreddit political bias
+                - **Sample size**:
+                    - 5 million Reddit comments
+                    - 3,385 subreddit forums
+                - **Analytic techniques:**
+                    - Latent Dirichlet Allocation (LDA) used to model topics and group subreddits (p. 4, Section IV.A)
+                    - Political bias calculated using bigrams and trigrams compared to external political corpora (p. 4, Section IV.B)
+                        - Jaccard correlation between vocabulary of subreddit and "known" conservative or liberal
+                        - these external political corporal/datasets of bias are not described!
+                    - Classifier trained on LDA topics to predict subreddit bias (p. 5, Section IV.C)
+                    - **Details**
+                        - The authors used several analytic techniques to investigate the relationship between non-political group topics and political bias in Reddit communities.
+                        - First, they utilized a topic modeling technique called **Latent Dirichlet Allocation (LDA) to discover underlying topics across a large collection of Reddit comments. LDA is a probabilistic technique that identifies groups of words that tend to co-occur in documents**. By analyzing patterns of word co-occurrence, it determines a set number of topics that describe the collection. Each topic consists of the most probable words related to that topic. The researchers **used LDA to model 80 topics from all the subreddit documents**. They manually reviewed the top words in each topic to assign topic labels like "Sports" or "Music." This allowed them to group the thousands of subreddits into topics.
+                        - After using LDA to categorize the subreddits into topics, the researchers **calculated a political bias score for each individual subreddit**.
+                            - To do this, they compared the text of each subreddit to two external corpora containing known politically biased vocabulary. One corpus contained Republican and Democratic phrases from presidential speeches, and the other contained texts from partisan subreddits. They extracted frequent bigrams (two-word phrases) and trigrams (three-word phrases) from these political corpora to represent biased political language. For example, "climate change" occurred frequently among Democratic phrases while "religious freedom" was common in the Republican corpus.
+                        - To **quantify the bias of a subreddit, they calculated the overlap between the subreddit's bigrams/trigrams and those of each political corpus using a similarity metric called the Jaccard coefficient**.
+                            - This measures the number of bigrams/trigrams in common between two documents divided by the total number of unique bigrams/trigrams in both. The resulting scores were normalized to a 0-1 scale. By comparing a subreddit's language to each political corpus, they obtained separate liberal and conservative bias scores.
+                        - Then they **subtracted the conservative score from the liberal score to determine an overall bias score for each subreddit**, with positive scores indicating liberal bias and negative indicating conservative bias.
+                        - After calculating individual subreddit bias, they reported average bias scores for all subreddits within each LDA topic. This allowed them to examine relationships between topics and bias. Finally, to further analyze these relationships, they **trained a classifier using the LDA topics to predict subreddit political bias based on the vocabulary of a topic**. They tested different classifiers, finding SVM performed best with 85.2% accuracy, significantly above chance. This provided additional evidence of correlations between topics and biased language.
+                        - In summary, the authors leveraged LDA topic modeling to categorize subreddits and extract topics, calculated political bias scores for subreddits through comparisons with partisan phrase corpora, analyzed bias by topic, and trained a classifier on topics to predict bias. **The combination of techniques provided both qualitative and quantitative insights into how non-political topics relate to political biases in Reddit communities**
+            - **Claims and Results/Evidence:**
+                - Non-political subreddit topics correlate with biased political language.
+                    - Supported by:
+                        - According to an SVM classifier, subreddit topic predicted political bias with 85.2% accuracy compared to 64.8% random guessing baseline (p. 6, Table III).
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F9q_7M4RyZ6.png?alt=media&token=32e35162-ac8f-416e-9214-0d8ac7ec7d88)
+                    - Supported by:
+                        - The average political biases for sports and gender topics aligned with findings from prior Twitter research (p. 6, para 3-5).
+                - The politicization of non-political interests is observed on Reddit.
+                    - Supported by:
+                        - According to quantitative analysis, topics like sports and anti-feminism showed political biases despite being non-political interests (p. 4, Figure 4; p. 6, para 3-5).
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FRj3R-fGex5.png?alt=media&token=c1cf60b0-a4fb-4369-b171-1ac425141dc2)
+            - **Practical implications:**
+                - New knowledge about how group dynamics and interests relate to political biases on social media (p. 1, para 2)
+            - **Theoretical & ontological implications: **
+                - Non-political interests may become associated with political positions through group dynamics and language (p. 6, para 5)
+                - Both political and non-political factors contribute to online political homophily (p. 6, para 5)
+            - **Limitations:**
+                - Bias measurement based on comment vocabulary may be contaminated by debate between sides (p. 6, para 3)
+                - External political corpora may miss Reddit-specific political vocabulary (p. 4, para 3)
+            - **Future research:**
+                - Use surveys to measure perceived bias of political versus non-political subreddit groups (p. 6, para 4)
+                - Improve political vocabulary detection beyond bigrams and trigrams (p. 6, para 4)
+                - Use conversation graph partitioning to detect sides of debate without external corpora (p. 6, para 4)
+        - **Original Notes - bad**
+            - bit of a tough and dry paper
+                - overall graphical abstract of assumptions -> methods -> results -> interpretation would have helped
+            - **homophily**: "the tendency for individuals to associate with similar others"
+            - **herding effect**: phenomenon whereby "an arbitrary positive initial vote would lead to inflated subsequent scores"
+                - JP: We see this with product review in e-commerce.
+            - How can we determine the latent political bias of a group?
+                - **Latent Dirichlet Allocation (LDA)** to create a topic model of people with similar interests
+            - **Prior work**
+                - Others: used SVM, LSTM, and VGG classifiers to predict presidential candidate support accurately.
+                - Authors: used a simpler domain-specific method of measuring bias on Reddit
+                    - will use vocabulary from frequent bigrams and trigrams
+            - **Data pipeline**
+                - May 2015: Reddit
+                    - 3,385 most active subreddits (>500 comments/month)
+                    - selected comments passing a score-threshold (_s_ > 5)
+                        - remove comments < 10 characters long
+                    - final dataset: 5 million comments
+                        - Fig. 1 shows an example comment
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FauxO4hCmUE.35.14.png?alt=media&token=c1658cc9-bd0b-4321-bfa2-d09569b5566d)
+                    - Political vocab corpora
+                        - 2016 US presidential debates
+                            - 400 lines est. per party
+                        - May 2015 dataset
+                            - various political subreddits: Liberal, Progressive, Socialism, Conservative
+            - **Measure of political bias**
+                - Political bias = Liberal bias index - Conservative bias index
+                    - liberal = pos. score
+                    - conservative = neg. score
+    - [[CLM]] and [[EVD]] summary tree
+        - [[[[CLM]] - Topics in online communities are systematically politicized in their language.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - An SVM classifier trained on vocabulary from 40 model-estimated topics over subreddits was able to predict subreddits' political bias with 85% accuracy. - [[@kaneCommunitiesWeChoose2018]]]]
+        - [[[[CLM]] - LDA modeling is an accurate and useful way to capture bias on social media sites relative to clustering.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - LDA modeling showed that overall political bias varied significantly across subreddits . - [[@kaneCommunitiesWeChoose2018]]]]
+
+###### Discourse Context
+
+

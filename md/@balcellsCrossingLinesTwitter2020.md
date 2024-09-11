@@ -1,0 +1,123 @@
+---
+title: "@balcellsCrossingLinesTwitter2020"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/WGNaTvIb8
+author: Joel Chan
+date: Mon Jul 24 2023 16:16:12 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Crossing Lines in the Twitter Debate on Catalonia’s Independence
+    - Year:: 2020
+    - Author(s):: Joan Balcells, Albert Padró-Solanet
+    - Abstract:: The effect of social media as a potential sphere for public deliberation still remains unclear. For some analysts, social media can create a vibrant space for political discussion, whereas others believe they do not provide the right conditions for meaningful interaction and could even have negative effects on public opinion by, for instance, fostering communication within isolated enclaves. Focusing on the debate surrounding Catalonia’s secession, this article analyses the interaction on Twitter between the opposite sides of this divisive political issue. Carefully based on a nonbiased random sampling procedure, we describe Twitter conversations through network and content analyses, using both indicators of the structure of conversations and opinion diversity. Remarkably, we find that Twitter users cross lines of difference and interact with people holding opposing views. Through a regression analysis, we show that the level of reciprocity, understood as repeated interaction and measured by the depth of the conversation, is explained by heterogeneity and associated with a higher involvement of the pro-independence side. However, if heterogeneity is combined with extremism, the development of longer conversations is severely cut. Overall, this article points toward the actual use of social media as a space for cross-cutting communication and debate despite strong disagreement.
+    - Type:: Article
+    - Publication:: The International Journal of Press/Politics
+    - URL:: https://doi.org/10.1177/1940161219858687
+    - Date Added:: [[July 24th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/TNJPLHQW), [Web Library](https://www.zotero.org/groups/4985507/items/TNJPLHQW)
+    - Publication Tags::
+    - PDF links:: [Balcells_Padró-Solanet_2020_Crossing Lines in the Twitter Debate on Catalonia’s Independence.pdf](zotero://open-pdf/groups/4985507/items/LBMG2XUD)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political echo chambers?]]
+    - Status::
+        - [x] #firstPass by [[Jay Patel]]
+        - [ ] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+            - **All relevant CLM and EVD mappings described:**
+            - **General notes**
+        - [ ] #revised by [[Jay Patel]]
+        - [ ] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - **Claude by Anthropic, elaborated by Jay**
+            - **Primary assumptions**: 28-32
+                - Twitter can foster both echo chambers and open deliberation depending on how it is used. Discussing politics with those who disagree can have positive or negative effects on political attitudes.
+            - **Research questions**: pg. 31
+                - Do Twitter users in the Catalan independence debate stay isolated in echo chambers or interact across partisan lines?
+                - How does the heterogeneity of views in a Twitter conversation impact the depth of the conversation?
+            - **Background information**: pgs. 28-31
+                - Debate over Catalan independence is highly divisive but also public and actively discussed on social media. Twitter allows users to choose who to interact with but also publicly engage anyone. The sample of conversations was taken around the 2015 Catalan parliamentary elections.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FjEcsItW36h.png?alt=media&token=ed712b46-2fa4-4d02-953f-af68004dd355)
+            - **Hypotheses**: pgs. 33-34
+                - H1: Twitter users on both sides of the secession debate do not remain **isolated** in echo-chambers.
+                - H2: **Heterogeneity** between conversation participants is positively related to the development of reciprocal conversations.
+                - H3: Users' **extremism** is positively related to the development of reciprocal conversations.
+                - H3a: **Extremism** and heterogeneity have a negative interaction effect on the development of reciprocal conversations.
+                - H4: The pro-independence side is **more actively** involved in reciprocal conversations.
+            - **Data and Methods**: pgs. 35-41
+                - Constructed sample of Twitter conversations related to Catalan independence by sampling followers of pro/anti-independence groups (Table 1).
+                    - pg. 31
+                - Coded conversations as issue-related or not. Measured opinion diversity through followed accounts (Figure 1). Analyzed structure of conversation "trees" using depth and width metrics. Regression analysis predicting conversation depth.
+            - **Settings**
+                - Twitter conversations in Sept-Oct 2015 around Catalan parliamentary elections.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FgWCvyVEUxk.07.23.png?alt=media&token=f931fac2-505a-47b5-b8ff-36a8337bd1a5)
+            - **Sample**
+                - pg. 35
+                    - 498 issue-related Twitter conversations (Table 3). 2718 unique Twitter users.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FgWCvyVEUxk.07.23.png?alt=media&token=f931fac2-505a-47b5-b8ff-36a8337bd1a5)
+            - **Measures**
+                - pg. 35
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FtjCN3BrB72.08.51.png?alt=media&token=ce26712a-7543-4235-8e7d-96a3a4fc86d5)
+                - Conversation depth: number of reply levels.
+                - Width: not included for theoretical reasons
+                - Fragmentation/Extremism: distance of users from moderate position.
+                    - pgs. 37-38
+                        - MDS: Multidimensional Scaling
+                            - x-axis: position in debate (left: pro-union, right: pro-independence)
+                            - y-axis: popularity level, neglected in analysis
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F5F4oSAe4v7.32.23.png?alt=media&token=4c839b57-a9d5-4e71-9356-a28b5992fde3)
+                - pg. 38, measuring heterogeneity
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FJA-4mIgH0C.39.19.png?alt=media&token=dc4abe6e-68f5-43aa-892a-8fa3fd60fc60)
+                - pg. 39, measuring extremism
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FezdvQHPYOw.41.47.png?alt=media&token=9b62b678-6622-4d2e-872a-a0cf223afccf)
+                - pg. 40, Tables 2-3
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FMiV1nIT6an.45.33.png?alt=media&token=5065d81e-9fb4-4518-a8fa-8976e06d34b8)
+                - **Regression analysis**
+                    - OLS regression
+                        - log transformed DV
+            - **Results**: pgs. 41-46
+                - pgs. 41-42
+                    - Interactions between users: H1
+                    - [[[[EVD]] - Fifty-five percent of issue-related conversations involved interactions between users from both sides of union debate. - [[@balcellsCrossingLinesTwitter2020]]]] 55% of conversations were heterogeneous, crossing partisan lines (Figure 3).
+                - pgs. 42-43
+                    - [[[[EVD]] - According to regression analysis, heterogeneity increased the level of depth of conversations. - [[@balcellsCrossingLinesTwitter2020]]]] Heterogeneity positively predicted conversation depth (Figure 4). Extremism positively predicted depth alone but negatively combined with heterogeneity (Figure 5). Pro-independence side participated more in deeper conversations.
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FLYQzcYcG2i.55.11.png?alt=media&token=10ca20fe-1ad7-4d02-96a5-2839b6454b98)
+                        - **Figure 4**: Predicted values of depth (log) at different levels of heterogeneity.
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FKXENTHVdW1.00.47.png?alt=media&token=976af752-4ece-429e-9881-bf8177b1bb3d)
+                        - pg. 44, Figure 5. Predicted values of depth (log) at different levels of heterogeneity and extremism.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FWmpDAeOAXe.03.13.png?alt=media&token=aed11c4c-be9d-481b-b73c-55bf0f9e49d0)
+                        - pg. 45, Heterogeneity, H2
+                            - "conversation is more likely to flourish when opposing sides find each other than among like-minded people."
+                - pgs. 45-46 Extremism H3a
+                    - "heterogeneous conversations are longer when they involve users who are placed on the more moderate and central positions of the debate, and probably more disposed to hear the other side, and shorter when users are at the extremes of the spectrum, and more detached from each other."
+                - pg. 46, Asymmetry H4
+                    - "The regression analysis reveals that conversations involving the pro-independence side tend to achieve significantly higher levels of depth. Figure 3 shows that the issue of independence is especially prominent as a topic of conversation among those who are in favor of secession."
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FHx3kJIHRfi.42.49.png?alt=media&token=941b3b2b-cec2-43a5-9395-514f12ca1c11)
+            - **Interpretations/Claims**
+                - **Twitter facilitates cross-cutting political talk during divisive debates, not just echo chambers**. Disagreement draws users into extended discussions, unless views are too extreme. Challengers to status quo are more motivated to engage opponents.
+                - pg. 29
+                - "...users on **both sides have real incentives to cross lines of difference and dialectically engage with opponents** to change the tide of opinion. Even more significantly, interactions among opponents are longer, and more reciprocal, than among like-minded groups."
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fzx1OeAc0f2.33.21.png?alt=media&token=e0478dd4-260d-4ca1-93b5-a569634f6c99)
+            - **Generalizations**
+                - Social media like Twitter can host vibrant political deliberation and debate across partisan lines. **Some disagreement encourages reciprocation but too much impedes meaningful discussion**.
+                    - pg. 47
+                        - "...against the echo chamber assumption, we observe instead a **remarkable and persistent willingness to interact across lines of political difference**..."
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FhEqQYNn3SF.27.28.png?alt=media&token=3bc2559a-b4c9-4983-af23-e8c703980e9c)
+                        - "In addition, we find that **conversations are significantly longer when Twitter users cross lines of difference** and interact with antagonistic viewpoints, which is consistent with other studies that see disagreement as a catalyst for online reciprocal discussion"
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fkq6gEhTTb2.29.51.png?alt=media&token=64a053c7-e3c3-4c4a-b2cc-1ba31f4f5a0d)
+    - **CLM and EVD summary tree**
+        - [[[[CLM]] - Twitter users discussing politics are not isolated in echo-chambers.]]
+            - [[[[EVD]] - Fifty-five percent of issue-related conversations involved interactions between users from both sides of union debate. - [[@balcellsCrossingLinesTwitter2020]]]]
+        - [[[[CLM]] - Heterogeneity between Twitter users is positively related to the development of reciprocal conversations.]]
+            - [[[[EVD]] - According to regression analysis, heterogeneity increased the level of depth of conversations. - [[@balcellsCrossingLinesTwitter2020]]]]
+        - [[[[CLM]] - Users' extremism is positively related to the development of reciprocal conversations.]]
+            - [[[[EVD]] - According to regression analysis, heterogeneous conversations were longer when they involved users who are placed on the more moderate and central positions of the debate, and were probably more disposed to hear the other side. - [[@balcellsCrossingLinesTwitter2020]]]]
+        - [[[[CLM]] - Extremism and heterogeneity on social media negatively affect the development of reciprocal conversations.]]
+            - [[[[EVD]] - According to regression analysis, conversations involving the pro-independence side of the union debate tended to achieve significantly higher level of depth (clear asymmetry between the two sides of the debate). - [[@balcellsCrossingLinesTwitter2020]]]]
+
+###### Discourse Context
+
+

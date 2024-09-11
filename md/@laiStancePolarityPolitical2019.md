@@ -1,0 +1,92 @@
+---
+title: "@laiStancePolarityPolitical2019"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/fM8tvHuuq
+author: Joel Chan
+date: Mon Jul 03 2023 11:24:19 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Stance polarity in political debates: A diachronic perspective of network homophily and conversations on Twitter
+    - Year:: 2019
+    - Author(s):: Mirko Lai, Marcella Tambuscio, Viviana Patti, Giancarlo Ruffo, Paolo Rosso
+    - Abstract::
+    - Type:: Article
+    - Publication:: Data &amp; Knowledge Engineering
+    - URL:: https://doi/org/10.1016/j.datak.2019.101738
+    - Date Added:: [[July 3rd, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/ABRIPKWP), [Web Library](https://www.zotero.org/groups/4985507/items/ABRIPKWP)
+    - Publication Tags:: py-import
+    - PDF links:: [Lai et al_2019_Stance polarity in political debates.pdf](zotero://open-pdf/groups/4985507/items/C8RMZWD8)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Carolina Franca Tristao Batista]]
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+                - yes!
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - Twitter users are generally aggregated in homogeneous communities.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes!
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): small fix
+                        - [x] remove reply-to caveat, and change the reply-to-network results to `OpposedBy` to this CLM
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes!
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - The majority (80-90%)of networks of tweets about the Italian referendum shared links had the same model-estimated stance towards the referendum as the users who shared them. Retweet and quote networks had almost 100% of within-stance. - [[@laiStancePolarityPolitical2019]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes!
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes!
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): small fixes
+                        - [x] could probably rephrase for clarity:
+                            - "the majority (80-90%)of networks of tweets about the Italian referendum shared links had the same model-estimated stance towards the referendum as the users who shared them"
+                            - see [below]([x] need more details on stance detection) for why to add "model-estimated"
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes needed
+                        - [x] need more details on stance detection
+                            - roughly:
+                                - made training dataset of manual annotations collected via crowdsourced 968 triplet judgments (section 4)
+                                - then train SVM model to predict stance, achieved ~.6-.8 F-measure across the networks (section 5)
+                                - crucially, this is what was used to estimate stance in the full dataset used for the EVD
+                - [[[[EVD]] - There were no striking divisions between users exposing different stances in the reply-to Twitter network of the Italian referendum. - [[@laiStancePolarityPolitical2019]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes needed
+                        - [x] add back in context of Italian referendum and twitter
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes needed
+                        - [x] need to describe the homophily test and modularity measures pp. 20-21 (beginning of section 7), which are the basis of the results in section 7, including this one
+            - **All relevant CLM and EVD mappings described:** some fixes needed
+                - missing key results in section 7, esp the homophily test (described on p. 21), and is partially for
+                    - can integrate into [[[[EVD]] - The majority (80-90%)of networks of tweets about the Italian referendum shared links had the same model-estimated stance towards the referendum as the users who shared them. Retweet and quote networks had almost 100% of within-stance. - [[@laiStancePolarityPolitical2019]]]]
+                - see also request to [x] remove reply-to caveat, and change the reply-to-network results to `OpposedBy` to this CLM
+            - **General/other notes**
+        - [x] #revised by [[Carolina Franca Tristao Batista]]
+        - [x] #[[approved]] by [[Joel Chan]]
+            - looks good, pending this one: [x] need to describe the homophily test and modularity measures pp. 20-21 (beginning of section 7), which are the basis of the results in section 7, including this one
+                - can't find it?
+    - Scratchpad
+        - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+        - **Participants and setting**: About 900K tweets about the Referendum held in Italy on December 4th, 2016, where citizens were asked to express their opinion towards a reform of the Italian Constitution, collected between November 24th and December 7th.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FLgBWVLyFsO.57.46%20PM.png?alt=media&token=12f9adab-48f0-4208-91d8-d40c098bbe77) (p. 6)
+        - **Design**: Snowball sampling was used to expand the tweets dataset by considering retweets, quotes, replies, and followers. The goal was to  social network structure changed during the discussions and controversies among users.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FpY8qnBIJus.06.55%20PM.png?alt=media&token=42636f67-c8e1-4a62-9c12-9022b378e793) (p. 7)
+        - **Materials**: Expanded Twitter network obtained from 900k tweets containing hashtags related to the Italian referendum.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FLgBWVLyFsO.57.46%20PM.png?alt=media&token=12f9adab-48f0-4208-91d8-d40c098bbe77) (p. 6)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FpY8qnBIJus.06.55%20PM.png?alt=media&token=42636f67-c8e1-4a62-9c12-9022b378e793) (p. 7)
+        - **Outcome measure**: stance at user level, labeled as "against", "favor" and "none" across network and time.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FTY4n5SINy-.22.02%20PM.png?alt=media&token=e0249ad2-c510-463a-bb17-facd14af394e) (p. 9)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FXjj1GJpU_c.22.25%20PM.png?alt=media&token=3a5ec114-9f11-4b2f-a8a3-f9cfc3e8798d) (p.10)
+        - **Analysis**: Network analysis (followers, retweets, quotes and replies).
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FMSft90l96r.45.03%20PM.png?alt=media&token=c33e47c7-397e-4510-a662-dfc0abc87eab) (p.18)
+    - CLM and EVD summary tree
+        - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+        - [[[[CLM]] - Twitter users are generally aggregated in homogeneous communities.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FOIPtnL8JQ7.30.40%20PM.png?alt=media&token=bcda5d0e-e8f4-41ac-9b56-c7752e7c2d55) (p.27)
+            - [[SupportedBy]]
+                - [[[[EVD]] - The majority (80-90%)of networks of tweets about the Italian referendum shared links had the same model-estimated stance towards the referendum as the users who shared them. Retweet and quote networks had almost 100% of within-stance. - [[@laiStancePolarityPolitical2019]]]]
+            - [[OpposedBy]]
+                - [[[[EVD]] - There were no striking divisions between users exposing different stances in the reply-to Twitter network of the Italian referendum. - [[@laiStancePolarityPolitical2019]]]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FPsKw_mJq4I.09.54%20AM.png?alt=media&token=57b0cac7-24ed-4013-8118-5737580cdc4b) (p.21)
+
+###### Discourse Context
+
+

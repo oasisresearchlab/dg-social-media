@@ -1,0 +1,104 @@
+---
+title: "@northBattleBritainAnalyzing2021"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/KhJuMTuyd
+author: Joel Chan
+date: Wed Jul 12 2023 10:38:26 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Battle for Britain: Analyzing Events as Drivers of Political Tribalism in Twitter Discussions of Brexit
+    - Year:: 2021
+    - Author(s):: Samantha North, Lukasz Piwek, Adam Joinson
+    - Abstract:: In the aftermath of the 2016 referendum on European Union (EU) membership, Britain was divided into identity groups (or tribes) of Leavers and Remainers. In this study, we investigate how Brexit tribalism—in the form of outgroup derogation—has unfolded over time on Twitter. We analyze data from 32 months of discussions (n = 9,027,822), using identity-based keywords as proxies for tribalism. First, we characterize the nature of the discussion by comparing language use patterns between tweets containing Brexiteer/Remainer and Brextremist/Remoaner keywords. We find that Brextremist/Remoaner are more commonly used in a derogatory way. We also find that all four group identity keywords are used more frequently over time, suggesting an increase in tribal interactions. Finally, we find evidence of a relationship between real-life Brexit events and spikes in tribal responses online. These findings provide compelling insights into the extent of tribal political behavior on social media. They are significant for furthering our understanding of tribalism as a central feature of information warfare campaigns that aim to divide societies.
+    - Type:: Article
+    - Publication:: Policy & Internet
+    - URL:: https://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.247
+    - Date Added:: [[July 12th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/G8ASVZWJ), [Web Library](https://www.zotero.org/groups/4985507/items/G8ASVZWJ)
+    - Publication Tags:: Brexit Twitter conflicto intergrupal intergroup conflict polarización polarization political tribalism redes sociales social media tribalismo político 团体间冲突 推特 政治部落主义 极化 社交媒体 英国脱欧
+    - PDF links:: [northBattleBritainAnalyzing2021.pdf](zotero://open-pdf/groups/4985507/items/LE6MZXCU)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Carolina Franca Tristao Batista]]
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?** yes!
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - Tribal behavior spikes on social media occur around certain events of the Brexit process.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): some fixes needed
+                        - [x] maybe too general: tribal behavior spikes on social media
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes!
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))):
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - [[[[CLM]] - Brexit tribalism on Twitter occurs in the form of out-group derogation.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - 27 out of 38 events of the Brexit timelines were associated with unusual spikes in the volume of tribal keywords outside of the normal range.  - [[@northBattleBritainAnalyzing2021]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes!
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes!
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes needed
+                        - [x] clarify anomaly points
+                            - clearer: unusual spikes in the volume of tribal keywords outside of the normal range
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes
+                        - [x] add details on how tribal keywords were selected (p. 190)
+                            - imp to note they selected to cover frequency over analysis time frame
+                - [[[[EVD]] - All of the derogatory words used to talk about Remoaners on Twitter contain negative tribal associations.  - [[@northBattleBritainAnalyzing2021]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] add: on Twitter
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes
+                        - [x] how were derogatory vs. other words conceptualized and operationalized?
+                            - on a quick skim, looks like it was... intuitive? not super systematic? worth noting explicitly
+                - [[[[EVD]] - Derogatory Brextremist discourse on Twitter included many terms that suggested lack of sanity (e.g., nutters, loonies) and references to fear and hatred of foreigners and destruction of Britain. - [[@northBattleBritainAnalyzing2021]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] make past tense
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] add: on twitter
+                        - [x] clarify terms
+                            - "Derogatory Brextremist discourse on Twitter included many terms that suggested lack of sanity (e.g., nutters, loonies) and references to fear and hatred of foreigners and destruction of Britain"
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes
+                        - [x] as above, clarify how these interpretations were done
+                            - may not be systematic/methodical
+            - **All relevant CLM and EVD mappings described:**
+            - **General notes**
+        - [x] #revised by [[Carolina Franca Tristao Batista]]
+        - [x] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+        - **Participants and setting**: 9,027,822 tweets posted between June 1, 2016 and February 13, 2019 containing at least one of these words: Brexiteer, Brextremist, Remainer and Remoaner.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FgqtoNCM5C1.53.10%20AM.png?alt=media&token=86279b22-675c-4988-8c19-64fbeda09f28) (p.191)
+        - **Design**: Two sets of keywords related to Brexit were selected, one more neutral (Brexiteer and Remainer) and one more derogatory (Brextremist and Remoaner). The use of these words would identify in-group and out-group discourse. 20 representative words were selected for each group, comprising both neutral and derogatory terms. This analysis aimed to highlight significant differences in language usage between the groups. The Anomalize library was then used to perform time-series decomposition, separating the data into seasonal, trend, and remainder components. It also helped separating "typical" data points from anomalies. The anomaly detection results were compared to a timeline of real-life events
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FesULXE9ea8.05.16%20AM.png?alt=media&token=2a3f5c99-c7d6-41a7-971b-a75c75e36e6e) (p.191)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FRvrnZFx8nD.34.45%20AM.png?alt=media&token=a3b2c9fe-ef9b-4276-b7d5-eff2b7353b2f) (p.193)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F4JoB5lJKyu.38.49%20AM.png?alt=media&token=9678659e-66bc-4b59-947f-e1695f260624) (p.193)
+        - **Materials**: Twitter API, Anomalize library and UK media outlets.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FPHwqdP5HjJ.35.50%20AM.png?alt=media&token=25dbb293-ad39-4719-8cc1-f3e43360f876) (p.190)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FRvrnZFx8nD.34.45%20AM.png?alt=media&token=a3b2c9fe-ef9b-4276-b7d5-eff2b7353b2f) (p.193)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FfyR6JKl47F.40.08%20AM.png?alt=media&token=f0b7151c-5d8a-4e7c-a454-b9baed449119) (p.193)
+        - **Measure: anomalies **: statistical measure indicating where volumes of tribal keywords used rose or fell to levels outside of the normal range.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F__kyTPJf6E.18.53%20PM.png?alt=media&token=b86edf6a-840e-498f-965c-bd8ca3b57b0a) (p.200)
+        - **Analysis**: text analysis using bigrams and the Anomalize library.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FJiqMjHAEaA.24.53%20PM.png?alt=media&token=18be00dc-d6fd-4be9-b108-a60952581778) (p.191)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FRvrnZFx8nD.34.45%20AM.png?alt=media&token=a3b2c9fe-ef9b-4276-b7d5-eff2b7353b2f) (p.193)
+    - CLM and EVD summary tree
+        - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+        - [[[[CLM]] - Tribal behavior spikes on social media occur around certain events of the Brexit process.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F5m7R0WQBRv.43.25%20AM.png?alt=media&token=8a585782-b239-46cc-b4ae-cc845ba1b4c6) (p.193)
+            - [[SupportedBy]]
+                - [[[[EVD]] - 27 out of 38 events of the Brexit timelines were associated with unusual spikes in the volume of tribal keywords outside of the normal range.  - [[@northBattleBritainAnalyzing2021]]]]
+        - [[[[CLM]] - Brexit tribalism on Twitter occurs in the form of out-group derogation.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FPyT388mRUr.52.28%20AM.png?alt=media&token=1f450550-c8f7-40af-9853-1c300911cedf)
+            - [[SupportedBy]]
+                - [[[[EVD]] - All of the derogatory words used to talk about Remoaners on Twitter contain negative tribal associations.  - [[@northBattleBritainAnalyzing2021]]]]
+                - [[[[EVD]] - Derogatory Brextremist discourse on Twitter included many terms that suggested lack of sanity (e.g., nutters, loonies) and references to fear and hatred of foreigners and destruction of Britain. - [[@northBattleBritainAnalyzing2021]]]]
+
+###### Discourse Context
+
+

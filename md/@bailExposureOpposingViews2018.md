@@ -1,0 +1,126 @@
+---
+title: "@bailExposureOpposingViews2018"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/rgs7c1u-t
+author: Joel Chan
+date: Thu Jun 22 2023 11:45:51 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Exposure to opposing views on social media can increase political polarization
+    - Year:: 2018
+    - Author(s):: Christopher A. Bail, Lisa P. Argyle, Taylor W. Brown, John P. Bumpus, Haohan Chen, M. B. Fallin Hunzaker, Jaemin Lee, Marcus Mann, Friedolin Merhout, Alexander Volfovsky
+    - Abstract:: There is mounting concern that social media sites contribute to political polarization by creating “echo chambers” that insulate people from opposing views about current events. We surveyed a large sample of Democrats and Republicans who visit Twitter at least three times each week about a range of social policy issues. One week later, we randomly assigned respondents to a treatment condition in which they were offered financial incentives to follow a Twitter bot for 1 month that exposed them to messages from those with opposing political ideologies (e.g., elected officials, opinion leaders, media organizations, and nonprofit groups). Respondents were resurveyed at the end of the month to measure the effect of this treatment, and at regular intervals throughout the study period to monitor treatment compliance. We find that Republicans who followed a liberal Twitter bot became substantially more conservative posttreatment. Democrats exhibited slight increases in liberal attitudes after following a conservative Twitter bot, although these effects are not statistically significant. Notwithstanding important limitations of our study, these findings have significant implications for the interdisciplinary literature on political polarization and the emerging field of computational social science.
+    - Type:: Article
+    - Publication:: Proceedings of the National Academy of Sciences
+    - URL:: https://www.pnas.org/doi/full/10.1073/pnas.1804840115
+    - Date Added:: [[June 22nd, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/EJCS2V5K), [Web Library](https://www.zotero.org/groups/4985507/items/EJCS2V5K)
+    - Publication Tags::
+    - PDF links:: [bailExposureOpposingViews2018.pdf](zotero://open-pdf/groups/4985507/items/2HJ3W2JF)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Flavia Batista]]
+        - [x] #checked by [[Carolina Franca Tristao Batista]]
+            - CLM nodes conform to the [CLM style guide](Claim ([[CLM]]) nodes #.sticky): Move "key claims" to CLM section.
+            - CLMs redundant/mergeable with existing CLMs in the Master Index: -
+            - EVD nodes conform to the [EVD style guide](Evidence ([[EVD]]) nodes #.sticky): Move "key results" to EVD sections. There are no images of the results (e.g. fig 3)
+            - All relevant CLM and EVD mappings described: Some CLM and EVD are in "Key claims" and "Key results".
+            - Format the first section (Scratchpad) according to the model (Banks example).
+                - "Analysis" should be included in "outcome measure".
+                - **Bold** text in the subtitles (Participants and setting, design, materials and outcome measure)
+                - Sum up the "Design" section (the details will be available at the annexed images)
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?** yes
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - Exposing twitter users to opposing views reduces political polarization]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): no
+                        - [x] rephrase to be positive: "Exposing Twitter users to opposing views reduces political polarization" and then change the relationship with the EVD to be `OpposedBy`
+                            - this is actually a neat example, because the general claim is opposed by this evidence, but the more specific claim about effects amongst republicans is supported by the evidence
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [x] reference source in body of CLM page
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): yes
+                - [[[[CLM]] - Exposure to opposing views on Twitter increases polarization among Republicans]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [x] reference source in body of CLM page
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): yes
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:** n/a
+                - [[[[EVD]] - Both Republican and Democrat users reported change in self-reported political ideology towards their own ideological extreme when exposed to opposing views on Twitter, yet only Republicans' effects were statistically significant - [[@bailExposureOpposingViews2018]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): some fixes needed
+                        - [x] rephrase to refer to measure (change in self-reported political ideology towards their own ideological extreme) vs. construct (backfire effect)
+                            - backfire effect is construct, and users did not report that they experienced the effect; instead, researchers measured the "change in political ideology towards their ideological extreme" or something like that
+                            - see **Outcome measure**: change in political ideology during the study period via a 10-item survey instrument that asked respondents to agree or disagree with a range of statements about policy issues on a seven-point scale (α = .91).
+                        - [x] please include screenshots of text describing result also
+                        - [x] please map to the figures (move the relevant figures and screenshots from "key results" to nest under the EVD block)
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): good
+                        - we need the SI appendix! :/
+                - [[[[EVD]] - Republican users exposed to opposing views on Twitter had an increase in conservatism between 0.11 and 0.59 standard deviations  - [[@bailExposureOpposingViews2018]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): some fixes needed
+                        - [x] please map to the figures (move the relevant figures and screenshots from "key results" to nest under the EVD block)
+                        - [x] please include screenshots of text describing result also
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): good
+            - **All relevant CLM and EVD mappings described:** yes
+            - **General notes**
+                - easy paper to read!
+        - [x] #revised by [[Flavia Batista]]
+            - Not sure if I should move the key claims or just keep them as it is - what do you think Joel?
+            - Should I also do the same with the key results?
+            - I opted for including the images for the results under key results in the scratchpad
+            - "Analysis" should be included in "outcome measure". -- Joel has it as a separate section.
+        - [x] #approved by [[Joel Chan]]
+    - Scratchpad
+        - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+        - **Context**: Growing concern over social media because of social network "homophily" and the creation of "echo chambers", that is patterns of information that reinforce preexisting political beliefs and limit exposure to contrasting political views.
+        - **Key claims**:
+            - Disrupting selective exposure to partisan information will decrease political polarization because of intergroup contact effects.
+                - (p. 9216)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FK5ZsvgpnTr.55.48%20PM.png?alt=media&token=4cbdb5d6-5cb1-48d8-afad-2967aee51fca)
+            - Exposure to those with opposing political views may create backfire effects that exacerbate political polarization.
+                - (p. 9217)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FP2SImT_ycs.57.08%20PM.png?alt=media&token=708c9c92-1303-44ca-9af6-3c81b8c00a4d)
+            - Backfire effects will be more likely to occur among conservatives than liberals.
+                - (p. 9217)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F2USF1BMQUD.26.10%20PM.png?alt=media&token=d24a888b-90f0-47de-8da0-f0fc860e5465)
+        - **Participants and setting**: self-identified Republicans and Democrats who visit Twitter at least three times each week to complete a 10-min survey in mid-October 2017 and 1.5 mo later.
+            - (p. 9217)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F6GvbqcHV6R.28.35%20PM.png?alt=media&token=de3ff1be-b977-4c32-935d-a325e7d80de7)
+        - **Design**: They surveyed a large sample of Democrats and Republicans who visit Twitter at least three times each week about a range of social policy issues. One week later, they randomly assigned respondents to a treatment condition in which they were offered financial incentives to follow a Twitter bot for 1 month that exposed them to messages from those with opposing political ideologies (e.g., elected officials, opinion leaders, media organizations, and nonprofit groups). Respondents were resurveyed at the end of the month to measure the effect of this treatment, and at regular intervals throughout the study period to monitor treatment compliance.
+            - (p. 9218)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FeKOm0eckpw.31.10%20PM.png?alt=media&token=7dc262d1-507b-4d08-b7c7-c7d2d472c898)
+        - **Materials**: Twitter bots that retweeted messages by elected officials, organizations, and opinion leaders with opposing political ideologies
+            - (p. 9219)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FqkLFvKLkwa.34.46%20PM.png?alt=media&token=fac1d2aa-9861-49f8-a572-6f437360c44f)
+        - **Outcome measure**: change in political ideology during the study period via a 10-item survey instrument that asked respondents to agree or disagree with a range of statements about policy issues on a seven-point scale (α = .91).
+        - **Analysis**: multivariate models that predict respondents’ posttreatment scores on the liberal/conservative scale described above, controlling for pretreatment scores on this scale as well as 12 other covariates
+            - More in the Appendix: https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1804840115/-/DCSupplemental
+        - **Key results**:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FGzMgtm9mFl.46.10%20PM.png?alt=media&token=cf34d452-db99-4342-86d4-bb3775ecbbd1) (p. 9220)
+            - No evidence that exposing Twitter users to opposing views reduces political polarization.
+            - Treated Republicans exhibited substantially more conservative views posttreatment.
+            - Democrats exhibited slightly more liberal attitudes posttreatment but these effects were NOT statistically significant.
+    - CLM and EVD summary tree
+        - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+        - [[[[CLM]] - Exposing twitter users to opposing views reduces political polarization]]
+            - p. 9216
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FZlAmIac5wz.07.40%20PM.png?alt=media&token=b71fb72f-af09-44c9-896e-a21add20d926)
+            - [[OpposedBy]]
+                - [[[[EVD]] - Both Republican and Democrat users reported change in self-reported political ideology towards their own ideological extreme when exposed to opposing views on Twitter, yet only Republicans' effects were statistically significant - [[@bailExposureOpposingViews2018]]]]
+        - [[[[CLM]] - Exposure to opposing views on Twitter increases polarization among Republicans]]
+            - p. 9217
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FKSjbIx4Cj5.08.29%20PM.png?alt=media&token=c6ef24d8-4e7a-4af6-95a9-430cb0b77cc3)
+            - [[SupportedBy]]
+                - [[[[EVD]] - Republican users exposed to opposing views on Twitter had an increase in conservatism between 0.11 and 0.59 standard deviations  - [[@bailExposureOpposingViews2018]]]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FGzMgtm9mFl.46.10%20PM.png?alt=media&token=cf34d452-db99-4342-86d4-bb3775ecbbd1) (p. 9220)
+
+###### Discourse Context
+
+

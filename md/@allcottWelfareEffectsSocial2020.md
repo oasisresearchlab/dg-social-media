@@ -1,0 +1,120 @@
+---
+title: "@allcottWelfareEffectsSocial2020"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/xdYnaHvIR
+author: Joel Chan
+date: Thu Jun 22 2023 11:45:30 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: The Welfare Effects of Social Media
+    - Year:: 2020
+    - Author(s):: Hunt Allcott, Luca Braghieri, Sarah Eichmeyer, Matthew Gentzkow
+    - Abstract:: <jats:p> The rise of social media has provoked both optimism about potential societal benefits and concern about harms such as addiction, depression, and political polarization. In a randomized experiment, we find that deactivating Facebook for the four weeks before the 2018 US midterm election (i) reduced online activity, while increasing offline activities such as watching TV alone and socializing with family and friends; (ii) reduced both factual news knowledge and political polarization; (iii) increased subjective well-being; and post-experiment Facebook use. Deactivation reduced post-experiment valuations of Facebook, suggesting that traditional metrics may overstate consumer surplus. (JEL D12, D72, D90, I31, L82, L86, Z13) </jats:p>
+    - Type:: Article
+    - Publication:: American Economic Review
+    - URL:: https://doi/org/10.1257/aer.20190658
+    - Date Added:: [[June 22nd, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/US9XHRFH), [Web Library](https://www.zotero.org/groups/4985507/items/US9XHRFH)
+    - Publication Tags:: py-import
+    - PDF links:: [Allcott et al_2020_The Welfare Effects of Social Media.pdf](zotero://open-pdf/groups/4985507/items/Y4JPP5YC)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Carolina Franca Tristao Batista]]
+        - [x] #checked by [[Flavia Batista]]
+            - CLM nodes conform to the [CLM style guide](Claim ([[CLM]]) nodes #.sticky): for the second CLM node, very general - which measures???
+                - Done. Changed CLM wording and clarified in EVD.
+            - CLMs redundant/mergeable with existing CLMs in the Master Index: Nice.
+            - EVD nodes conform to the [EVD style guide](Evidence ([[EVD]]) nodes #.sticky): include evidence for each CLM nodes
+                - All CLM nodes already had EVD nodes. Following @banksPolarizedFeedsThreeExperiments2021 model. No change was made following this comment.
+            - All relevant CLM and EVD mappings described: yes.
+            - In the scratchpad, I'd just include a bullet for key claims before getting to participants and settings.
+                - Key claims are in CLM nodes.
+            - Missing "analysis" as a bullet point -- see Joel's example
+                - Done
+            - I'd recommend including figures and quotes from the readings in the scratchpad under a bullet point named "key results" instead of including them as part of the EVD --> based on Joel's example
+                - Following @banksPolarizedFeedsThreeExperiments2021 example of figures and quotes on EVD. No change was made following this comment.
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?** Yes
+                - But skip these, not relevant to core RQ (yet at least!)
+                    - [[[[CLM]] - Facebook is an important source of news and information. Deactivation makes people less informed.]]
+                    - [[[[CLM]] - Facebook can improve people’s lives, but time away from the platform improves subjective well-being and substantially reduces post-experiment demand.]]
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - Deactivating Facebook makes people less polarized.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): some fixes needed
+                        - [x] clarify: deactivating what? ("deactivating Facebook makes people less politically polarized")
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes!
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [x] reference source in body of page
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): ok at this point!
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - Deactivating facebook reduced various measures of political polarization, particularly exposure to news that improve understanding of their own political party (vs. other party), and issue polarization, but not affective polarization. - [[@allcottWelfareEffectsSocial2020]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): some fixes needed
+                        - [ ] i think congenial news exposure, issue polarization, and political polarization index are quite different measures and constructs, so might be separated; should at least clarify that these are all various indices of political polarization, though they are conceptually distinct
+                            - see argument in footnote 23
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F7fX6P_ky8m.45.17%402x.png?alt=media&token=f177b058-b98c-4ace-acb6-9722f1090668) (p. 651)
+                            - easiest would be to say something like "deactivating facebook reduced various measures of political polarization, particularly exposure to news that improve understanding of their own political party (vs. other party), and issue polarization, but not affective polarization"
+                                - because it is significant that affective polarization is not significantly affected here, and is noticeably less negative than the other measures
+                            - alternatively, could separate out the statistically significant from significant ones as separate EVD notes, and maybe also separate out conceptual clusters
+                                - deactivating facebook reduced exposure to news that improved understanding of their own political party (vs. other party)
+                                - deactivating facebook reduced the extent to which respondent’s issue opinions aligned with the average opinion in their own party (vs. other party)
+                                - deactivating facebook did not result in statistically significant reductions in measures of affective political polarization
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): some fixes needed
+                        - [x] please include screenshots of text describing result also
+                        - [x] would be great to use the operationalizations instead of the constructs (e.g., congenial news exposure --> exposure to news that improved understanding of their own political party), unless they are standardized scales
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): some fixes needed
+                        - [x] add back in missing context about the various political polarization measures (beyond the party affective polarization operationalization in [this screenshot](![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FAIfnRoLRes.24.40%20PM.png?alt=media&token=2797a948-4baa-4117-9764-38203ca0dabe)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FHbSZPYPLtt.03.03.png?alt=media&token=a373a512-daf3-473b-999b-bf5c118c0348) (pp. 640-641))), esp. since only some of the measures were associated with sig. reductions as a function of deactivation
+            - **All relevant CLM and EVD mappings described:** yes!
+            - **General notes**
+                - nice clean paper, LOTS of detail, typical of a good econometrics paper IME
+        - [x] #[[revised]] by [[Carolina Franca Tristao Batista]]
+            - [[Joel Chan]] should I exclude the CLMs that are not relevant?
+        - [x] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+        - **Participants and setting**: 2,743 Facebook users that deactivated their accounts on the platform for the four weeks leading up to the November 2018 US midterm election.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FlO_WnVN-86.56.00%20AM.png?alt=media&token=7faf1457-4112-4c49-983a-a5e6641bdd4a) (p. 630)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FTEOVXzpuBP.51.17%20PM.png?alt=media&token=3e0daf98-d257-4cb8-a6ac-25f11faba96d) (p.18)
+        - **Design**: Participants responded to multiple surveys before and after the deactivating period. Between baseline and endline, participants also responded to text message surveys to measure subjective well-being.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FbofChVi771.09.10%20PM.png?alt=media&token=386b4648-66e9-4fc5-81c2-eb2b975c8e92) (p. 635)
+        - **Materials**: responses to the surveys and statistics of time of Facebook use during the examination.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FFl0bG_s1lb.14.43%20PM.png?alt=media&token=5b73b9ce-2d55-453b-9696-85c458fd2305) (p. 637)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F4MxSCuyWBP.15.26%20PM.png?alt=media&token=901e598d-1472-4842-965b-ae9caab8072e) (p. 637)
+        - **Measure: political polarization**, overall index + various specific measures, including affective polarization, vote intensity, congenial news exposure, etc.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FAIfnRoLRes.24.40%20PM.png?alt=media&token=2797a948-4baa-4117-9764-38203ca0dabe)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FHbSZPYPLtt.03.03.png?alt=media&token=a373a512-daf3-473b-999b-bf5c118c0348) (pp. 640-641)
+        - **Other measures**: Substitute time uses, social interaction, substitute news sources, news knowledge, political engagement, subjective well-being, post-experiment facebook use, and opinions about facebook.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fpd84OuYIJ6.16.59%20PM.png?alt=media&token=b3f8d381-9ee6-44c9-bd22-b02c8cad6c71) (p. 639)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F_LayEH0gdZ.18.37%20PM.png?alt=media&token=ee52012f-c69a-4b7f-a45f-bdd00e7c6b7a) (p.639)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F2uyl3ZMbgf.png?alt=media&token=7a6d4ec5-ba86-4f70-b05d-dccf82d32afa) (p.639-640)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FA3ntaI5t8S.21.43%20PM.png?alt=media&token=db8a67af-483c-4478-8f3b-0a98da76a3e3) (p.640)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FSjLniZERhV.23.10%20PM.png?alt=media&token=c7fa58ce-63c2-4262-814b-9a1d2c7ed4bc) (p.640)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FNSUb6gzJf3.26.00%20PM.png?alt=media&token=4f9bba6a-31cf-4f75-9814-5e9947577dee) (p.641)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FhyrZYbUmub.28.00%20PM.png?alt=media&token=678c34f9-284c-4969-9efa-d4a3fb2a148e) (p.642)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FrVEK_z7n6n.28.45%20PM.png?alt=media&token=6435face-dbb5-435d-833f-048c052ea583) (p.642)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FEfUwF8bhi4.png?alt=media&token=60a2c3eb-9086-4c26-b2b7-d0e0431e9f74) (p.642-643)
+        - **Analysis**: OLS regression, using as base sample participants that agreed to deactivate for less than $102.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F2aUBXulzvQ.22.35%20PM.png?alt=media&token=37e0c5b1-9c7d-4e51-86a5-9a30f9ec38c2) (p.646)
+    - CLM and EVD summary tree
+        - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+        - [[[[CLM]] - Facebook is an important source of news and information. Deactivation makes people less informed.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - Deactivating Facebook resulted in significant declines in both self-reported news attention and objectively measured news knowledge. - [[@allcottWelfareEffectsSocial2020]]]]
+        - [[[[CLM]] - Deactivating Facebook makes people less polarized.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FlG9ZfsDG92.50.51%20PM.png?alt=media&token=22410e1f-8e6d-426a-bce1-4e1307e9b58c) (p. 672)
+            - [[SupportedBy]]
+                - [[[[EVD]] - Deactivating facebook reduced various measures of political polarization, particularly exposure to news that improve understanding of their own political party (vs. other party), and issue polarization, but not affective polarization. - [[@allcottWelfareEffectsSocial2020]]]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FAIfnRoLRes.24.40%20PM.png?alt=media&token=2797a948-4baa-4117-9764-38203ca0dabe) (p.640)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Flua9pFQ4kV.15.20%20PM.png?alt=media&token=7ac8bf4f-9847-417e-aa3d-c995bbe57a18) (p.652)
+        - [[[[CLM]] - Facebook can improve people’s lives, but time away from the platform improves subjective well-being and substantially reduces post-experiment demand.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - deactivating Facebook resulted in improvements on measurements of subjective well-being - [[@allcottWelfareEffectsSocial2020]]]]
+                - [[[[EVD]] - Deactivating Facebook boosted participants' perception of its role in improving news consumption and increased agreement on the potential impact of deactivating one's account. - [[@allcottWelfareEffectsSocial2020]]]]
+
+###### Discourse Context
+
+

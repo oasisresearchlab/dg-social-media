@@ -1,0 +1,95 @@
+---
+title: "@kobayashiNewsAudienceFragmentation2019"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/2fq-LMhcp
+author: Joel Chan
+date: Mon Jul 03 2023 11:24:14 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: News audience fragmentation in the Japanese Twittersphere
+    - Year:: 2019
+    - Author(s):: Tetsuro Kobayashi, Yuki Ogawa, Takahisa Suzuki, Hitoshi Yamamoto
+    - Abstract:: Although computational approaches to ideology-based audience fragmentation are promising, they are not without limitations. First, most existing studies have focused on the US, and the cross-national validity of their results has rarely been tested. Second, previous studies that rely solely on behavioral data from social media tend to make strong analytical assumptions such as that Twitter users prefer to follow media and politicians whose ideological positions are similar to their own, and that the ideologies of political elites can be extrapolated to infer the ideologies of ordinary users. We aim to address these limitations. First, we focus on Japan to test the generalizability of US findings in an Asian context. Second, we do not rely solely on behavioral measurement but combine survey and social media data to infer the ideologies of Twitter users. Results indicate that our classifier built based on these self-reported ideologies produces more valid estimates than naïve extrapolation from views of the elites. Based on these improved estimates of Twitter users’ ideologies, we demonstrate that the ideological distributions of those who follow major Japanese media accounts on Twitter largely overlap, suggesting an absence of ideology-based audience fragmentation.
+    - Type:: Article
+    - Publication:: Asian Journal of Communication
+    - URL:: https://doi.org/10.1080/01292986.2018.1458326
+    - Date Added:: [[July 3rd, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/TX7XXTIS), [Web Library](https://www.zotero.org/groups/4985507/items/TX7XXTIS)
+    - Publication Tags:: Audience fragmentation machine learning selective exposure social media
+    - PDF links:: [Kobayashi et al. - News audience fragmentation in the Japanese Twittersphere.pdf](zotero://open-pdf/groups/4985507/items/Z6SKHNSR)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+    - ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+        - Status::
+            - [x] #firstPass by [[Carolina Franca Tristao Batista]]
+            - [x] #checked by [[Joel Chan]]
+                - **Any relevant CLMs/EVDs to check?**
+                    - yes!
+                - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                    - [[[[CLM]] - Media outlets audience fragmentation is limited in the Japanese Twittersphere.]]
+                        - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                        - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                        - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                        - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                    - [[[[EVD]] - Most Japanese media accounts were followed on Twitter by both liberal and conservative users, and the followers of major media accounts overlapped to a significant extent. - [[@kobayashiNewsAudienceFragmentation2019]]]]
+                        - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes!
+                        - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                            - [x] make past tense
+                        - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): some fixes needed
+                            - [x] contextualize to Japanese + Twitter context ("most Japanese media Twitter accounts)
+                        - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): some fixes needed
+                            - [x] move parts of the "[design](**Design**: Participants responded on a survey to their approval or disapproval of the Diet members they followed on twitter. Machine learning techniques were applied to measure ideology. )" to participants and setting (how recruited) and parts to the [outcome measure](((YNFgbB66T))) (how ideology was estimated: clear that in this case it has to do with issues)
+                            - [x] rename [outcome measure](**Measure**: ideology and the distributions of followers’ ideologies per media account for respondents and nonrespondents. The ideology of the respondents was measured using an issue attitude that measured Diet members political alignment. Then, the ideology of nonrespondents was estimated using a Random Forest classifier.) to just "measure"
+                            - [x] clarify what supervised machine learning methods were used to estimate ideology. this is crucial bc entirety of EVD is based on this measure
+                                - Random Forest, add details on training data, screenshot pp. 7-8
+                                - and Table 2 (note that only MSE is reported)
+                                - and validation of ideology estimate by comparing correlation with estimated followed Diet members' ideology and self-reported ideology (p. 9)
+                        - [[[[EVD]] - Smaller Japanese media outlets Twitter accounts had ideologically distinctive followers and were mainly isolated in the network. - [[@kobayashiNewsAudienceFragmentation2019]]]]
+                            - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes!
+                            - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                                - [x] make past tense
+                            - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): some fixes needed
+                                - [x] contextualize to Japanese + Twitter context ("most Japanese media Twitter accounts)
+                            - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): some fixes needed
+                                - [x] note how fragmentation is measured (Jaccard coefficient), p. 11
+                - **All relevant CLM and EVD mappings described:** yes!
+                - **General notes**
+            - [x] #revised by [[Carolina Franca Tristao Batista]]
+                - The clarification on RandomForest was already in "materials". Let me know if more details are needed.
+                    - JC: ah, gotcha, that is not where i would have expected it to be. moved it to measure
+            - [x] #[[approved]] by [[Joel Chan]]
+        - Scratchpad
+            - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+            - **Participants and setting**: 1,493 Japanese Twitter users recruited through a survey who followed the accounts of at least one media outlet and one Diet member. 603,952 nonrespondents were identified through Twitter API as of 17 June 2014.
+                - The text does not clarify what the Diet is. [The National Diet is the national legislature of Japan.](https://www.sangiin.go.jp/eng/)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fde0GWpKbwJ.png?alt=media&token=f5608337-08b4-4f0b-b209-51a3f0a779e2) (p.5-6)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FPMBoKWUR5C.59.44%20PM.png?alt=media&token=e4b37358-168d-4681-b3de-3d640bbc5eda) (p.9)
+            - **Design**: Participants responded on a survey to their approval or disapproval of the Diet members they followed on twitter. Machine learning techniques were applied to measure ideology.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fde0GWpKbwJ.png?alt=media&token=f5608337-08b4-4f0b-b209-51a3f0a779e2) (p.5-6)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FEcuaB9nJzO.43.28%20PM.png?alt=media&token=5c44cad1-9cce-4b63-aad5-a2099b51a84f) (p.6)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FLXVIlZ5hAK.43.57%20PM.png?alt=media&token=73903c82-fb35-43d6-8545-e67f663a2e7f) (p.7)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FlYrK7JBkKl.48.05%20PM.png?alt=media&token=3d3bf2fb-9600-4247-ab61-e79984a38d36) (p.7)
+            - **Materials**: responses to recruitment surveys, Twitter API, results from a survey administered by the University of Tokyo/Asahi Shimbun Survey (UTAS) and Random Forest.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FEcuaB9nJzO.43.28%20PM.png?alt=media&token=5c44cad1-9cce-4b63-aad5-a2099b51a84f) (p.6)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FLXVIlZ5hAK.43.57%20PM.png?alt=media&token=73903c82-fb35-43d6-8545-e67f663a2e7f) (p.7)
+            - **Measure**: ideology and the distributions of followers’ ideologies per media account for respondents and nonrespondents. The ideology of the respondents was measured using an issue attitude that measured Diet members political alignment. Then, the ideology of nonrespondents was estimated using a Random Forest classifier.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FUD5IElqenu.01.56%20PM.png?alt=media&token=eda3e986-b4ac-4b51-a676-bb2aabc88c8a) (p.9)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FLfABkVbOAa.02.19%20PM.png?alt=media&token=b6979476-bec9-4d05-90d6-9168231ad3c2) (p. 11)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fo6DZwsI4iT.49.28%20PM.png?alt=media&token=53f994c8-e695-4a1d-bb8a-3aefeebf0f50) (p.7)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FpSGp7aBMtL.21.36%20AM.png?alt=media&token=73cec700-4e08-44ac-bae2-0f462583ecfb) (p.8)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FQ6-Oo8UQs8.21.52%20AM.png?alt=media&token=113dd9a2-9767-42d0-9828-aeb9f01ed7b0) (p.8)
+            - **Analysis**: regression models, whose performance were evaluated by mean squared errors.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FhGGy6TXsp7.53.27%20PM.png?alt=media&token=9d069236-8652-4c42-80b4-39bdac9edd2e) (p.8)
+        - CLM and EVD summary tree
+            - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+            - [[[[CLM]] - Media outlets audience fragmentation is limited in the Japanese Twittersphere.]]
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F40z52iJ5Oz.12.30%20AM.png?alt=media&token=b4a4d605-fb6c-48b8-97fb-6389876f8587) (p.12)
+                - [[SupportedBy]]
+                    - [[[[EVD]] - Most Japanese media accounts were followed on Twitter by both liberal and conservative users, and the followers of major media accounts overlapped to a significant extent. - [[@kobayashiNewsAudienceFragmentation2019]]]]
+                    - [[[[EVD]] - Smaller Japanese media outlets Twitter accounts had ideologically distinctive followers and were mainly isolated in the network. - [[@kobayashiNewsAudienceFragmentation2019]]]]
+
+###### Discourse Context
+
+

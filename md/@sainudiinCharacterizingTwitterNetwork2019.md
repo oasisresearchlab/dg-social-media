@@ -1,0 +1,333 @@
+---
+title: "@sainudiinCharacterizingTwitterNetwork2019"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/syEZ8Z60b
+author: Joel Chan
+date: Mon Jul 24 2023 16:16:10 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Characterizing the Twitter network of prominent politicians and SPLC-defined hate groups in the 2016 US presidential election
+    - Year:: 2019
+    - Author(s):: Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash, Rania Sahioun
+    - Abstract:: We characterize the Twitter networks of the major presidential candidates, Donald J. Trump and Hillary R. Clinton, with various American hate groups defined by the US Southern Poverty Law Center (SPLC). We further examined the Twitter networks for Bernie Sanders, Ted Cruz, and Paul Ryan, for 9 weeks around the 2016 election (4 weeks prior to the election and 4 weeks post-election). We carefully account for the observed heterogeneity in the Twitter activity levels across individuals through the null hypothesis of apathetic retweeting that is formalized as a random network model based on the directed, multi-edged, self-looped, configuration model. Our data revealed via a generalized Fisher’s exact test that there were significantly many Twitter accounts linked to SPLC-defined hate groups belonging to seven ideologies (Anti-Government, Anti-Immigrant, Anti-LGBT, Anti-Muslim, Alt-Right, White-Nationalist and Neo-Nazi) and also to @realDonaldTrump relative to the accounts of the other four politicians. The exact hypothesis test uses Apache Spark’s distributed sort and join algorithms to produce independent samples in a fully scalable way from the null model. Additionally, by exploring the empirical Twitter network we found that significantly more individuals had the fewest retweet degrees of separation simultaneously from Trump and each one of these seven hateful ideologies relative to the other four politicians. We conduct this exploration via a geometric model of the observed retweet network, distributed vertex programs in Spark’s GraphX library and a visual summary through neighbor-joined population retweet ideological trees. Remarkably, less than 5% of individuals had three or fewer retweet degrees of separation simultaneously from Trump and one of several hateful ideologies relative to the other four politicians. Taken together, these findings suggest that Trump may have indeed possessed unique appeal to individuals drawn to hateful ideologies; however, such individuals constituted a small fraction of the sampled population.
+    - Type:: Article
+    - Publication:: Social Network Analysis and Mining
+    - URL:: https://doi.org/10.1007/s13278-019-0567-9
+    - Date Added:: [[July 24th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/2KJDJ8CF), [Web Library](https://www.zotero.org/groups/4985507/items/2KJDJ8CF)
+    - Publication Tags:: 2016 US presidential election Apache Spark Configuration model Directed degrees of separation Donald Trump Empirical geometric retweet model Population retweet ideological trees Scalable generalized Fisher’s exact test Twitter US hate groups
+    - PDF links:: [Sainudiin et al_2019_Characterizing the Twitter network of prominent politicians and SPLC-defined.pdf](zotero://open-pdf/groups/4985507/items/ZKPSUMIG)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political echo chambers?]]
+    - Status::
+        - [x] #firstPass by [[Jay Patel]]
+        - [ ] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+            - **All relevant CLM and EVD mappings described:**
+            - **General notes**
+        - [ ] #revised by [[Jay Patel]]
+        - [ ] #[[approved]] by [[Joel Chan]]
+    - **Scratchpad**
+        - Using [[Claude AI]] and manually checking for accuracy.
+        - **Content**: What is there?
+            - [[Discourse Graph]]
+                - **Assumptions:** pg. 2
+                    - Political leaders' use of Twitter reflects their appeal to different groups in society (p. 2).
+                    - Retweeting indicates endorsement and trust in the original tweeter (p. 3).
+                - **Questions:** pg. 3
+                    - (Q1) Is Trump **preferentially retweeted by hate groups** when compared to other politicians against the null random network model of apathetic retweeting?
+                    - (Q2) What **frequency of unique users retweeted both a politician and a hate group** more than one would expect under the null model
+                    - (Q3) What is the **joint distribution of the degrees of separation**, measured through the lengths of the most retweeted directed paths in the observed Twitter network, **to each user from each of the five politicians and the eight most prolific hateful ideologies on Twitter**?
+                - **Gaps:** pg. 3
+                    - Unclear whether hate groups gravitated to Trump more than other candidates on social media (p. 2).
+                    - Limited research on hate group connectivity on Twitter (p. 2).
+                - **Methods** pgs. 4-6
+                    - Here are the key empirical data points extracted from the research article:
+                        - **Type of study**
+                            - Observational study analyzing naturally occurring Twitter data
+                            - Statistical analysis of network structure and retweeting patterns
+                            - Data science pipelines for network analysis at scale
+                        - **Independent variables:**
+                            - **Politicians**: Donald Trump, Hillary Clinton, Bernie Sanders, Ted Cruz, Paul Ryan
+                            - **Hate groups**: Anti-Immigrant, Anti-Muslim, White Nationalist, Anti-LGBT, Anti-Government, Neo-Nazi, Black Separatist, Alt-Right
+                        - **Dependent variables:**
+                            - Frequencies of retweets between politicians and hate groups
+                            - Degrees of separation between users and politicians/hate groups
+                            - Retweet network structure
+                        - **Setting:**
+                            - 9 weeks around 2016 US Presidential election (4 weeks before, 4 weeks after)
+                        - **Participants: **
+                            - Twitter users who tweeted or retweeted the major politicians and hate groups
+                        - **Sample size:** pg. 4
+                            - 21,749,868 communication (Twitter) events
+                            - 2,451,081 distinct users
+                            - 13,684,331 retweets between 2,394,230 users
+                            - Monitored population subset: 2,137,712 politically active users with finite degrees of separation
+                            - 5 politicians
+                            - 52 hate groups
+                            - Augmented with 5 million retweets from politically active users (p. 5).
+                            - Analyzed retweet network with 13.7 million retweets among 2.5 million users (p. 6).
+                        - **Moderators**
+                            - None examined
+                        - **Mediators**
+                            - None explicitly analyzed
+                        - **Mechanisms**:
+                            - Retweeting behavior indicates endorsement and trust between users
+                            - Degrees of separation capture how ideologically close users are to politicians and hate groups
+                - **Analytic Techniques:** pgs. 4-6
+                    - Generalized Fisher's exact test on null model of apathetic retweeting (p. 7).
+                    - Shortest path analysis on empirical geometric retweet network model (p. 7).
+                - **Results:** pgs. 6-11
+                    - Significantly more retweets of Trump by hate groups compared to other candidates (p. 8, Table 2).
+                    - More shared frequent retweeters between Trump and multiple hate groups (p. 8-9, Table 3; p. 9, Figure 1).
+                    - People closer on network to both Trump and specific hate groups than other candidates (p. 10-11, Figure 2).
+                - **Interpretations/Claims:** pg. 12
+                    - Provides support that Trump held unique appeal to hate groups versus other candidates (p. 12).
+                    - But most Trump retweeters still separated from hate groups on network (p. 12).
+                - **Theoretical Claims:** pg. 12
+                    - Consistent with theories on how uncertainty and perceived threats to status can increase appeal of authoritarian, nationalistic political rhetoric (p. 12).
+                - **Practical Recommendations: **note in article, AI-generated
+                    - Social media networks should be monitored for connectivity between political figures and hate groups (p. 12).
+                - **Future Research:** not in article, AI-generated
+                    - Examine specific mechanisms linking Trump support and hate groups, like shared attitudes (p. 12).
+                    - Expand beyond retweets to quoted tweets and replies (p. 12).
+                    - Compare platforms like Twitter, Facebook, Reddit, and forums (p. 12).
+            - [[decision tree]]
+                - **Problem Formulation**
+                    - Focus on rise of Donald Trump and role of hate groups (implicit choice to focus on 2016 election and Trump phenomenon)
+                    - Choose to analyze Twitter data (implicit choice of social media platform)
+                    - Choose to track major political leaders and SPLC-defined hate groups (implicit choice to focus on political elites and established hate group definitions)
+                    - Formulate specific research questions about retweeting patterns and network connections
+                - **Data Collection**
+                    - Use Twitter APIs for data access (implicit acceptance of API biases/limitations)
+                    - Track accounts over 9 week period (implicit choice of observation window)
+                    - Retrieve all communication events related to tracked accounts (implicit choice to be comprehensive)
+                    - Choice of accounts tracked driven by research questions (implicit choice to be guided by theory)
+                - **Data Processing**
+                    - Focus only on tweets and retweets (implicit choice to ignore other Twitter affordances)
+                    - Represent as retweet network (implicit choice to use network framework)
+                    - Make network connected by augmenting data (implicit goal of having a connected component)
+                    - Use Spark for distributed processing (implicit choice of computational platform)
+                - **Modeling**
+                    - Model null hypothesis with configuration model (implicit choice to leverage existing network models)
+                    - Use Monte Carlo sampling for hypothesis testing (implicit choice of sampling over optimization)
+                    - Model alternative hypothesis space geometrically (implicit choice to have some model for exploration)
+                    - Use Spark GraphX for network analysis (implicit choice of platform)
+                - **Hypothesis Testing**
+                    - Use generalized Fisher's exact test with null model (implicit choice to adapt classical statistical tests)
+                    - Develop test statistics based on frequencies (implicit focus on interpretable summaries)
+                    - Set significance level ex ante at 0.001 (implicit choice to balance type 1 and 2 errors)
+                - **Network Exploration**
+                    - Examine degrees of separation (implicit choice to go beyond direct connections)
+                    - Visualize ideological profiles with tree clustering (implicit choice of visualization technique)
+                    - Analyze percentage of users within degrees (implicit choice to quantify patterns)
+                    - Focus on politically active users (implicit choice to filter network)
+                - **Recommendations**
+                    - Interpret results to arrive at nuanced conclusions (implicit goal not to overgeneralize)
+                    - Situate findings in context of psychological theories (implicit connecting back to motivation)
+                    - Suggest generalizability of analytical approach (implicit choice to highlight methodology)
+            - [[multiverse analysis]]
+                - Here are some alternative decisions the authors could have made and their potential consequences:
+                - **Problem Formulation**
+                    - Focus on a different election or political event besides Trump's rise - would not allow studying this specific phenomenon of interest.
+                    - Analyze a different social media platform like Facebook - could provide complementary insights but Twitter has more public data available.
+                    - Use a different hate group definition system - may change scope but SPLC provides a widely recognized list.
+                    - Formulate research questions about content not just connections - requires dealing with ambiguities in natural language processing.
+                - **Data Collection**
+                    - Purchase full archive data instead of using API - reduces biases but infeasible for most researchers due to high cost.
+                    - Vary the time window for tracking - could study trajectory over a longer period but 9 weeks provides focused snapshot.
+                    - Subsample data instead of retrieving all events - reduces computational needs but at cost of potentially missing information.
+                    - Take more exploratory approach to data collection - may uncover novel signals but risks lacking systematic theory-driven focus.
+                - **Data Processing**
+                    - Incorporate non-retweet interactions - provides fuller picture but retweets offer clearer endorsement signal.
+                    - Use an alternative to network framework - could miss out on topological analysis which is a key focus.
+                    - Keep network disconnected - compromises ability to study indirect influence propagation through chains of retweets.
+                    - Use different distributed computing method than Spark - other options like Hadoop or cloud computing have different pros/cons.
+                - **Modeling**
+                    - Develop novel models instead of relying on existing ones - opportunity for innovation but requires extensive validation.
+                    - Optimize parameters instead of Monte Carlo - yields point estimates but doesn't capture uncertainty in same way.
+                    - Have no model for alternative hypothesis - makes exploration harder but discretion can help avoid overfitting.
+                    - Implement in a different language/environment than GraphX - offers flexibility but GraphX streamlines spark network analysis.
+                - **Hypothesis Testing**
+                    - Use a more modern statistical learning method - can adapt to new data situations but black-box interpretations.
+                    - Summarize data differently - other sufficient statistics may lose interpretability.
+                    - Vary the significance level - balances errors differently but standard levels are conventional.
+                - **Network Exploration**
+                    - Restrict to direct connections only - simpler but misses information flow.
+                    - Use a different visualization method - alternatives like heat maps have different pros/cons.
+                    - Analyze different network summary measures - various centrality metrics highlight distinct features.
+                    - Keep the full network instead of filtering - retains all data but focuses analysis on pertinent signal.
+                - **Recommendations**
+                    - Provide decisive conclusions instead of nuanced ones - clearer takeaways but risks overstating findings.
+                    - Interpret through different theories - offers new perspectives but deviates from original motivation.
+                    - Focus on case-specific inferences rather than generalizability - limits external validity but stronger internal validity.
+                - In summary, many alternatives could be reasonable but may involve different trade-offs in terms of relevance, validity, feasibility and innovation. The authors generally made conventional choices for a solid initial investigation.
+        - **Quality**: What is it like?
+            - **[[Critical Appraisal System]]**
+                - **general**
+                    - [[internal consistency of discourse]]
+                        - I carefully reviewed the attached PDF article to assess its internal consistency across the title, abstract, and main sections in terms of how key information is presented. Here is my analysis:
+                        - **Title: **
+                            - The title "Characterizing the Twitter network of prominent politicians and SPLC‐defined hate groups in the 2016 US presidential election" accurately reflects the content of the paper.
+                        - **Abstract:**
+                            - The abstract summarizes the main aims, methods, findings, and conclusions consistently with how they are described in detail later in the paper. No inconsistencies identified.
+                        - **Questions:  **
+                            - The research questions stated in the introductory sections match how the questions are framed in the abstract and conclusions.
+                        - **Methods:**
+                            - The details provided in the methods section on data collection, network analysis techniques, and statistical tests are consistent with the brief overview of the methodology outlined in the abstract.
+                        - **Claims: **
+                            - The main claims around Trump's connectivity to hate groups are consistently stated in the abstract, results sections, and conclusion.
+                        - **Evidence:**
+                            - The evidence in the results section comes directly from the analysis described in the methods section. The numerical results align with the methodology.
+                        - **Interpretations:**
+                            - The authors' interpretations and conclusions based on the results are presented consistently across the abstract, discussion sections, and conclusion.
+                            - In summary, I did not identify any major inconsistencies in how key information about the aims, methodology, results, and conclusions are presented across different parts of the paper. The paper appears internally coherent. Let me know if you need me to examine any other specific aspects.
+                - [[dark tetrad]]
+                    - I analyzed the full PDF article carefully but did not find any definitive evidence of plagiarism, fraud, errors, or biases:
+                    - **Plagiarism: **
+                    - The paper appropriately cites and references previous relevant research in the field. The language and writing appear original. No duplicated text found in other sources.
+                    - **Fraud:**
+                    - The paper describes the data sources and collection methodology transparently. The data and analyses seem ethically conducted based on the reported procedures.
+                    - **Errors: **
+                    - I did not identify any obvious calculation, statistical, or factual errors within the limitations of my analysis. The analyses and results seem appropriate.
+                    - **Biases:**
+                    - The authors acknowledge limitations regarding generalizability and sampling biases. They report their funding sources. There is no clear evidence of conflicts of interest or undisclosed bias.
+                    - While difficult to completely rule out minor issues, overall the paper meets the expected standards of original, ethical, and transparent scientific reporting based on my review. Please let me know if you would like me to dig deeper on any specific aspect or had particular concerns I should examine further.
+                - [[Counterfactual exploration]]
+                    - Here are some **alternative decisions** that could potentially enhance the rigor and usefulness of the article:
+                    - **Sampling:**
+                        - Include more politicians across political spectrum (e.g. independents, third party) for comparison
+                        - Track all SPLC hate groups with social media presence, not just those with high Twitter activity
+                        - Collect data over a longer time period (months before and after election)
+                    - **Methodology:  **
+                        - Use random sampling or matching to select Twitter users more representative of population
+                        - Expand beyond retweets to other engagement like mentions, replies, quotes
+                        - Collect demographic data on users through surveys to correlate with network position
+                    - **Analysis:**
+                        - Apply multiple network analysis techniques like clustering, centrality measures, community detection
+                        - Compare multiple platforms like Twitter, Facebook, Reddit, Gab
+                        - Develop a classifier to categorize users into political ideologies based on activity
+                    - **Access:**
+                        - Release anonymized dataset to allow more research without privacy issues
+                        - Provide codebase and computational workflow for reproducibility
+                    - **Framing:**
+                        - Avoid binary focus on Trump versus other candidates to allow more nuanced comparisons
+                        - Discuss positive and negative aspects of social media connectivity between groups
+                        - Adopting some of these suggestions could bolster the methodology, enrich the analysis, increase transparency, and provide more nuanced discussion. But additional decisions involve trade-offs to consider.
+                - [[FORECASTER analysis]]
+                    - Here is a critical appraisal of the article according to the specified values:
+                    - **Fairness** - The study fairly examines connectivity of multiple politicians to hate groups without focusing only on Trump. It uses appropriate statistical tests to control for differences in activity levels.
+                    - **Openness** - The authors openly share their data and methodology to enable reproducibility. The article is published open access.
+                    - **Relevance** - The findings have high relevance to understanding political communication and extremism on social media.
+                    - **Efficiency** - The study makes efficient use of computational techniques to analyze a large-scale Twitter dataset.
+                    - **Clarity** - The article is clearly written overall, but the methods section could be explained more clearly for a general audience.
+                    - **Accessibility** - The PDF format, small font size, and lack of accessibility tags may limit accessibility for low vision and colorblind users.
+                    - **Skepticism** - The authors critically discuss limitations like the biased SPLC hate group sample and generalizability from Twitter population.
+                    - **Transparency** - The authors are transparent about data collection, funding sources, and ethical procedures followed.
+                    - **Ethics** - There is no evidence of ethical issues. The study analyzed public data and took steps to protect user privacy.
+                    - **Rigor** - The computational and statistical analyses follow rigorous methods. The research design could be improved with more representative sampling.
+                    - In summary, this is a timely, relevant study using appropriate computational techniques and statistics. Improvements to accessibility, clarity, and sampling rigor would further strengthen the research. Overall the study adheres well to principles of open, ethically-conducted, and statistically rigorous scientific research.
+                - [[Quality Review]]
+                    - [GSheet](https://docs.google.com/spreadsheets/d/1i2enzUkDMolypnmc-oyJNAL3L_4M-1I_beRql-sNVoc/edit?usp=sharing)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FGZtWfOdlz2.png?alt=media&token=844693b3-5e0d-4c07-80af-d88eaddcc114)
+            - [[multilevel synthesis]]
+                - **ontological**
+                    - Here are the key terms extracted from the research paper along with inferred definitions:
+                    - **Retweet network** - A network representing Twitter users as nodes and retweets as directed edges between the tweeter and retweeter. Provides insights into endorsement and trust between users.
+                    - **Configuration model** - A random network model that generates networks with a given degree distribution. Used to model the null hypothesis of apathetic retweeting.
+                    - **Apathetic retweeting** - The null hypothesis that users retweet others apathetically without preference while preserving their observed retweet rates.
+                    - **Non-apathetic retweeting** - The alternative hypothesis that users show preference in who they retweet.
+                    - **Generalized Fisher's exact test** - A statistical test using the null model of apathetic retweeting to determine if observed retweeting patterns show evidence of non-apathetic retweeting.
+                    - **Degrees of separation** - The length of the most retweeted path between two users, indicating how far apart they are in the retweet network. Allows exploring patterns beyond direct neighbors.
+                    - **Retweet ideological tree** - A hierarchical clustering of users by their degrees of separation from politicians and hate groups. Provides an ideological categorization beyond a simple left-right spectrum.
+                    - **Monitored population** - The subset of politically active Twitter users analyzed based on having finite degrees of separation from major politicians.
+                    - The key **ontology revolves around modeling Twitter users' retweeting behavior as a network**, using **random network models** to represent apathetic versus non-apathetic retweeting patterns, and analyzing topological properties like degrees of separation and ideological trees to gain insights. The concepts interconnect to support statistically testing hypotheses on political polarization and hate speech spread on social media.
+                - **empirical**
+                    - ??? NA ???
+                - **theoretical**
+                    - [[DAG]]
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F969IyzkxYQ.png?alt=media&token=3e62c70c-86a9-4849-9444-2d99327bac5b)
+                        - └─────────────────────┘
+                    - [[theory of change]]
+                        - Here is an attempt to derive a preliminary theory of change from the Twitter analysis article using some key principles of realist synthesis/evaluation:
+                        - **Context**: Online social networks like Twitter where people interact and spread ideas. Rising popularity of hate speech and extremist ideologies spreading on social media platforms.
+                        - **Mechanism**: Retweeting as an act of endorsement and trust in the original tweeter. Retweet networks reflecting convergence of ideas and ideologies.
+                        - **Outcomes**: Greater connectivity between political figures and hate groups in retweet networks indicative of shared ideological appeal and resonance.
+                        - **CMO Configurations:**
+                            - When social media users prone to extremist ideologies (C) encounter political rhetoric and discourse that resonates with their worldviews (M), they will be more likely to propagate and reinforce such content through actions like retweeting (O).
+                            - In contexts of societal divisions, identity threats and uncertainty (C), political communication that triggers authoritarian attitudes or reinforces in-group/out-group prejudice (M) can proliferate rapidly through social networks via endorsements like retweets (O).
+                            - Among politically active social media users (C), repeated exposure to extremist ideologies coupled with persuasive rhetoric (M) increases likelihood of normalizing and accepting such worldviews as reflected in retweet networks (O).
+                        - **Refinements of Theory:**
+                            - The specific linguistic framing, imagery, metaphors, and identity-based appeals used in political social media posts trigger different psychological reactions that determine propagation through extremist networks.
+                            - The configuration and echo chamber dynamics of ideological clusters on social networks moderate the influence of political rhetoric and spread of extremist ideologies.
+                            - Individual differences in factors like need for closure, cognitive rigidity and social dominance orientation interact with contextual drivers of extremism.
+                        - This provides an initial approximation of how mechanisms of rhetorical resonance and network homophily can lead to observable changes in extremist ideological diffusion on social media. Further realist review and empirical evidence would be needed to refine the hypothesized CMO configurations. Let me know if you would like me to explain or expand on any part of this sketch of a program theory.
+                    - [[theory of process change]]
+                        - Here is an attempt to formulate a more detailed theory of change based on Nancy Cartwright's philosophy of process causality:
+                        - **Causal Process 1: Rhetorical Framing**
+                            - Ingredients: Use of in-group identity metaphors, fear-based rhetoric, threat perception, vilification of out-groups
+                            - Recipe: Crafting rhetorical and narrative appeals in political messaging and discourse to trigger emotions like fear, anger, resentment
+                            - Capacity: Ability of rhetorical devices to mentally prime cognitive biases, prejudices, and implicitly held worldviews
+                        - **Causal Process 2: Network Homophily**
+                            - Ingredients: Ideological segregation, echo chambers, algorithmic personalization, social confirmation
+                            - Recipe: Proliferation of partisan media sources, social curation of like-minded connections, selective exposure
+                            - Capacity: Tendency to interact with those who share compatible attitudes resulting in spirals of attitude reinforcement
+                        - **Causal Process 3: Norm Setting**
+                            - Ingredients: Rapid viral diffusion, crowded information ecosystems, visually impactful discourse
+                            - Recipe: Public social endorsement through shares, likes, and retweets as cues for appropriate behavior
+                            - Capacity: Online bandwagon effects and normalization of extreme ideologies through propagation
+                        - **Composition:**
+                        - When processes of manipulative rhetorical framing, selective network homophily, and viral norm-setting are combined and operate in contexts of societal divisions, they can amplify the spread and acceptance of extremist ideologies on social media.
+                        - **Configurations:**
+                        - The sequencing, intensity, and saturation of these processes will determine variations in outcomes like rates of radicalization. For example, homophilous echo chambers may have a lower capacity for normalization without vitriolic political rhetoric.
+                        - I'm providing a simplistic sketch here, but ideally each posited process would be backed by empirical evidence and supported by data-driven causal mechanisms. Let me know if you would like me to expand on any part of this realist process theory outline.
+                    - [[computational model/theory]]
+                        - Here is an attempt to formulate a more precise computational theory of the processes involved in spreading extremist ideologies on social media, building on the previous theory of change:
+                        - Let the social media population be represented by a network graph G = (V, E) where:
+                        - V is the set of all users
+                        - E is the set of connections between users (friendships, follows)
+                        - Let R(u, m) be the rhetorical resonance function that measures how compelling user u finds message m based on its rhetorical framing (values 0 to 1).
+                        - Let H(u, v) be the homophily score between two users u and v based on similarity of attitudes (values 0 to 1).
+                        - Let P(m) represent the propagation score of message m based on its viral spread across the network (values 0 to 1).
+                        - The process of rhetorical framing can be modeled as:
+                        - R(u,m) = f(metaphors, identity_cues, fear_language, m)
+                        - The process of network homophily can be modeled as preferential attachment between users based on their homophily score:
+                        - P(u->v) ∝ H(u,v)
+                        - The process of viral normalization can be represented as:
+                        - N(m) = g(P(m))
+                        - Where N(m) is the normalized extremism score of message m that increases monotonically with its propagation score P(m).
+                        - This provides a set of mathematical functions and network models that capture the key mechanisms theorized to drive online extremism. These models can be further refined, operationalized with empirical data, and tested using simulations. Let me know if you would like me to expand or clarify any part of this attempt at a computational theory.
+        - **Applicability**: How useful is it?
+            - **conclusions**
+                - **In the Twitter paper I uploaded as a PDF, do you have any qualms about the conclusions worth noting?**
+                - **Claude**: Based on my review, here are some potential concerns about the conclusions made in the Twitter research paper:
+                    - The conclusions frame the findings as supporting a link between Trump and appeal to hate groups, but the correlational data cannot determine directionality or causality in the relationship.
+                    - The conclusions generalize the findings on Twitter networks to indications of real-world extremist support, but online measures may not translate directly to offline behaviors and attitudes.
+                    - The conclusion that most Trump supporters are still separated from hate groups is not quantified or firmly supported by the data presented.
+                    - The study relies on the SPLC hate group designations without critiquing the criteria or biases in how groups are classified as extremist.
+                    - The focus on Trump's connectivity to hate groups implicates a selective framing of the results that may reflect implicit researcher biases.
+                    - The scope of conclusions is overstated given the limitations around sampling methodology and generalizability beyond the specific Twitter population analyzed.
+                    - The implications for normalization of extremist ideologies are speculative without directly measuring attitude shifts or radicalization effects.
+                    - Alternative explanations for associations found are not discussed or ruled out adequately, like homophily based on common conservative ideology.
+                    - Concluding Trump had "unique appeal" for hate groups implies singularity not sufficiently supported by comparisons to a few other candidates.
+                    - Citing theories on authoritarianism and identity threat overreaches the evidence presented without directly testing mechanisms.
+                - In summary, many conclusions appear to exceed what can be firmly warranted by the data and methodology. A more cautious, measured framing would be needed to avoid imputing causal relationships, exaggerating scope of implications, or making speculative inferences. The researcher's own biases may shape the interpretative lens and conclusions drawn.
+            - **implementational**
+                - ???
+    - CLM and EVD summary tree
+        - **Interpretations/Claims:**
+            - [[[[CLM]] - President Trump held unique appeal to hate groups compared to other politicians (p. 12).]]
+                - [[SupportedBy]]
+                    - [[[[EVD]] - According to a geometric retweet network model, hate groups retweeted Trump more than other candidates[[@sainudiinCharacterizingTwitterNetwork2019]]]]
+                    - [[[[EVD]] - According to frequencies, a significant number of users retweeted Trump and hate groups approvingly [[@sainudiinCharacterizingTwitterNetwork2019]]]]
+            - [[[[CLM]] - Most Trump retweeters are separated from hate groups on social network]]
+                - [[SupportedBy]]
+                    - [[[[EVD]] - According to degrees of separation analysis, people were closer on a social network to both Trump and specific hate groups than other candidates.[[@sainudiinCharacterizingTwitterNetwork2019]]]]
+
+###### Discourse Context
+
+

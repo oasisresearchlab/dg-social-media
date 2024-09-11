@@ -1,0 +1,112 @@
+---
+title: "@choiEnthusiasmOtherSide2021"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/lEicv8uwr
+author: Joel Chan
+date: Mon Jun 26 2023 19:44:11 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: “Enthusiasm” toward the other side matters: Emotion and willingness to express disagreement in social media political conversation
+    - Year:: 2021
+    - Author(s):: Jihyang Choi, Jiyoung Lee
+    - Abstract:: To reveal a complete picture of people’s disagreement-related experiences, we explored the relationship between encountering and expressing disagreement in the context of social media settings. We also shed light on the role of three types of emotions – anxiety, enthusiasm, and anger – in determining people’s willingness to express disagreement. Our findings show that frequently encountering disagreement is a positive predictor of expressing disagreement. Those who felt enthusiasm toward the out-party candidate expressed greater disagreement, but the extent of their expressed disagreement declined with exposure to too much disagreement. Our study shows that patterns differed greatly depending on party affiliation. We only observed the positive role of encountering disagreement and enthusiasm in facilitating disagreement expression among Democratic Party presidential candidate supporters. The study employed original two-wave national survey data collected during the 2016 U.S. presidential election.
+    - Type:: Article
+    - Publication:: The Social Science Journal
+    - URL:: https://doi.org/10.1080/03623319.2021.1949548
+    - Date Added:: [[June 27th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/P3F9BLJY), [Web Library](https://www.zotero.org/groups/4985507/items/P3F9BLJY)
+    - Publication Tags:: Political disagreement affective intelligence theory emotion enthusiasm expression of disagreement
+    - PDF links:: [Choi & Lee - “Enthusiasm” toward the other side matters.pdf](zotero://open-pdf/groups/4985507/items/QQ5H8W22)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Carolina Franca Tristao Batista]]
+        - [x] #checked by [[Flavia Batista]]
+            - CLM nodes conform to the [CLM style guide](Claim ([[CLM]]) nodes #.sticky):
+            - CLMs redundant/mergeable with existing CLMs in the Master Index:
+            - EVD nodes conform to the [EVD style guide](Evidence ([[EVD]]) nodes #.sticky):
+            - All relevant CLM and EVD mappings described:
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?** yes!
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - Encountering disagreement is positively associated with discussing disagreement on social media.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes!
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes!
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [x] reference source in body of CLM page
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): yes
+                - [[[[CLM]] - Emotions toward the opposing candidate affects disagreement expression on social media.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): mostly, some fixes needed
+                        - [x] rephrase from "will affect" to "affects", since this is a claim, not a prediction
+                        - [x] also add "disagreement expression on social media"
+                            - won't be atomic otherwise: not obvious if seen out of context that this is related to social media
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): yes
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - The level of encountered disagreement on social medi predicted the likelihood of expressing disagreement for US respondents, even when accounted for the initial level of expressed disagreement. - [[@choiEnthusiasmOtherSide2021]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes!
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] rephrase to past tense
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes needed
+                        - [x] add "on social media"
+                        - [x] add something about the population?
+                            - US respondents, per [note](**Participants and setting**: 933 respondents of two-wave online survey in the U.S. in October 2016. )
+                        - [x] please include screenshots of text describing result also
+                        - [x] clarify: level of *encountered* disagreement, correct?
+                        - [x] what does strongly predicts mean? is this interpretation? based on effect size? p value?
+                            - in results section, the authors just say "is positive predictor", and i think this is what we want
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FSEuF49d3rG.25.22%402x.png?alt=media&token=76dd23ab-4593-42c2-9f12-5fbec6cbbc07) (p. 8)
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): good!
+                - [[[[EVD]] - Enthusiasm among US respondents toward the out-party presidential candidate was positively associated with disagreement expression on social media. - [[@choiEnthusiasmOtherSide2021]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] rephrase to past tense
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes needed
+                        - [x] add "on social media"
+                        - [x] add US context
+                        - [x] please include screenshots of text describing result also
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): good!
+                - [[[[EVD]] - Anger and anxiety among US respondents toward the out-party presidential candidate wass not associated with disagreement expression on social media. - [[@choiEnthusiasmOtherSide2021]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes needed
+                        - [x] add "on social media"
+                        - [x] add US context
+                        - [x] please include screenshots of text describing result also
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): good!
+            - **All relevant CLM and EVD mappings described:** yes!
+            - **General notes**
+                - nice, clean and easy to read paper again :)
+        - [x] #revised by [[Carolina Franca Tristao Batista]]
+        - [x] #approved by [[Joel Chan]]
+    - Scratchpad
+        - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+        - **Participants and setting**: 933 respondents of two-wave online survey in the U.S. in October 2016.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fjqctu5lZPF.49.52%20PM.png?alt=media&token=9fed7a88-5c17-4137-9ba8-0ebb0a31f22c) (p.6)
+        - **Design**: Participants responded to surveys before and after the 2016 Presidential election in the U.S., aiming to examine political interactions and reactions immediately before the election day and 3 weeks after.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fjqctu5lZPF.49.52%20PM.png?alt=media&token=9fed7a88-5c17-4137-9ba8-0ebb0a31f22c) (p.6)
+        - **Materials**: dataset collected from panel survey.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FNJn7xnbX3y.57.52%20PM.png?alt=media&token=1ae9b1fc-cf87-4b3c-8fd3-03199ba9ab50) (p.2)
+        - **Outcome measure**: encountering disagreement, expressing disagreement and emotions.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FsC80GwIKzj.53.46%20PM.png?alt=media&token=5e034f37-ddf8-414c-93c4-e213311edad0) (p.7)
+        - **Analysis**: competing confirmatory factor analysis (CFA) models and OLS regression analyses, which employed lagged autoregressive analysis.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fs0RgSF-lho.png?alt=media&token=e925358d-4b35-4605-b369-7e4336d2d452) (p.7)
+    - [[CLM]] and [[EVD]] summary tree
+        - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+            - [[[[CLM]] - Encountering disagreement is positively associated with discussing disagreement on social media.]]
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FV7lEItpRau.12.48%20PM.png?alt=media&token=fb7ba40a-692b-4c4a-9c7a-feefceb6691c) (p.4)
+                - [[SupportedBy]]
+                    - [[[[EVD]] - The level of encountered disagreement on social medi predicted the likelihood of expressing disagreement for US respondents, even when accounted for the initial level of expressed disagreement. - [[@choiEnthusiasmOtherSide2021]]]]
+            - [[[[CLM]] - Emotions toward the opposing candidate affects disagreement expression on social media.]]
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F_SpNx8pOY_.15.39%20PM.png?alt=media&token=8b6d7fe1-6444-4f1c-89ce-a6d85fa3b5ab) (p.1)
+                - [[SupportedBy]]
+                    - [[[[EVD]] - Enthusiasm among US respondents toward the out-party presidential candidate was positively associated with disagreement expression on social media. - [[@choiEnthusiasmOtherSide2021]]]]
+                - [[OpposedBy]]
+                    - [[[[EVD]] - Anger and anxiety among US respondents toward the out-party presidential candidate wass not associated with disagreement expression on social media. - [[@choiEnthusiasmOtherSide2021]]]]
+
+###### Discourse Context
+
+

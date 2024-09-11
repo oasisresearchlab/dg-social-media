@@ -1,0 +1,103 @@
+---
+title: "@arltBiasWantedExamining2018"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/MzjPozxMf
+author: Joel Chan
+date: Thu Jun 22 2023 11:45:37 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Bias wanted! Examining people’s information exposure, quality expectations and bias perceptions in the context of the refugees debate among different segments of the German population
+    - Year:: 2018
+    - Author(s):: Dorothee Arlt, Jens Wolling
+    - Abstract:: The growing number of refugees entering Europe since 2015 has quickly ignited a heated public debate on refugees in Germany. Against the backdrop of the media’s information and opinion-forming function, this paper examines the importance of mainstream and social media among different segments of the German population. Applying cluster analysis to survey data ( n = 1,579), six clusters with specific attitude-behavior combinations concerning the refugee issue were identified: Pro-Refugee Activists, Passive-Affirmative Mainstream, Directly-Involved Ambivalents, Passive-Worried Mainstream, Worried Agitators, and Anti-Refugee Activists. The results show that these clusters differ both in terms of socio-demographic and political characteristics as well as in terms of people’s issue-specific media usage, expectations, and evaluations of media coverage. Moreover, the findings indicate that social media play a problematic role in the debate as they seem to reinforce people’s pre-existing attitudes toward refugees. The implications of these findings for public debate on refugees are also discussed.
+    - Type:: Article
+    - Publication:: Communications
+    - URL:: https://www.degruyter.com/document/doi/10.1515/commun-2017-0045/html
+    - Date Added:: [[June 22nd, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/QZBYRLT4), [Web Library](https://www.zotero.org/groups/4985507/items/QZBYRLT4)
+    - Publication Tags:: bias perceptions mainstream media public debate on refugees quality expectations social media typology
+    - PDF links:: [arltBiasWantedExamining2018.pdf](zotero://open-pdf/groups/4985507/items/23IL6MUQ)
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Carolina Franca Tristao Batista]]
+        - [x] #checked by [[Flavia Batista]]
+            - CLM nodes conform to the [CLM style guide](Claim ([[CLM]]) nodes #.sticky): yes
+            - CLMs redundant/mergeable with existing CLMs in the Master Index: no
+            - EVD nodes conform to the [EVD style guide](Evidence ([[EVD]]) nodes #.sticky): yes
+            - All relevant CLM and EVD mappings described: yes
+            - Maybe use "polarization" instead of "divide"?
+                - Authors use the word "divide" and not "polarized". Can change if it fits better the overall purpose of this work.
+            - Missing the bullet point "analysis" which should describe the technique used to analyze the data -- see Joel's example
+                - Done.
+            - I'd recommend including the evidence in the scratchpad under a bullet point named "key results" instead of including them as part of the EVD --> based on Joel's example
+                - Following the @banksPolarizedFeedsThreeExperiments2021 example of figures and quotes in EVD nodes.
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?** yes
+                - though these ones we'll move to potentially related, don't need to fix deeply for now; seem more about contextualizing levels of polarization, rather than the q of social media and polarization per se
+                    - [[[[CLM]] - Small activist groups dominate public debate, while attitudes towards refugees highlight a divided society.]]
+                    - [[[[CLM]] - Political ideology and social factors contribute to the divide.]]
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - People perceive the media as biased against their own views and desire the media to be biased in favor of their opinions.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): no
+                        - [x] reference source in body of CLM page
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): yes
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - Germans across the ideological spectrum perceived the media to have biases favoring their opposing ideological group on the topic of refugees - [[@arltBiasWantedExamining2018]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] rephrase to past tense
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): some fixes needed
+                        - [x] rephrase to indicate German context ("e.g., expectations of Germans for how journalists...")
+                        - [x] please include screenshots of the text also
+                            - e.g., this one describing the perceived bias of media by worried agitators
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FGF0a_T4WRl.34.43%402x.png?alt=media&token=cea9cc6d-9a7d-41a4-bc7e-8235020207f5) (p. 9)
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): fixes needed
+                        - [x] add in key tables describing the items that participants answered, which was used to build typology as part of measures/materials
+                            - e.g., Table 2 is key for the perceptions of media coverage bits
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F1rbuKSnE7W.41.23%402x.png?alt=media&token=c7b8179c-b383-48b5-98ab-0ede7867d92b)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FpvuHOHqbFk.41.38%402x.png?alt=media&token=f1e6d0a4-3f7d-4cc4-8f11-f63b9a34fdaf) (pp. 17-18)
+            - **All relevant CLM and EVD mappings described:** yes
+            - **General notes**
+        - [x] #[[revised]] by [[Carolina Franca Tristao Batista]]
+        - [x] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - ^^_Use this space for any scratch notes or questions/uncertainties/observations_^^
+        - **Participants and setting**: 1,579 respondents of a online access panel administered in Germany in February 2016.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FIpOOJPDN7l.png?alt=media&token=25f1f686-7788-4e2d-aa3f-22b700d55846) (p.5)
+        - **Design**: Participants were divided into clusters that share similar attitudes and show comparable behaviors in terms of the refugee debate. The media outlets and communication channels that different clusters rely on were examined.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FPkhSUSTFR3.png?alt=media&token=bb32daf6-ee4b-4ebf-8153-e56c9056e2bc) (p.3)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Ff7zCA2u72M.png?alt=media&token=ede6bba7-a486-4240-8693-8b08f5fe7112) (p.6-7)
+        - **Materials**: quantitative data from a online access panel.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F9SG4Q2EBj9.45.55%20PM.png?alt=media&token=d1462ceb-493b-442b-85ab-df008f0eb224) (p.17)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fx6AGlnXSDT.png?alt=media&token=8e45a8ab-9a7d-4ece-b60c-0663997e952a)
+        - **Outcome measure**: difference in support for refugees between clusters.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fs0RgSF-lho.png?alt=media&token=e925358d-4b35-4605-b369-7e4336d2d452) (p.7)
+        - **Analysis**: variance, post-hoc tests and Chi-tests.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fs0RgSF-lho.png?alt=media&token=e925358d-4b35-4605-b369-7e4336d2d452) (p.7)
+    - CLM and EVD summary tree
+        - ^^_Place all relevant CLMs and EVDs from this paper that are relevant to the focal question and relate each EVD to its key CLM using the appropriate `SupportedBy` or `OpposedBy` tags_^^
+        - [[[[CLM]] - Small activist groups dominate public debate, while attitudes towards refugees highlight a divided society.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - The majority of Germans fall between extreme positions regarding refugees, with only a small minority expressing extreme pro-refugee or anti-refugee attitudes - [[@arltBiasWantedExamining2018]]]]
+                - [[EVD]] - Attitudes towards refugees indicate a divided society, with starkly opposing views held by members of unengaged mainstream groups. - [[@arltBiasWantedExamining2018]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FVZwDapOayn.36.11%20PM.png?alt=media&token=365a0212-fdf7-4452-8d84-73f8f8aa2d57) (p.19)
+        - [[[[CLM]] - Political ideology and social factors contribute to the divide.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - Strong pro-refugee sentiment amongst Germans was associated with ~2x higher rates of higher education compared to strong anti-refugee sentiment - [[@arltBiasWantedExamining2018]]]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FK23xnOAjYa.png?alt=media&token=48f25a92-cf0d-4930-9439-d1e84fba03c1) (p.19-21, Table 4)
+        - [[[[CLM]] - People perceive the media as biased against their own views and desire the media to be biased in favor of their opinions.]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FYytcsWVPGn.38.02%20PM.png?alt=media&token=9838058c-989c-4dbf-978e-323baa9aafc7) (p.10)
+            - [[SupportedBy]]
+                - [[[[EVD]] - Germans across the ideological spectrum perceived the media to have biases favoring their opposing ideological group on the topic of refugees - [[@arltBiasWantedExamining2018]]]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FEy3Ikg4Oaj.43.20%20PM.png?alt=media&token=e157f507-20fe-4569-9172-e68d3ed6f49c) (p.10)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FGF0a_T4WRl.34.43%402x.png?alt=media&token=cea9cc6d-9a7d-41a4-bc7e-8235020207f5) (p. 9)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F6dIPdD0aFL.png?alt=media&token=a52fbbe6-18fc-46c9-a414-c75e8d333710) (p.19-21, Table 4)
+
+###### Discourse Context
+
+

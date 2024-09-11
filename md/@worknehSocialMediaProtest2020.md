@@ -1,0 +1,116 @@
+---
+title: "@worknehSocialMediaProtest2020"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/Xz1gTrv_I
+author: Joel Chan
+date: Mon Jul 17 2023 10:56:05 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Social media, protest, &amp; outrage communication in Ethiopia: toward fractured publics or pluralistic polity?
+    - Year:: 2020
+    - Author(s):: Téwodros W. Workneh
+    - Abstract::
+    - Type:: Article
+    - Publication:: Information, Communication &amp; Society
+    - URL:: https://doi/org/10.1080/1369118x.2020.1811367
+    - Date Added:: [[July 17th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/BDA87WI9), [Web Library](https://www.zotero.org/groups/4985507/items/BDA87WI9)
+    - Publication Tags:: py-import
+    - PDF links::
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Jay Patel]]
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+                - yes!
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - The political discourse on social media becomes highly polarized along ethnic lines.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): fixes
+                        - [x] remove the "outrage communication" bit, which is a theoretical frame/construct
+                        - [x] remove "the"
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - [[[[CLM]] - The rise of identity-based social media outrage has positive implications for democratization and nation-building.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): ok for now, might later split this into one focused on positive and one focused on negative
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): fixes
+                        - [x] CLM reference is for an EVD?
+                            - JP: I edited the claim to focus on positive and used text from pg. 17 of [[@worknehSocialMediaProtest2020]]
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - According to surveys and interviews of educated Ethiopians, Facebook pages with large followings that were dedicated to specific ethnic groups fostered discussion of ethno-nationalistic victimhood and empowerment. - [[@worknehSocialMediaProtest2020]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): fixes
+                        - [ ] could probably split out the qual/interview results from the quant results; see below
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] Ethiopian context
+                        - [x] expect more snippets, given that this is both surveys (some kind of quant results; e.g., p. 13 observation about blocking pessimism) and interviews (interview snippets/excerpts; e.g., moderator perspectives on p. 13) in addition to content analysis examples
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): ok
+                - [[[[EVD]] - According to interviews of educated Ethiopians, social media promoted fraternity and cohesiveness.]] - [[@worknehSocialMediaProtest2020]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): ok
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): ok
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] Ethiopian context
+                        - [x] no results snippets?
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): can't tell bc no results snippets so idk what this is based on
+                - [[[[EVD]] - According to a survey, educated Ethiopians believed that social media helps and hurts democracy in Ethiopia. - [[@worknehSocialMediaProtest2020]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] note survey context
+                            - "endorsed both positive and negative statements about the relationship between social media use and democratic values in Ethiopia"
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): ok
+            - **All relevant CLM and EVD mappings described:**
+            - **General notes**
+        - [x] #revised by [[Jay Patel]]
+        - [ ] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - **Methodology**
+            - pgs. 7-8
+                - **Survey of Ethiopian adults, college-educated**
+                    - mix of Ethiopian residents and nonresidents
+                    - N = 688
+                    - in English and Amharic
+                    - 27-29 Likert-type (close-ended) items
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FXmxaI7yw9N.08.03.png?alt=media&token=875f890d-6527-45a4-88b2-2c31ec228176)
+                    - **Interviews**
+                        - 'constructivist optics'
+                        - 22 interviews in-depth 2019-19
+                        - influential Ethiopian social media political commentators, policy-makers, journalists, educators
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F33zgtcd_zh.09.10.png?alt=media&token=1a071c80-6cc4-4e37-ab8c-e6613f8b9902)
+        - **Results**
+            - pg. 9
+                - Ethiopian adults seem to use social media always (43.4%) and frequently (32.2%) to keep up with domestic news.
+                - "Only 34.6% of surveyed Ethiopian adults reported that they participated in any offline civic activity during the pinnacle of the protests.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FOWvFKM1G-S.10.27.png?alt=media&token=ed7fbaa6-8731-4f78-a507-13b443bb9a6f)
+            - pg. 9
+                - It was most common to look up information on protests and rallies.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FcLV8ccyIIw.11.06.png?alt=media&token=3feb9753-9d0f-492e-9c20-7666ed8fb8e0)
+            - pg. 10, Table 2
+                - Most (87.1%) used social media everyday or a few days a week (11.2%).
+                - A majority (76.5%) reported holding diverse political views.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FAhAddDdqJ-.12.40.png?alt=media&token=e1b564ad-5a83-4c67-88c5-f3907872757a)
+            - pg. 14
+                - Most adults agreed that social media was a positive tool for holding people accountable, giving voice to URGs, and highlighting important issues.
+                - Most adults agreed that social media gives people a false sense of progress and this it distracts them from truly important issues.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FxX-ItWZrY0.20.55.png?alt=media&token=92a0fd6c-3de1-4975-9ab6-b7f8cf7808bb)
+            - pg. 16
+                - Most adults were very concerned about incitement of violence, extermeism, hate speech, and fake news/misinformation.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FCVn__3mU8e.32.30.png?alt=media&token=069dd895-4233-4b56-866c-98cefa63f813)
+    - CLM and EVD summary tree
+        - [[[[CLM]] - The political discourse on social media becomes highly polarized along ethnic lines.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to surveys and interviews of educated Ethiopians, Facebook pages with large followings that were dedicated to specific ethnic groups fostered discussion of ethno-nationalistic victimhood and empowerment. - [[@worknehSocialMediaProtest2020]]]]
+            - [[OpposedBy]]
+                - [[[[EVD]] - According to interviews of educated Ethiopians, social media promoted fraternity and cohesiveness.]] - [[@worknehSocialMediaProtest2020]]
+        - [[[[CLM]] - The rise of identity-based social media outrage has positive implications for democratization and nation-building.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to a survey, educated Ethiopians believed that social media helps and hurts democracy in Ethiopia. - [[@worknehSocialMediaProtest2020]]]]
+
+###### Discourse Context
+
+

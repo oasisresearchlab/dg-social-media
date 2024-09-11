@@ -1,0 +1,250 @@
+---
+title: "@kibetSociallyNetworkedHeterogeneity2019"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/aE3pWPpca
+author: Joel Chan
+date: Fri Jun 30 2023 08:44:25 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Socially Networked Heterogeneity: The Influence of WhatsApp as a Social Networking Site on Polarisation in Kenya
+    - Year:: 2019
+    - Author(s):: Amos Kibet, Stephen Ward
+    - Abstract::
+    - Type:: Article
+    - Publication:: African Journalism Studies
+    - URL:: https://doi/org/10.1080/23743670.2018.1537979
+    - Date Added:: [[June 30th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/CM238TZW), [Web Library](https://www.zotero.org/groups/4985507/items/CM238TZW)
+    - Publication Tags:: py-import
+    - PDF links::
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Jay Patel]]
+        - [x] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+                - yes, i think main substantive ones are
+                    - [[[[CLM]] - When users post, obtain, and comment on political news, it influences social network heterogeneity.]]
+                    - [[[[CLM]] - Social network heterogeneity influences ethnic, party, and ideological polarisation).]]
+                - this one is more methods/descriptive: [[[[CLM]] - Whatsapp users are a representative sample of the broader population.]]
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - When users post, obtain, and comment on political news, it influences social network heterogeneity.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - [[[[CLM]] - Social network heterogeneity influences ethnic, party, and ideological polarisation).]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes, though later we may want to split out these diff. constructs of polarization!
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - Multiple mediation analyses showed that posting news in WhatsApp groups was associated with exposure to diverse perspectives. - [[@kibetSociallyNetworkedHeterogeneity2019]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): no
+                        - [x] increases --> increased, but see below
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] increases is causal language: don't think that is justified from mediation analysis --> "was significantly associated with an increase in..."
+                        - [x] note self-reported exposure (AFAICT, not from logs, but from response to survey, though question itself is not reported!)
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): good
+                - [[[[EVD]] - According to regression analysis, social network heterogeneity positively influenced ethnic, ideological, and party polarization. - [[@kibetSociallyNetworkedHeterogeneity2019]]]]
+                    - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                    - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                    - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): fixes
+                        - [x] the result here is not that these variables, but social network heterogeneity wrt these variables
+                        - [x] looks like a positive association?
+                    - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): good
+            - **All relevant CLM and EVD mappings described:** yes
+            - **General notes**
+        - [x] #revised by [[Jay Patel]]
+        - [ ] #approved by [[Joel Chan]]
+    - Scratchpad
+        - **[[Jay/Claude]] - good**
+            - **Assumptions**
+                - Internet platforms may heighten traditional polarisation in Kenya (empirical assumption)
+                    - (Introduction, p.1, para 1)
+                - Social media in Kenya has potential impact on political discussion (empirical assumption)
+                    - (Introduction, p.1, para 1)
+            - **Questions and hypotheses**
+                - **Questions:**
+                    - Is WhatsApp reflective of social network heterogeneity of its users?
+                        - (Introduction, p.1, para 2)
+                    - Does WhatsApp usage influence social network heterogeneity?
+                        - (Introduction, p.1, para 2)
+                    - Is there an association between social network heterogeneity and polarisation?
+                        - (Introduction, p.1, para 2)
+                - **Hypotheses:**
+                    - WhatsApp reflects social network heterogeneity of its users
+                        - (Introduction, p.1, para 2)
+                    - WhatsApp usage influences social network heterogeneity
+                        - (Introduction, p.1, para 2)
+                    - Social network heterogeneity associates with polarisation
+                        - (Introduction, p.1, para 2)
+            - **Prior literature**
+                - Selective exposure leads to echo chambers and polarisation (Arceneaux & Johnson, 2010; Pattie & Johnston, 2016)
+                    - (Introduction, p.1, para 3)
+                - SNSs increase exposure to diverse views, increasing tolerance (Ahn, 2012; Nir, 2011)
+                    - (Introduction, p.1, para 4)
+                - Frequent SNS use leads to heterogeneous networks (Eveland & Hively, 2009)
+                    - (Introduction, p.2, para 1)
+                - SNS activities promote exposure to diverse information (Kim, Chen & de Zúñiga, 2013
+                    - (Introduction, p.2, para 1)
+                - Heterogeneous networks depolarise attitudes (Osatuyi, 2013)
+                    - (Introduction, p.2, para 1)
+                - Any heterogeneity creates potential for polarisation (Pattie & Johnston, 2016)
+                    - (Introduction, p.2, para 2)
+            - **Methods**
+                - **Settings:**
+                    - WhatsApp groups related to Nairobi and Nakuru counties in Kenya
+                        - (Methodology, p.5, para 1)
+                - **Participants:**
+                    - 226 respondents from WhatsApp groups
+                        - (Methodology, p.5, para 2)
+                - **Measures/Materials:**
+                    - **Social network heterogeneity**
+                        - Measured through variance of gender, ethnicity, class, party affiliation, region, religion
+                            - (Methodology, p.5, para 3)
+                    - **WhatsApp use**
+                        - Time spent on WhatsApp
+                            - (Methodology, p.5, para 4)
+                        - Frequency of posting, discussing and commenting on political news
+                            - (Methodology, p.5, para 4)
+                    - **Polarisation**
+                        - Ethnic, ideological, and party polarisation measured through scales
+                            - (Methodology, p.6, para 1)
+                - **Design:**
+                    - Cross-sectional survey design
+                        - (Methodology, p.5, para 2)
+                - **Sample sizes:**
+                    - 226 respondents from WhatsApp groups
+                        - (Methodology, p.5, para 2)
+                    - 11.9% response rate
+                        - (Methodology, p.5, para 2)
+                - **Analytic techniques**
+                    - Ordinary least squares regression to test relationship between heterogeneity factors and social network heterogeneity
+                        - (Methodology, p.6, para 2)
+                    - Multiple mediation analysis to test mediating effects of WhatsApp usage on social network heterogeneity
+                        - (Methodology, p.6, para 3)
+                    - Regression analysis to test association between social network heterogeneity and polarisation
+                        - (Methodology, p.6, para 4)
+            - **Claims and Results/Evidence**
+                - Claim: WhatsApp reflects social network heterogeneity
+                    - Supported by:
+                        - Ethnicity, religion, party affiliation, region, class, education positively related to heterogeneity (p<.05) (Results, Table 1)
+                    - Opposed by:
+                        - Gender negatively related to heterogeneity (not significant) (Results, Table 1)
+                - Claim: WhatsApp usage influences social network heterogeneity
+                    - Supported by:
+                        - Posting news increased heterogeneity by 66% (p<.05) (Results, Table 2)
+                        - Discussing politics increased heterogeneity by 48% (p<.05) (Results, Table 2)
+                        - Commenting increased heterogeneity by 44% (p<.05) (Results, Table 2)
+                - Claim: Social network heterogeneity associates with polarisation
+                    - Supported by:
+                        - Heterogeneity increased ethnic polarisation by 0.35 (p<.05) (Results, Table 3)
+                        - Heterogeneity increased ideological polarisation by 0.44 (p<.01) (Results, Table 3)
+                        - Heterogeneity increased party polarisation by 0.43 (p<.001) (Results, Table 3)
+            - **Practical implications**
+                - Understanding how social media relates to polarisation in Kenya
+                    - (Discussion, para 1)
+            - **Theoretical & ontological implications**
+                - Supports selective exposure and echo chamber theories
+                    - (Discussion, para 2)
+                - Challenges idea that heterogeneity always reduces polarisation
+                    - (Discussion, para 2)
+            - **Limitations**
+                - Cannot make causal claims
+                    - (Discussion, para 3)
+                - Difficulty with measuring constructs like polarisation
+                    - (Discussion, para 3)
+                - Did not consider content of political discussions
+                    - (Discussion, para 4)
+            - **Future research**
+                - Examine how knowledge mediates the relationship between heterogeneity and polarisation
+                    - (Discussion, para 5)
+                - Understand how moderated political discussion impacts polarisation
+                    - (Discussion, para 6)
+            - **Glossary**
+                - SNS - Social networking site
+            - **Tables**
+                - **Table 1**
+                    - Regression analysis of social media network heterogeneity
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FYAbddRWXqh.17.43.png?alt=media&token=09dd4d83-d6a8-405c-9d48-1e91a241d607)
+                - **Table 2**: multiple mediation analysis
+                    - pg. 13
+                    - 95% confidence interval of the relationship with the three mediating variables
+                    - Table 2
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fn4SGqfc5vu.27.30.png?alt=media&token=be9a55c0-0dad-4ae4-9d84-a269d8a23166)
+                        - "Use of social networking sites on the SNSs network heterogeneity variable was largely influenced by the specific SNS usage patterns of the individual users. The results in Table 2 above interpretatively mean that a 34 per cent increase in the use of WhatsApp for positing news will contribute to a 66 per cent increase in social network heterogeneity."
+                - **Table 3**
+                    - **test**: regression analysis
+                        - pgs. 15-16
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FNEstbLv2vX.34.44.png?alt=media&token=cfbb568c-7f15-4e88-93a6-64134e8ddbbf)
+                            - "The results in Table 3 above, therefore, indicate that polarisation is inevitable in SNS platforms that reflect the composition of the societies that they exist in."
+        - **Original - mediocre**
+            - ### **Introduction**
+                - "Polarisation in Kenya is largely founded on the colonial indiscriminate creation of states during the scramble for Africa. Different ethic groups with varied forms of culture, language, and sociocultural beliefs were huddled together and then expected to establish integrated nation states. Kenya is, therefore, a multi-ethnic, multi-cultural, multi-religious, and multi-racial society."
+            - ### **Methods** pgs. 9-11
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F6Rk6ajNCKD.03.06.png?alt=media&token=986d9dfa-c793-4bfd-a553-39b481f9be60)
+                - **design**: cross-sectional survey
+                - **location**: two Kenyan counties: Nakuru and Nairobi
+                - **platform**: Whatsapp
+                    - 11 groups based on governance and political titles
+                - **sample size**: N = 226
+                - **selection**: random sampling from groups
+                - **response rate**: 11.9%
+                - ### **Measuring Social Network Heterogeneity**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FbDEUmmgrgW.04.23.png?alt=media&token=7c70e105-3661-456f-854c-3cca83fa0082)
+                    - pg. 10
+                        - variance score index from 0-16 using:
+                            - gender
+                            - ethnicity
+                            - party affiliation
+                            - region of origin
+                            - religious identification
+                        - participants were questioned if social network heterogeneity existed in their WhatsApp group
+                - ### **Measuring the Use of WhatsApp**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FOKFikIku3I.06.49.png?alt=media&token=f91a363e-31d6-4268-8435-bc1ec8c22b35)
+                        - pg. 10-11
+                        - posting new items
+                        - commenting
+                        - frequency of exposure to diverse news sources
+                - ### **Measuring Polarisation**
+                    - pg. 11
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F-hsJroNXri.13.31.png?alt=media&token=23435098-51f3-4238-9665-49ad05e0c663)
+                        - 0-5 pt. scale
+                        - three types
+                            - ethnic
+                            - ideological
+                            - party
+                - ### **Results**
+                    - pgs. 12-15
+                    - **test:** OLS regression
+                        - Table 1
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FYAbddRWXqh.17.43.png?alt=media&token=09dd4d83-d6a8-405c-9d48-1e91a241d607)
+                        - "The results indicate that the majority of variables positively contributed to social network heterogeneity of the various WhatsApp groups surveyed."
+                    - **test**: multiple mediation analysis
+                        - pg. 13
+                        - 95% confidence interval of the relationship with the three mediating variables
+                        - Table 2
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fn4SGqfc5vu.27.30.png?alt=media&token=be9a55c0-0dad-4ae4-9d84-a269d8a23166)
+                            - "Use of social networking sites on the SNSs network heterogeneity variable was largely influenced by the specific SNS usage patterns of the individual users. The results in Table 2 above interpretatively mean that a 34 per cent increase in the use of WhatsApp for positing news will contribute to a 66 per cent increase in social network heterogeneity."
+                    - **test**: regression analysis
+                        - pgs. 15-16
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FNEstbLv2vX.34.44.png?alt=media&token=cfbb568c-7f15-4e88-93a6-64134e8ddbbf)
+                            - "The results in Table 3 above, therefore, indicate that polarisation is inevitable in SNS platforms that reflect the composition of the societies that they exist in."
+    - [[CLM]] and [[EVD]] summary tree
+        - [[[[CLM]] - Whatsapp users are a representative sample of the broader population.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - "Regression analyses showed that the majority of variables positively contributed to social network heterogeneity of WhatsApp groups surveyed." - [[@kibetSociallyNetworkedHeterogeneity2019]]]]
+        - [[[[CLM]] - When users post, obtain, and comment on political news, it influences social network heterogeneity.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - Multiple mediation analyses showed that posting news in WhatsApp groups was associated with exposure to diverse perspectives. - [[@kibetSociallyNetworkedHeterogeneity2019]]]]
+        - [[[[CLM]] - Social network heterogeneity influences ethnic, party, and ideological polarisation).]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to regression analysis, social network heterogeneity positively influenced ethnic, ideological, and party polarization. - [[@kibetSociallyNetworkedHeterogeneity2019]]]]
+
+###### Discourse Context
+
+

@@ -1,0 +1,144 @@
+---
+title: "@yarchiPoliticalPolarizationDigital2020"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/PiZ7JTRBE
+author: Joel Chan
+date: Tue Jul 18 2023 04:03:58 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Political Polarization on the Digital Sphere: A Cross-platform, Over-time Analysis of Interactional, Positional, and Affective Polarization on Social Media
+    - Year:: 2020
+    - Author(s):: Moran Yarchi, Christian Baden, Neta Kligler-Vilenchik
+    - Abstract::
+    - Type:: Article
+    - Publication:: Political Communication
+    - URL:: https://doi/org/10.1080/10584609.2020.1785067
+    - Date Added:: [[July 18th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/QZQQU5ZU), [Web Library](https://www.zotero.org/groups/4985507/items/QZQQU5ZU)
+    - Publication Tags:: py-import
+    - PDF links::
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Jay Patel]]
+        - [ ] #checked by [[Joel Chan]]
+            - **Any relevant CLMs/EVDs to check?**
+                - yes!
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [[[[CLM]] - Interaction patterns on social media vary in homophily based on the platform.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes!
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): no
+                        - [ ] are homophilic
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - [[[[CLM]] - Interaction patterns on social media become somewhat increasingly homophilic or heterophilic over time depending on the platform.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): fixes
+                        - [x] add source
+                        - [ ] don't see the increase over time thing in the screenshots?
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - [[[[CLM]] - Individuals embedded within more homophilic interaction networks subsequently express more extreme positions or less extreme positions in their contributions.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): fixes
+                        - [ ] add: on social media
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): yes
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): fixes
+                        - [x] add source
+                        - [ ] don't see the CLM about increase in expression of extreme positions in screenshot?
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+                - [[[[CLM]] - Interactions cutting across political camps express more negative sentiment than interactions among like-minded individuals and this depends on the platform.]]
+                    - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                    - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)): fixes
+                        - [ ] rephrase to positive "express more negative sentiment"
+                    - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): ok
+                        - note: the positive version of the CLM is referenced in the screenshot and the opposing EVD from this paper is referenced!
+                    - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): n/a
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [[[[EVD]] - As shown by comparing percentages between Facebook, Twitter, and WhatsApp users, homophily was higher on Twitter and WhatsApp than Facebook. - [[@yarchiPoliticalPolarizationDigital2020]]]]
+            - **All relevant CLM and EVD mappings described:**
+                - feel like the main CLM is actually "The extent of homophily in interaction patterns varies systematically across social media platforms"
+            - **General notes**
+                - this one is a bit tricky from a "positive" clm perspective bc the general tenor of contributions seems to be to complicate/oppose common CLMs (which is super valuable!)
+        - [ ] #revised by [[Jay Patel]]
+        - [ ] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - Three key aspects of political polarization – **interactional polarization, positional polarization, and affective polarization** – and discuss their interrelation with communication practices specific to different social media.
+            - we:
+                - (1) examine why social media are believed to contribute to each aspect of polarization;
+                - (2) discuss whether each aspect can give rise to possible self-reinforcing tendencies in polarization; and
+                - (3) consider the ways in which polarization can be expected to take different shapes on different social media platforms.
+            - The first aspect of political polarization, which we call “**interactional polarization**,” focuses on a process whereby participants in a debate increasingly interact with likeminded individuals, while disengaging from interactions with others who hold opposing viewpoints.
+            - **Positional Polarization** Beyond fragmentation, political discussion on social media has also been tied to increases in antagonistic and extreme political preferences – the traditional focus of political polarization research (Fiorina & Abrams, 2008), which we refer to here as “positional polarization.” By preferentially exposing users to congenial viewpoints, social media may decrease participants’ awareness to competing views and challenging, possibly corrective information."
+            - **“affective polarization”**
+                - social media have been argued to contribute to **rising hostility in political talk toward opposing political communication**
+            - "...END framework, referring to “the characteristics of a subset of content that circulates in a social media ecosystem: a personalized, quantified blend of politically informative expression, news, and discussion seamlessly interwoven into a wider variety of socially informative content” (p. 50). Settle uses this framework to consider how particular affordances of different social media platforms – e.g., design facilities for identity maintenance, the presentation of political content, the structural importance of opinion leaders, weak ties, social feedback, and quantification – are associated with particular aspects of political polarization. Building on this framework, we will in the following discuss the key implication of such differences for our present investigation.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FD_jp_a3WCr.21.18.png?alt=media&token=3710687f-af54-48bb-a3c2-96ffd9a42154)
+        - **Case  Study**
+            - On March 24, 2016, **two Palestinian assailants stabbed and wounded an Israeli soldier near the Westbank town of Hebron. One assailant was shot dead, while the other, Abed al Fatah al-Sharif, was wounded, disarmed, and “neutralized.” Minutes later, IDF Sergeant Elor Azaria shot the incapacitated assailant in the head, killing him.**
+            - During the entire process, several representative public opinion polls showed a public split over its evaluation of Azaria and his actions. In a survey conducted in August 2016, 47% of Israelis justified the killing, agreeing that “every Palestinian who has committed an attack on Jews should be killed, even if he is caught and clearly not endangering the environment”; however, another 45% took the opposite view, agreeing that “once he has stopped endangering the environment, the Palestinian perpetrator should be handed over to law enforcement.”
+            - "The entire controversy generated considerable amounts of heated discussions, galvanizing the attention of numerous influential speakers at a political level, in the media and on social media over an extended period. By tracking these conversations on different social media over 16 months, using a computational communication science approach, we collected rich data to study interactional polarization over time and across platforms."
+        - **Data and Methods**
+            - pgs. 10-12
+                - **Data**
+                    - **source:** open posts across FB, Twitter, WhatsApp groups
+                    - **time**: March 23, 2016 to August 2, 2017
+                    - range of keywords and spellings
+                    - 249,317 contributions
+                        - 29,250 tweets
+                        - 61,772 comments on Twitter
+                        - 6,508 posts
+                            - 145,542 Facebook comments
+                        - 6,245 WhatsApp messages
+                        - Split data into quarters
+                            - days before shooting
+                            - duration of trial
+                            - between verdict and sentencing
+                            - months following sentencing
+                        - extracted relational information
+                            - 124,165 dyads on Facebook
+                            - 132,226 dyads on Twitter
+                            - 5,395 dyads on WhatsApp
+                            - total = 64,638 users
+                - **Content-based Measures**
+                    - hybrid content analysis
+                        - structural topic modeling algorithm
+                        - classified sentiment
+                    - high alpha: intercoder reliability
+                    - validated against codebook
+                - **Position**
+                    - defined as average position across all contribution posted by that user within each phase
+                        - +1 means only supportive posts
+                        - -1 means only ambivalent or oppositional posts
+                - **Sentiment**
+                    - + 1 for pos. and -1 for neg., 0 otherwise
+                    - computed av. sentiment by each user toward the other user within each phase
+                - **Network-based Measures**
+                    - avg. position expressed toward shooter within each phase
+                    - majority supported Azaria across platforms
+                    - **Homophily/Heterophily**
+                        - homophilic: between members of same camp
+                        - heterophilic: between members of different camps
+                        - ignored interactions of those who never commented in a way that enabled binary classification
+                        - aggregated by type for overall count and counts per phase
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F4KpnrPMkry.31.30.png?alt=media&token=e19376ff-4f73-44c9-bf84-2ea932374f5f)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F4lRqlNzPic.31.46.png?alt=media&token=8bbdd68c-1278-49d2-9fe1-f416d292ec9c)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FdXLiw0zxBU.31.55.png?alt=media&token=b9d752d4-9966-436b-8b2b-f5e2061dbf75)
+    - CLM and EVD summary tree
+        - [[[[CLM]] - Interaction patterns on social media vary in homophily based on the platform.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - As shown by comparing percentages between Facebook, Twitter, and WhatsApp users, homophily was higher on Twitter and WhatsApp than Facebook. - [[@yarchiPoliticalPolarizationDigital2020]]]]
+        - [[[[CLM]] - Interaction patterns on social media become somewhat increasingly homophilic or heterophilic over time depending on the platform.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to an ANOVA, there was a significant increased share of homophilic interactions on Twitter, though it decreased on WhatsApp and Facebook. - [[@yarchiPoliticalPolarizationDigital2020]]]]
+        - [[[[CLM]] - Individuals embedded within more homophilic interaction networks subsequently express more extreme positions or less extreme positions in their contributions.]]
+            - [[SupportedBy]]
+            - [[[[EVD]] - According to regression analyses, individuals on WhatsApp and Twitter became more embedded in homophilic interaction networks than Facebook users. - [[@yarchiPoliticalPolarizationDigital2020]]]]
+        - [[[[CLM]] - Interactions cutting across political camps express more negative sentiment than interactions among like-minded individuals and this depends on the platform.]]
+            - [[SupportedBy]]
+                - [[[[EVD]] - According to a factorial ANOVA, negativity was more pronounced in cross-cutting political interactions on Twitter, but not Facebook. - [[@yarchiPoliticalPolarizationDigital2020]]]]
+
+###### Discourse Context
+
+

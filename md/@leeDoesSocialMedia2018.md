@@ -1,0 +1,175 @@
+---
+title: "@leeDoesSocialMedia2018"
+url: https://roamresearch.com/#/app/dg-social-media-polarization/page/qmDSIwGua
+author: Joel Chan
+date: Mon Jul 03 2023 11:24:22 GMT-0400 (Eastern Daylight Time)
+---
+
+- metadata::
+    - Title:: Does social media use really make people politically polarized? Direct and indirect effects of social media use on political polarization in South Korea
+    - Year:: 2018
+    - Author(s):: Changjun Lee, Jieun Shin, Ahreum Hong
+    - Abstract:: To help inform the debate over whether social media is related to political polarization, we investigated the effects of social media use on changes in political view using panel data collected in South Korea (N = 6411) between 2012 and 2016. We found that, although there were no direct effects of social media use, social media indirectly contributed to polarization through increased political engagement. Those who actively used social network sites were more likely to engage in political processes, which led them to develop more extreme political attitudes over time than those who did not use social network sites. In particular, we observed a clear trend toward a more liberal direction among both politically neutral users and moderately liberal users. In this study, we highlight the role of social media in activating political participation, which eventually pushes the users toward the ideological poles. The implications of these findings are discussed.
+    - Type:: Article
+    - Publication:: Telematics and Informatics
+    - URL:: https://www.sciencedirect.com/science/article/pii/S0736585317305208
+    - Date Added:: [[July 3rd, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4985507/items/MP4AE4C9), [Web Library](https://www.zotero.org/groups/4985507/items/MP4AE4C9)
+    - Publication Tags:: Media panel Political engagement Political polarization Social media Structural equation model
+    - PDF links::
+    - Outcome::
+    - Notes Imported from Zotero
+        - [[Notes]]
+- ### [[Reading Notes]] for [[[[QUE]] - What is the relationship between social media and political polarization?]]
+    - Status::
+        - [x] #firstPass by [[Flavia Batista]]
+        - [x] #checked by [[Jay Patel]]
+            - **Any relevant CLMs/EVDs to check?**
+                - Looks good.
+            - **CLMs conform to style guide: block ref in each CLM below and then use the review CLM node roam template for each to review it:**
+                - [atomic and generalized]([[CLM]]s are **atomic, generalized assertions** about the world): yes
+                - [positive](**Positive Claims**: We primarily write "positive" CLMs, and deal with "negative" claims by way of evidential opposition (EVD Oppose CLM)):yes
+                - [source referenced in body of CLM page](The body of a [[CLM]] page should **list all sources** that assert that [[CLM]], with quotes/screenshots and page numbers (see the [[CLM]] ((UivKdOrY7)))): yes
+                - [nonredundant with CLMs in master index](**Overlapping Claims**: If CLM asserted by current paper overlaps sufficiently with CLM already in master index, use that instead of making a new one): ???
+            - **EVDs conform to style guide: block ref in each EVD below and then use the review EVD node roam template for each to review it:**
+                - [atomic]([[EVD]] nodes, like CLM nodes, should be **atomic**): yes
+                - [past tense]([[EVD]] descriptions are written in the **past tense**): yes
+                - [lower level, contextualized description](**Low Level**: Concepts are described at lower level of abstraction that is **closer to the actual observation**): yes
+                - [methodological clarity](**Methodology clarity**: Key methodological details are described, sufficient to understand the result and appraise its support/opposition for various claims): yes
+            - **All relevant CLM and EVD mappings described:**
+                - Yes
+            - **General notes**
+        - [ ] #revised by [[Flavia Batista]]
+        - [ ] #[[approved]] by [[Joel Chan]]
+    - Scratchpad
+        - **[[Jay/Claude]]: Almost perfect**
+            - Here is a nested outline summarizing the key information from the research article:
+            - **Assumptions**
+                - Theoretical assumption: Social media use contributes to political polarization (p. 245, para 1)
+                - Empirical assumption: Political participation mediates the relationship between social media use and political polarization (p. 247, para 5)
+                - Implementational assumption: Survey responses accurately capture respondents' social media use, political engagement, and political views (p. 248, Section 3.1)
+            - **Questions and hypotheses**
+                - **Questions:**
+                    - RQ1: Is **social media use** associated with polarized political ideology for **neutrals** such that neutrals become conservative or liberal? (p. 247, para 3)
+                    - RQ2: Is **social media use** associated with polarized political ideology for **moderate conservatives and moderate liberals** such that moderate conservatives become very conservative or moderate liberals become very liberal? (p. 247, para 3)
+                    - RQ3: Does **political participation mediate the effect of social media use on polarized political ideology**? (p. 247, para 5)
+                - **Hypotheses**: None stated
+            - **Prior literature**
+                - Some studies find social media is polarized while others do not, so empirical evidence is mixed (p. 246, para 2-3)
+                - Most prior studies focused on selective exposure on social media rather than direct effects of social media use on political polarization (p. 246, para 4)
+                - Social media use positively associated with political participation (p. 247, para 5)
+                - Political participation can reinforce political beliefs and attitudes (p. 247, para 6)
+            - **Knowledge gaps:**
+                - Lack of empirical evidence demonstrating a causal relationship between social media use and political polarization (p.246, para 4)
+                - Unclear whether political participation mediates the relationship between social media use and polarization (p. 247, para 5)
+                - Most prior research done in US context, need for research in other cultural contexts (p. 247, para 7)
+            - **Methods:**
+                - **Settings:**
+                    - South Korea (p. 245, abstract)
+                - **Participants: **
+                    - 6411 South Korean adults from nationally representative sample (p. 248, section 3.1)
+                - **Measures:**
+                    - Social media use: Binary self-report of active social media use each year from 2012-2016 (p. 249, section 3.2.1)
+                    - Political polarization: Self-reported political orientation from 1 (extremely liberal) to 5 (extremely conservative) in 2012 and 2016 (p. 249, section 3.3)
+                    - Political engagement: 7-item scale assessing political behaviors (p. 249, section 3.4)
+                - **Design: **
+                    - Independent variable: Social media use
+                    - Dependent variables:
+                        - Political polarization of neutrals
+                        - Political polarization of moderate partisans
+                - **Sample size:**
+                    - Initial N = 6750
+                    - Final N = 6411 after excluding those under 15 years old or with missing data (p. 248, section 3.1)
+            - **Analytic techniques:**
+                - Structural equation modeling to assess direct and indirect effects (p. 248, section 3.5)
+            - **Claims**: (Need reprompting for full alignment with our conventions)
+                - Social media did not directly contribute to political polarization for either neutral or moderately partisan users (p. 250-251).
+                    - **Supported by:**
+                        - According to structural equation modeling, social media use did not directly affect polarization of moderate conservatives or moderate liberals (p. 250, Figure 2).
+                - Social media indirectly contributed to political polarization by increasing political engagement (p. 251).
+                    - **Supported by:**
+                        - According to structural equation modeling, increased political engagement mediated the relationship between social media use and liberal polarization for both neutral users and moderate liberal users (p. 250-251, Figures 1-2).
+                            - Significant positive indirect effect of social media use on liberal polarization of neutrals via political engagement (Figure 1; p. 250).
+                            - Significant positive indirect effect of social media use on extreme liberal polarization of moderate liberals via political engagement (Figure 2; p. 251).
+            - **Results/Evidence:**
+                - According to structural equation modeling, social media use did not directly affect polarization of moderate conservatives or moderate liberals (p. 250, Figure 2).
+                - According to structural equation modeling, increased political engagement mediated the relationship between social media use and liberal polarization for both neutral users and moderate liberal users (p. 250-251, Figures 1-2).
+            - **Practical implications:**
+                - Social media companies and policymakers should consider ways to stimulate political participation without contributing to polarization (p. 252, para 2)
+            - **Theoretical & ontological implications:**
+                - Political engagement can lead to attitude polarization, challenging assumption that political participation is inherently positive (p. 252, para 1)
+                - A recursive relationship likely exists between political participation and political attitudes (p. 252, para 1)
+                    - Social media use -> Political Engagement <-> Attitude Polarization
+            - **Limitations:**
+                - Social media use measured dichotomously rather than by frequency or time spent (p. 253, para 3)
+                - Political polarization focused on shifts toward extreme attitudes, not disappearance of moderates (p. 253, para 4)
+                - Data collected during a period of declining support for the conservative president (p. 253, para 5)
+            - **Future research:**
+                - Examine the nature of political participation stimulated by social media (p. 252, para 2)
+                - Reconsider whether polarization is problematic if stemming from increased understanding (p. 252, para 3)
+                - Identify types of social media use linked to political participation (p. 252, para 4)
+                - Use panel data from other cultural contexts (p. 253, para 6)
+        - **Flavia**
+            - **Context**: investigates the effects of social media use on changes in political view using panel data collected in South Korea (N=6,411) between 2012 and 2016.
+            - **Key Claims**: Social media indirectly contributes to polarization through increased political engagement.
+                - **Methods**
+                    - **Participants and setting**: Survey Panel data conducted by the Korea media Panel (KMP), which surveyed adult South Koreans (N=6,411)
+                        - p. 10
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FYGB3LdqFak.24.31%20PM.png?alt=media&token=dc5b5a3d-9eac-43ad-87d6-9ac615e10bc2)
+                    - **Materials**:questions from the survey which asked about social media use, political polarization, and political engagement
+                        - p. 11
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FMrI9w1oQzY.29.45%20PM.png?alt=media&token=8446fef0-4026-42bc-bdd2-ae6824195b67)
+                            - p. 12
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FnpuKFkp9dC.30.28%20PM.png?alt=media&token=bc2fd5c3-2f58-4428-a3e7-26ad977cb317)
+                    - **Outcome Measure**: Political polarization, measured using the question "how politically conservative or liberal are you?" and a scale ranging from 1 (extremely liberal) to 5 (extremely conservative).
+                        - p. 11
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FC-iGfcM59F.27.55%20PM.png?alt=media&token=46b1cafc-c140-49f1-9a76-bae4ffc28dfa)
+                    - **Analysis**:  Structural equation modeling (SEM) technique
+                        - p. 12-13
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fwv5SMjRH3p.31.31%20PM.png?alt=media&token=069e3941-9a5f-48db-9de4-7665afe2192b)
+                            - p. 13: equations
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F7DmRTzti4I.32.28%20PM.png?alt=media&token=0277239c-cf13-4bf8-a36a-5e61350e1b17)
+            - **Key Results**:  Participants who actively used social network sites were more likely to engage in political processes, which led them to develop more extreme political attitudes over time than those who did not use social network sites
+                - For neutrals, social media use was negatively associated with a shift towards conservative, and positively associated with a shift towards liberal
+                - social media use did not influence a shift in moderate partisans toward extreme ideologies
+                - for neutrals, social media was indirectly associated with a shift towards liberal that was mediated by political engagement.
+                - Similar to neutrals, social media use showed an indirect yet positive effect on polarization for moderate liberals via increased polarization
+                - Social media use by liberals has a positive association with political engagement, and in turn, political engagement has a positive association with political polarization toward very liberal
+                - For moderate conservatives, there was no direct or indirect effect of social media use on view changes toward extreme conservative, even though we found a positive association between social media use and political engagement.
+    - CLM and EVD summary tree
+        - [[[[CLM]] - Social media has a direct effect on political polarization.]]
+            - p. 4
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FKY_tEwraqb.02.27%20PM.png?alt=media&token=4c8c443a-5b0f-4042-9e1d-58c5c3f80363)
+                - [[SupportedBy]]
+                    - [[[[EVD]] - According to SEM modeling, social media use was negatively associated with a shift towards conservatism for  political neutrals, and positively associated with a shift towards liberalism - [[@leeDoesSocialMedia2018]]]]
+                        - p. 14
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FhskMAQ835U.49.17%20PM.png?alt=media&token=2d481950-7505-4854-86b9-5c8e152e7e97)
+                            - p. 26
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FpfDVS8XldU.51.01%20PM.png?alt=media&token=d82fcabc-7636-4699-bd41-2c90c38f96ae) (Figure 1)
+                - [[OpposedBy]]
+                    - [[[[EVD]] - According to SEM modeling, social media use did not influence moderate partisans towards more extreme ideologies.- [[@leeDoesSocialMedia2018]]]]
+                        - p. 14
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FdS-69DiD6_.49.42%20PM.png?alt=media&token=ca15858c-d4e5-4286-ad1a-460dd14ce5df)
+                            - p. 27
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FyIeqI9LzOS.51.36%20PM.png?alt=media&token=7e021901-68ac-4c64-be30-af70a47619ce) (Figure 2)
+        - [[[[CLM]] - Social media has an indirect effect on political polarization mediated by political engagement.]]
+            - p.4
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FurD03jfmv1.00.53%20PM.png?alt=media&token=b4ce491d-2bde-4656-a3f3-574b5351be95)
+                - [[SupportedBy]]
+                    - [[[[EVD]] - SEM modeling showed that, among neutrals, social media use was positively associated with political engagement, which was also positively associated with political polarization toward liberalism. - [[@leeDoesSocialMedia2018]]]]
+                        - p. 15
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2F8urNy8hJq3.58.00%20PM.png?alt=media&token=0e4be587-4921-4f11-b703-1ed82a7e2aac)
+                            - p. 26
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FkOV9sEpiRT.03.19%20PM.png?alt=media&token=0ec9966e-bcce-4098-8fef-996fab4b9cc4) (Figure 1)
+                    - [[[[EVD]] - SEM modeling of social media use showed an indirect yet positive effect on polarization for moderate liberals via increased polarization - [[@leeDoesSocialMedia2018]]]]
+                        - p. 15
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2Fn-wkxjeZ1N.58.22%20PM.png?alt=media&token=9e4230ea-244c-4f72-9603-de19ba3861c9)
+                            - p. 27
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdg-social-media-polarization%2FOLrNisboPZ.04.04%20PM.png?alt=media&token=4cc4401b-662a-4a21-9bf8-a06adda4406b) (Figure 2)
+                        - [[[[EVD]] -  SEM modeling showed that social media use by liberals was positively associated with political engagement, and in turn, was positively associated with political polarization toward strong liberalism - [[@leeDoesSocialMedia2018]]]]
+                    - [[OpposedBy]]
+                        - [[[[EVD]] - SEM modeling showed that, for moderate conservatives, there was no direct or indirect effect of social media use for adopting extreme conservatism - [[@leeDoesSocialMedia2018]]]]
+
+###### Discourse Context
+
+
